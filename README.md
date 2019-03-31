@@ -7,6 +7,16 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
  - [幻灯片](#carousel)
  - [视图](#views)
  - [投票](#vote)
+ - [互动](#active)
+ - [权限控制](#permissions)
+ - [词汇表](#taxonomy)
+ - [SEO](#seo)
+ - [移动端](#mobile)
+ - [管理](#manage)
+ - [官网文档](#doc)
+
+
+
 
 
 <h4 id="carousel">幻灯片 Carousel</h4>
@@ -48,3 +58,31 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 * Views Database Connector: 可以让views连接非Drupal数据库表的外部数据库表 [安装量：1w+](https://www.drupal.org/project/views_database_connector)
 
 * Views Bulk Operations(VBO): 为输出的视图添加可批量操作，给有权限的用户自定义查询进而批量更新删除数据 [安装量：317w+](https://www.drupal.org/project/views_bulk_operations)
+
+<h4 id="doc">Drupal 官网文档</h4>
+ 
+* 添加css和js [官网](https://www.drupal.org/docs/8/theming/adding-stylesheets-css-and-javascript-js-to-a-drupal-8-theme)
+
+* 建立子主题 [官网](https://www.drupal.org/docs/8/theming-drupal-8/creating-a-drupal-8-sub-theme-or-sub-theme-of-sub-theme)
+
+* JavaScript API 概览 [官网](https://www.drupal.org/docs/7/api/javascript-api/javascript-api-overview)
+
+* 主题定义.info.yml [官网](https://www.drupal.org/docs/8/theming-drupal-8/defining-a-theme-with-an-infoyml-file)
+
+* 在主题中添加区域 [官网](https://www.drupal.org/docs/8/theming/adding-regions-to-a-theme)
+
+* Drupal 如何架构CSS [官网](https://www.drupal.org/docs/develop/standards/css/css-architecture-for-drupal-8)
+
+* Seven UI 样式指南 [官网](https://groups.drupal.org/node/283223)
+
+* Drupal 编码规范 [官网](https://www.drupal.org/docs/develop/standards)
+
+* Drupal JavaScript API 文档和注释规范 [官网](https://www.drupal.org/docs/develop/standards/javascript/javascript-api-documentation-and-comment-standards)
+
+* JavaScript 编码规范 [官网](https://www.drupal.org/docs/develop/standards/javascript/javascript-coding-standards)
+
+* ESLint settings [官网](https://www.drupal.org/docs/develop/standards/javascript/eslint-settings)
+
+* jQuery 编码规范 [官网](https://www.drupal.org/docs/develop/standards/javascript/jquery-coding-standards)
+
+* 谁使用了Drupal？ [官网](https://www.drupal.com/showcases)
