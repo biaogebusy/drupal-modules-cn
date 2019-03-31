@@ -16,9 +16,6 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
  - [官网文档](#doc)
 
 
-
-
-
 <h4 id="carousel">幻灯片 Carousel</h4>
 
 | 模块 | 描述 | 安装量 |
@@ -46,6 +43,13 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 | Views Infinite Scroll: |页面滚动到底部Ajax自动加载，也可配置成按钮触发，轻量级解决方案 | [126w+](https://www.drupal.org/project/views_infinite_scroll)|
 | Views Database Connector | 可以让views连接非Drupal数据库表的外部数据库表 | [1w+](https://www.drupal.org/project/views_database_connector)|
 | Views Bulk Operations(VBO) | 为输出的视图添加可批量操作，给有权限的用户自定义查询进而批量更新删除数据 | [317w+](https://www.drupal.org/project/views_bulk_operations)|
+| Semantic Views | 该模块可以方便修改Views生成的html标签和class而无需覆写模板 | [15w+](https://www.drupal.org/project/semanticviews)|
+| Views Accordion | 通过Views来输出一个可折叠的手风琴效果组件，依赖jQuery UI Accordion | [37w+](https://www.drupal.org/project/views_accordion) |
+| Views Flipped Table | 把视图输出的表格行和列进行翻转，当字段很多的时候非常有用 | [4.3w+](https://www.drupal.org/project/views_flipped_table)|
+| Better Exposed Filters | 用户体验更好的视图过滤表单模块 | [152w](https://www.drupal.org/project/better_exposed_filters)|
+| Masonry Views | 使用Masonry API 构建的瀑布流模块 | [7.9w](https://www.drupal.org/project/masonry_views)|
+| A Simple Timeline | 使用views输出简单的时间轴模块 | [1.3w](https://www.drupal.org/project/simple_timeline)|
+| Views data export | 从自定义的视图从导出数据（csv, xls, doc, txt, xml）
 
 <h4 id="doc">Drupal 官网文档</h4>
  
