@@ -49,7 +49,8 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 | Better Exposed Filters | 用户体验更好的视图过滤表单模块 | [152w](https://www.drupal.org/project/better_exposed_filters)|
 | Masonry Views | 使用Masonry API 构建的瀑布流模块 | [7.9w](https://www.drupal.org/project/masonry_views)|
 | A Simple Timeline | 使用views输出简单的时间轴模块 | [1.3w](https://www.drupal.org/project/simple_timeline)|
-| Views data export | 从自定义的视图从导出数据（csv, xls, doc, txt, xml）
+| Views data export | 从自定义的视图从导出数据（csv, xls, doc, txt, xml）| [107w+](https://www.drupal.org/project/views_data_export)|
+
 
 <h4 id="doc">Drupal 官网文档</h4>
  
