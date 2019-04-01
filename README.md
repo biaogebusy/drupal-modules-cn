@@ -6,6 +6,10 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 #### UI
  - [幻灯片](#carousel)
  - [视图](#views)
+ - [内容](#node)
+ - [官网文档](#doc)
+
+#### TODO
  - [投票](#vote)
  - [互动](#active)
  - [权限控制](#permissions)
@@ -13,8 +17,6 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
  - [SEO](#seo)
  - [移动端](#mobile)
  - [管理](#manage)
- - [官网文档](#doc)
-
 
 <h4 id="carousel">幻灯片 Carousel</h4>
 
@@ -32,6 +34,7 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 | [Vegas @d7](https://www.drupal.org/project/vegas) | 给页面添加全屏的背景图片幻灯片 |  1w+|
 | [Juicebox](https://www.drupal.org/project/juicebox) | 可构建HTML5响应式图片库，提供了强大的跨设备解决方案  | 12w|
 | [Node Gallery @d7](https://www.drupal.org/project/node_gallery) | 把node使用幻灯片显示 | 15+|
+
 
 <h4 id="views">视图 Views</h4>
 
@@ -52,9 +55,19 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 | [Views data export](https://www.drupal.org/project/views_data_export) | 从自定义的视图从导出数据（csv, xls, doc, txt, xml）| 107w+|
 
 
+<h4 id="node">内容 Node </h4>
+
+| 模块 | 描述 | 安装量 |
+| --- | ---- | :---: |
+| [Weight](https://www.drupal.org/project/weight) | 对内容启用权重排序，对非重视时间节点的内容很有用，比如产品，你想要的内容 | 38w+ |
+| [Exclude Node Title](https://www.drupal.org/project/exclude_node_title) | 前台页面排除显示标题，有些场景下，你并不希望显示内容的标题 | 26w+ |
+| [Flippy](https://www.drupal.org/project/flippy) | 为内容添加上一篇/下一篇的功能，这在很多的门户网站中很常见 | 6w+ |
+| [Scheduler](https://www.drupal.org/project/scheduler) | 可对内容进行定时发布或者未发布 | 119w+| 
+| [linkit](https://www.drupal.org/project/Linkit) | 在编辑器中快速插入节点，用户链接，分类术语，文件和外部链接的模块 | 137w+ |
+
 <h4 id="doc">Drupal 官网文档</h4>
- 
- | 标题 | 描述 |
+
+| 标题 | 描述 |
 | --- | ---- | 
 | [添加css和js](https://www.drupal.org/docs/8/theming/adding-stylesheets-css-and-javascript-js-to-a-drupal-8-theme) | 在Drupal8 中添加css和javascript |
 | [建立子主题](https://www.drupal.org/docs/8/theming-drupal-8/creating-a-drupal-8-sub-theme-or-sub-theme-of-sub-theme) | 关于建立子主题的文档 |
