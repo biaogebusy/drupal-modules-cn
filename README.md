@@ -64,6 +64,13 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 | [Flippy](https://www.drupal.org/project/flippy) | 为内容添加上一篇/下一篇的功能，这在很多的门户网站中很常见 | 6w+ |
 | [Scheduler](https://www.drupal.org/project/scheduler) | 可对内容进行定时发布或者未发布 | 119w+| 
 | [linkit](https://www.drupal.org/project/Linkit) | 在编辑器中快速插入节点，用户链接，分类术语，文件和外部链接的模块 | 137w+ |
+| [Add another](https://www.drupal.org/project/addanother) | 发布节点后，自动新建节点，快速发布内容，节省操作 | 18w+ |
+| [FullCalendar](https://www.drupal.org/project/fullcalendar) | 使用日历来显示字段（使用时间对内容分类） | 21w+ |
+| [Calendar @d7](https://www.drupal.org/project/calendar) | 多种日历格式显示节点字段 | 144w+ |
+| [Node clone @d7](https://www.drupal.org/project/node_clone) | 允许用户对已存在的内容节点进行克隆| 168w+ |
+| [Bulk Delete @d7](https://www.drupal.org/project/bulkdelete) | 一键删除指定内容类型的内容节点 | 1.9w |
+
+
 
 <h4 id="doc">Drupal 官网文档</h4>
 
