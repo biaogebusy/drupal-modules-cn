@@ -69,6 +69,11 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 | [Calendar @d7](https://www.drupal.org/project/calendar) | 多种日历格式显示节点字段 | 144w+ |
 | [Node clone @d7](https://www.drupal.org/project/node_clone) | 允许用户对已存在的内容节点进行克隆| 168w+ |
 | [Bulk Delete @d7](https://www.drupal.org/project/bulkdelete) | 一键删除指定内容类型的内容节点 | 1.9w |
+| [Inline Entity Form](https://www.drupal.org/project/inline_entity_form) | 如果B关联A内容类型，可以在A的内容维护页面新建B节点 | 214w+ |
+| [Metatag](https://www.drupal.org/project/metatag)| SEO 利器，设置页面Meta元数据信息 | 443w+ |
+| [Diff](https://www.drupal.org/project/diff)| 跟踪node节点的版本变化，跟踪修改| 268w+ |
+| [Node Title Validation](https://www.drupal.org/project/node_title_validation) | 可对节点标题进行验证（字符长度、黑名单、唯一性）| 1.8w+ |
+| [FAQ Field](https://www.drupal.org/project/faqfield)| 可快速创建 FAQ 页面（常见问题解答）| 7.5w+ |
 
 
 
