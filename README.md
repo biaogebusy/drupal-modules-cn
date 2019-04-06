@@ -7,10 +7,11 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
  - [幻灯片](#carousel)
  - [视图](#views)
  - [内容](#node)
+ - [投票](#vote)
+ - [社交](#sns)
  - [官网文档](#doc)
 
 #### TODO
- - [投票](#vote)
  - [互动](#active)
  - [权限控制](#permissions)
  - [词汇表](#taxonomy)
@@ -74,6 +75,26 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 | [Diff](https://www.drupal.org/project/diff)| 跟踪node节点的版本变化，跟踪修改| 268w+ |
 | [Node Title Validation](https://www.drupal.org/project/node_title_validation) | 可对节点标题进行验证（字符长度、黑名单、唯一性）| 1.8w+ |
 | [FAQ Field](https://www.drupal.org/project/faqfield)| 可快速创建 FAQ 页面（常见问题解答）| 7.5w+ |
+
+<h4 id="vote">投票</h4>
+
+| 模块 | 描述 | 安装量 |
+| --- | ---- | :---: |
+| [Flag](https://www.drupal.org/project/flag)| 重量级模块，提供灵活的标记系统，可提供任何内容类型的实体提供任意数量的标记 | 150w+ |
+| [Vote Up/Down](https://www.drupal.org/project/vote_up_down)| 允许对实体节点进行投票 | 26w+ |
+| [Fivestar @d7](https://www.drupal.org/project/fivestar)| 默认提供了几种风格的五星评价 | 73w+ |
+| [Rate](https://www.drupal.org/project/rate)| 评价模块，提供点赞，五星，yes/no等选项，另外还有一些统计票数可选| 21w+ |
+| [Star Rating](https://www.drupal.org/project/starrating)| 提供星级评价字段，在字段显示中可选多种评价样式| 3W+|
+
+<h4 id="sns">社交</h4>
+
+| 模块 | 描述 | 安装量 |
+| --- | ---- | :---: |
+| [Privatemsg @d7](https://www.drupal.org/project/privatemsg)| 发送私人信息，论坛或者社交网站 | 37w+ |
+| [Bookabel Entities Everywhere](https://www.drupal.org/project/bee)| 为任何节点添加预订功能，粒度可以细分到小时或者每日 | 3.7k+ |
+| [oLogin](https://www.drupal.org/project/ologin)| 提供国内常用的第三方社交平台统一登录 | 1.5k+ |
+| [Wechat](https://www.drupal.org/project/wechat)| Durpal微信公众平台接口，提供基本功能 | 1.1w+ |
+| [Organic groups](https://www.drupal.org/project/og)| 允许用户创建自己的组 | 113w+ |
 
 
 
