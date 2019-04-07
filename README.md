@@ -7,13 +7,13 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
  - [幻灯片](#carousel)
  - [视图](#views)
  - [内容](#node)
+ - [权限控制](#permissions)
  - [投票](#vote)
  - [社交](#sns)
  - [官网文档](#doc)
 
 #### TODO
  - [互动](#active)
- - [权限控制](#permissions)
  - [词汇表](#taxonomy)
  - [SEO](#seo)
  - [移动端](#mobile)
@@ -60,6 +60,9 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
+| [Paragraphs](https://www.drupal.org/project/paragraphs)| 创作内容的新方式，在任何内容类型上添加段落字段，段落还可以互相嵌套，从简单的文本或图片到复杂的图片轮播，还可以随意重新排序，[DEMO](https://paragraphs.site-showcase.com/) | 203w+ |
+| [Classy Paragraphs](https://www.drupal.org/project/classy_paragraphs)| 给Paragraphs字段添加类，方便为段落区块定制不同的样式风格 | 11w+ |
+| [Content lock](https://www.drupal.org/project/content_lock)| 内容锁定，阻止其他用户同时对同一节点编辑，可按节点类型或按格式；可设置避免意外丢失内容，如关闭浏览器链接未保存而离开编辑表单等| 22w+ |
 | [Weight](https://www.drupal.org/project/weight) | 对内容启用权重排序，对非重视时间节点的内容很有用，比如产品，你想要的内容 | 38w+ |
 | [Exclude Node Title](https://www.drupal.org/project/exclude_node_title) | 前台页面排除显示标题，有些场景下，你并不希望显示内容的标题 | 26w+ |
 | [Flippy](https://www.drupal.org/project/flippy) | 为内容添加上一篇/下一篇的功能，这在很多的门户网站中很常见 | 6w+ |
@@ -75,6 +78,17 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 | [Diff](https://www.drupal.org/project/diff)| 跟踪node节点的版本变化，跟踪修改| 268w+ |
 | [Node Title Validation](https://www.drupal.org/project/node_title_validation) | 可对节点标题进行验证（字符长度、黑名单、唯一性）| 1.8w+ |
 | [FAQ Field](https://www.drupal.org/project/faqfield)| 可快速创建 FAQ 页面（常见问题解答）| 7.5w+ |
+
+<h4 id="permissions">权限控制</h4>
+
+| 模块 | 描述 | 安装量 |
+| --- | ---- | :---: |
+| [Permissions by Term](https://www.drupal.org/project/permissions_by_term)| Drupal 默认内容类型按角色给访问权限，结合该模块可以让某内容节点只允许某些角色访问或者指定用户访问 | 8w+ |
+| [Content Access](https://www.drupal.org/project/content_access)| 按角色和作者统一设置管理内容类型的访问、编辑、删除权限 | 58w+ |
+| [Private content](https://www.drupal.org/project/private_content)| 简单的 Node 节点访问控制模块 | 1.3k+ |
+| [Block Content Permissions](https://www.drupal.org/project/block_content_permissions)| 开放区块管理权限，允许指定角色新建、更新、删除区块内容 | 4.8w+ |
+
+
 
 <h4 id="vote">投票</h4>
 
