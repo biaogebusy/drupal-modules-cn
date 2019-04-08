@@ -7,17 +7,18 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
  - [幻灯片](#carousel)
  - [视图](#views)
  - [内容](#node)
+ - [评论](#comments)
  - [权限控制](#permissions)
  - [投票](#vote)
  - [社交](#sns)
  - [发行版](#release)
+ - [SEO](#seo)
  - [官网文档](#doc)
 
 #### TODO
  - [主题](#themes)
  - [互动](#active)
  - [词汇表](#taxonomy)
- - [SEO](#seo)
  - [移动端](#mobile)
  - [管理](#manage)
 
@@ -81,6 +82,13 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 | [Node Title Validation](https://www.drupal.org/project/node_title_validation) | 可对节点标题进行验证（字符长度、黑名单、唯一性）| 1.8w+ |
 | [FAQ Field](https://www.drupal.org/project/faqfield)| 可快速创建 FAQ 页面（常见问题解答）| 7.5w+ |
 
+<h4 id="comments">评论 </h4>
+
+| 模块 | 描述 | 安装量 |
+| --- | ---- | :---: |
+| [AJAX Comments](https://www.drupal.org/project/ajax_comments)| 提供ajax评论，例如Facebook, Google+, vk.com等 | 12w+ |
+
+
 <h4 id="permissions">权限控制</h4>
 
 | 模块 | 描述 | 安装量 |
@@ -117,6 +125,14 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
 | [Open Social](https://www.drupal.org/project/social)| 该发行版是一个开箱即用的在线社区、知识文档分享解决方案 [Demo](https://demo.getopensocial.com/) | 7.6w+ |
+
+<h4 id="seo">SEO</h4>
+
+| 模块 | 描述 | 安装量 |
+| --- | ---- | :---: |
+| [Easy Breadcrumb](https://www.drupal.org/project/easy_breadcrumb)| 该模块使用当前路径别名和当期标题自动生成面包屑路径 | 42w+ |
+| [SEO Checklist](https://www.drupal.org/project/seo_checklist)| 提供SEO核对清单和良好的SEo策略，可以有效地检查SEO代办事项 | 37w+ |
+| [Pathauto](https://www.drupal.org/project/pathauto)| 创建自定义路径别名 | 679w+ |
 
 <h4 id="doc">Drupal 官网文档</h4>
 
