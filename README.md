@@ -13,6 +13,7 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
  - [官网文档](#doc)
 
 #### TODO
+ - [主题](#themes)
  - [互动](#active)
  - [词汇表](#taxonomy)
  - [SEO](#seo)
