@@ -10,6 +10,7 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
  - [权限控制](#permissions)
  - [投票](#vote)
  - [社交](#sns)
+ - [发行版](#release)
  - [官网文档](#doc)
 
 #### TODO
@@ -111,7 +112,11 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 | [Wechat](https://www.drupal.org/project/wechat)| Durpal微信公众平台接口，提供基本功能 | 1.1w+ |
 | [Organic groups](https://www.drupal.org/project/og)| 允许用户创建自己的组 | 113w+ |
 
+<h4 id="release">发行版</h4>
 
+| 模块 | 描述 | 安装量 |
+| --- | ---- | :---: |
+| [Open Social](https://www.drupal.org/project/social)| 该发行版是一个开箱即用的在线社区、知识文档分享解决方案 [Demo](https://demo.getopensocial.com/) | 7.6w+ |
 
 <h4 id="doc">Drupal 官网文档</h4>
 
