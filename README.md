@@ -13,6 +13,7 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
  - [社交](#sns)
  - [发行版](#release)
  - [SEO](#seo)
+ - [性能](#performance)
  - [官网文档](#doc)
 
 #### TODO
@@ -133,6 +134,17 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 | [Easy Breadcrumb](https://www.drupal.org/project/easy_breadcrumb)| 该模块使用当前路径别名和当期标题自动生成面包屑路径 | 42w+ |
 | [SEO Checklist](https://www.drupal.org/project/seo_checklist)| 提供SEO核对清单和良好的SEo策略，可以有效地检查SEO代办事项 | 37w+ |
 | [Pathauto](https://www.drupal.org/project/pathauto)| 创建自定义路径别名 | 679w+ |
+| [Redirect](https://www.drupal.org/project/redirect)| URL 路径重定向 | 27w+ |
+| [Search 404](https://www.drupal.org/project/search404)| 出现404错误时，显示搜索页面 | 39w+ |
+| [XML Sitemap](https://www.drupal.org/project/xmlsitemap) | 创建符合规范的站点地图索引，有利于搜索引擎抓取收录 | 240w+ |
+| [Redirect 403 to User Login](https://www.drupal.org/project/r4032login) | 将403错误页面重定向到/user/login页面，并显示一条消息，一旦登录成功，返回最初请求的页面| 29w+ |
+
+<h4 id="performance">性能</h4>
+
+| 模块 | 描述 | 安装量 |
+| --- | ---- | :---: |
+| [Static Server](https://www.drupal.org/project/static_server) | 配置静态服务器的静态文件，以便调用 | 2.5k+ |
+
 
 <h4 id="doc">Drupal 官网文档</h4>
 
