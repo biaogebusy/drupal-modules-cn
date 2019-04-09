@@ -1,9 +1,7 @@
 ## Drupal modules 中文
 Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加。
 
-### 目录
-
-#### UI
+### 分类
  - [幻灯片](#carousel)
  - [视图](#views)
  - [内容](#node)
@@ -16,7 +14,7 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
  - [性能](#performance)
  - [官网文档](#doc)
 
-#### TODO
+### TODO
  - [主题](#themes)
  - [互动](#active)
  - [词汇表](#taxonomy)
