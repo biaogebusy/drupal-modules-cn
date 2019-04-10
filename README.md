@@ -5,6 +5,7 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
  - [幻灯片](#carousel)
  - [视图](#views)
  - [内容](#node)
+ - [分类术语](#taxonomy)
  - [评论](#comments)
  - [权限控制](#permissions)
  - [投票](#vote)
@@ -17,7 +18,6 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 ### TODO
  - [主题](#themes)
  - [互动](#active)
- - [词汇表](#taxonomy)
  - [移动端](#mobile)
  - [管理](#manage)
 
@@ -80,6 +80,16 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 | [Diff](https://www.drupal.org/project/diff)| 跟踪node节点的版本变化，跟踪修改| 268w+ |
 | [Node Title Validation](https://www.drupal.org/project/node_title_validation) | 可对节点标题进行验证（字符长度、黑名单、唯一性）| 1.8w+ |
 | [FAQ Field](https://www.drupal.org/project/faqfield)| 可快速创建 FAQ 页面（常见问题解答）| 7.5w+ |
+
+<h4 id="taxonomy">分类术语</h4>
+
+| 模块 | 描述 | 安装量 |
+| --- | ---- | :---: |
+| [Taxonomy Term Reference Tree Widget](https://www.drupal.org/project/term_reference_tree)| 树形展示分类术语词汇表 | 18w+ |
+| [Simple hierarchical select](https://www.drupal.org/project/shs) | Ajax 联动方式展示分类术语，支持views | 21w+ |
+| [Taxonomy menu](https://www.drupal.org/project/taxonomy_menu)| 使用分类术语的层级结构快速构建一个菜单 | 73w+ |
+| [Taxonomy Manager](https://www.drupal.org/project/taxonomy_manager) | 该模块提供一个强大的分类术语管理界面，可批量删除添加，支持ajax，导出等 | 51w+ |
+
 
 <h4 id="comments">评论 </h4>
 
