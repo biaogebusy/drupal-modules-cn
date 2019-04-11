@@ -6,6 +6,8 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
  - [视图](#views)
  - [内容](#node)
  - [分类术语](#taxonomy)
+ - [管理](#manage)
+ - [移动设备](#mobile)
  - [评论](#comments)
  - [权限控制](#permissions)
  - [投票](#vote)
@@ -18,8 +20,6 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 ### TODO
  - [主题](#themes)
  - [互动](#active)
- - [移动端](#mobile)
- - [管理](#manage)
 
 <h4 id="carousel">幻灯片 Carousel</h4>
 
@@ -89,6 +89,24 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 | [Simple hierarchical select](https://www.drupal.org/project/shs) | Ajax 联动方式展示分类术语，支持views | 21w+ |
 | [Taxonomy menu](https://www.drupal.org/project/taxonomy_menu)| 使用分类术语的层级结构快速构建一个菜单 | 73w+ |
 | [Taxonomy Manager](https://www.drupal.org/project/taxonomy_manager) | 该模块提供一个强大的分类术语管理界面，可批量删除添加，支持ajax，导出等 | 51w+ |
+
+<h4 id="manage">管理</h4>
+
+| 模块 | 描述 | 安装量 |
+| --- | ---- | :---: |
+|[Module filter](https://www.drupal.org/project/module_filter)| 一个很复杂的Drupal站点，可能会包含很多的模块，该模块可以提高管理模块的效率 | 299w+ |
+|[Read only mode](https://www.drupal.org/project/readonlymode)| 当站点设置为维护模式时，可访问内容，但不允许添加发布内容 | 8w+ |
+| [Admin Toolbar](https://www.drupal.org/project/admin_toolbar)| 该模块可以增强默认的Drupal工具栏菜单，添加下拉功能，从而减少点击链接路径，轻松访问各个管理页面 | 225w+ |
+| [Rules](https://www.drupal.org/project/rules)| 重量级的模块，允许站点管理员根据发生的事件（内容更新，用户登录，访问等等），执行指定的操作 | 324w+ |
+|[SMTP Authentication Support](https://www.drupal.org/project/smtp)| 发送电子邮件到SMTP服务器，不使用PHP mail(),如果php支持，可以使用SSL连接 | 116w+ |
+
+<h4 id="mobile">移动设备</h4>
+
+| 模块 | 描述 | 安装量 |
+| --- | ---- | :---: |
+|[Mobile sliding menu](https://www.drupal.org/project/mmenu)| 使用mmenu jQuery 插件构建的移动端菜单，高度自定义配置，使用体验挺好 | 2.9w+ |
+|[FooTable](https://www.drupal.org/project/footable)| 使用jQuery FooTable插件构建的模块，创建响应式表格，在很宽的表格中，在很小的屏幕下也可以正常显示，通过隐藏或者折叠某些列 | 4.4w+ |
+| [FitVids](https://www.drupal.org/project/fitvids)| 如果你的网站需要响应显示嵌入的视频，可以考虑该模块，HTML5就没有必要了 | 15w+ |
 
 
 <h4 id="comments">评论 </h4>
