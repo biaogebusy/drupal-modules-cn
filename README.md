@@ -12,6 +12,7 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
  - [社交](#sns)
  - [发行版](#release)
  - [SEO](#seo)
+ - [编码规范](#standards)
  - [性能](#performance)
  - [官网文档](#doc)
 
@@ -146,6 +147,12 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 | [Search 404](https://www.drupal.org/project/search404)| 出现404错误时，显示搜索页面 | 39w+ |
 | [XML Sitemap](https://www.drupal.org/project/xmlsitemap) | 创建符合规范的站点地图索引，有利于搜索引擎抓取收录 | 240w+ |
 | [Redirect 403 to User Login](https://www.drupal.org/project/r4032login) | 将403错误页面重定向到/user/login页面，并显示一条消息，一旦登录成功，返回最初请求的页面| 29w+ |
+
+<h4 id="standards">编码规范</h4>
+
+| 模块 | 描述 | 安装量 |
+| --- | ---- | :---: |
+| [Coder](https://www.drupal.org/project/coder) | 根据最佳实践编码规范检查你的Drupal代码，注意该文件并不是模块，而是命令行工具 | 100w+ |
 
 <h4 id="performance">性能</h4>
 
