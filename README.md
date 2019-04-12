@@ -7,6 +7,7 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
  - [内容](#node)
  - [分类术语](#taxonomy)
  - [管理](#manage)
+ - [编辑器](#editor)
  - [移动设备](#mobile)
  - [评论](#comments)
  - [权限控制](#permissions)
@@ -25,18 +26,18 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
-| [Slick Carousel](https://www.drupal.org/project/slick) | 强大响应式且性能优异的图片轮播解决方案 | 45w+|
-| [Views Slideshow](https://www.drupal.org/project/views_slideshow)| 最受欢迎的幻灯片模块，可放任何内容 | 215w+|
+| [Slick Carousel](https://www.drupal.org/project/slick) | 强大响应式且性能优异的图片轮播解决方案 | 45w+ |
+| [Views Slideshow](https://www.drupal.org/project/views_slideshow) | 最受欢迎的幻灯片模块，可放任何内容 | 215w+ |
 | [Colorbox](https://www.drupal.org/project/colorbox) | 轻量级高可定制幻灯片模块，高度集成在drupal中  | 252w+ |
-| [Colorbox Node @d7](https://www.drupal.org/project/colorbox_node)| 可以把node,user,views,webform等实体显示在弹窗  | 16w+|
-| [Flex Slider](https://www.drupal.org/project/flexslider) | 响应式，支持移动设备手势滑动  | 71w+|
-| [Views Nivo slider](https://www.drupal.org/project/views_nivo_slider) | 有很多的效果  | 14w+|
-| [Field Slideshow](https://www.drupal.org/project/field_slideshow) | 让内容的图片多值字段支持幻灯片，使用jQuery cycle实现  | 17w+|
-| [jCarousel](https://www.drupal.org/project/jcarousel) | 可以把任何内容或图片转换成轮播组件，集成视图，开放一些API |  59w+|
-| [Owl Carousel](https://www.drupal.org/project/owlcarousel) | 支持响应式、移动手势、高定制幻灯片，有可用的回调，自定义事件 | 21w+|
-| [Vegas @d7](https://www.drupal.org/project/vegas) | 给页面添加全屏的背景图片幻灯片 |  1w+|
+| [Colorbox Node @d7](https://www.drupal.org/project/colorbox_node) | 可以把node,user,views,webform等实体显示在弹窗  | 16w+ |
+| [Flex Slider](https://www.drupal.org/project/flexslider) | 响应式，支持移动设备手势滑动  | 71w+ |
+| [Views Nivo slider](https://www.drupal.org/project/views_nivo_slider) | 有很多的效果  | 14w+ |
+| [Field Slideshow](https://www.drupal.org/project/field_slideshow) | 让内容的图片多值字段支持幻灯片，使用jQuery cycle实现  | 17w+ |
+| [jCarousel](https://www.drupal.org/project/jcarousel) | 可以把任何内容或图片转换成轮播组件，集成视图，开放一些API |  59w+ |
+| [Owl Carousel](https://www.drupal.org/project/owlcarousel) | 支持响应式、移动手势、高定制幻灯片，有可用的回调，自定义事件 | 21w+ |
+| [Vegas @d7](https://www.drupal.org/project/vegas) | 给页面添加全屏的背景图片幻灯片 |  1w+ |
 | [Juicebox](https://www.drupal.org/project/juicebox) | 可构建HTML5响应式图片库，提供了强大的跨设备解决方案  | 12w|
-| [Node Gallery @d7](https://www.drupal.org/project/node_gallery) | 把node使用幻灯片显示 | 15+|
+| [Node Gallery @d7](https://www.drupal.org/project/node_gallery) | 把node使用幻灯片显示 | 15w+ |
 
 
 <h4 id="views">视图 Views</h4>
@@ -44,31 +45,31 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
 | [Views Field View](https://www.drupal.org/project/views_field_view) | 在视图中插入另外一个视图，可带参数 | 38w+ |
-| [EVA: Entity Views Attachment](https://www.drupal.org/project/eva) | 把视图当成字段插入到内容类型字段中，通过参数可配置出无需后端开发的功能 |53w+|
-| [Views Load More @d7](https://www.drupal.org/project/views_load_more) | 通过Ajax加载更多，配合waypoints模块可定制滚动到某个元素时加载 | 24w+|
-| [Views Infinite Scroll](https://www.drupal.org/project/views_infinite_scroll) |页面滚动到底部Ajax自动加载，也可配置成按钮触发，轻量级解决方案 | 126w+|
-| [Views Database Connector](https://www.drupal.org/project/views_database_connector) | 可以让views连接非Drupal数据库表的外部数据库表 | 1w+|
-| [Views Bulk Operations(VBO)](https://www.drupal.org/project/views_bulk_operations) | 为输出的视图添加可批量操作，给有权限的用户自定义查询进而批量更新删除数据 |317w+|
-| [Semantic Views](https://www.drupal.org/project/semanticviews) | 该模块可以方便修改Views生成的html标签和class而无需覆写模板 | 15w+|
+| [EVA: Entity Views Attachment](https://www.drupal.org/project/eva) | 把视图当成字段插入到内容类型字段中，通过参数可配置出无需后端开发的功能 |53w+ |
+| [Views Load More @d7](https://www.drupal.org/project/views_load_more) | 通过Ajax加载更多，配合waypoints模块可定制滚动到某个元素时加载 | 24w+ |
+| [Views Infinite Scroll](https://www.drupal.org/project/views_infinite_scroll) | 页面滚动到底部Ajax自动加载，也可配置成按钮触发，轻量级解决方案 | 126w+ |
+| [Views Database Connector](https://www.drupal.org/project/views_database_connector) | 可以让views连接非Drupal数据库表的外部数据库表 | 1w+ |
+| [Views Bulk Operations(VBO)](https://www.drupal.org/project/views_bulk_operations) | 为输出的视图添加可批量操作，给有权限的用户自定义查询进而批量更新删除数据 |317w+ |
+| [Semantic Views](https://www.drupal.org/project/semanticviews) | 该模块可以方便修改Views生成的html标签和class而无需覆写模板 | 15w+ |
 | [Views Accordion](https://www.drupal.org/project/views_accordion) | 通过Views来输出一个可折叠的手风琴效果组件，依赖jQuery UI Accordion | 37w+ |
-| [Views Flipped Table](https://www.drupal.org/project/views_flipped_table) | 把视图输出的表格行和列进行翻转，当字段很多的时候非常有用 | 4.3w+|
+| [Views Flipped Table](https://www.drupal.org/project/views_flipped_table) | 把视图输出的表格行和列进行翻转，当字段很多的时候非常有用 | 4.3w+ |
 | [Better Exposed Filters](https://www.drupal.org/project/better_exposed_filters) | 用户体验更好的视图过滤表单模块 | 152w|
 | [Masonry Views](https://www.drupal.org/project/masonry_views) | 使用Masonry API 构建的瀑布流模块 | 7.9w|
 | [A Simple Timeline](https://www.drupal.org/project/simple_timeline) | 使用views输出简单的时间轴模块 | 1.3w|
-| [Views data export](https://www.drupal.org/project/views_data_export) | 从自定义的视图从导出数据（csv, xls, doc, txt, xml）| 107w+|
+| [Views data export](https://www.drupal.org/project/views_data_export) | 从自定义的视图从导出数据（csv, xls, doc, txt, xml）| 107w+ |
 
 
-<h4 id="node">内容 Node </h4>
+<h4 id="node">内容 Node</h4>
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
-| [Paragraphs](https://www.drupal.org/project/paragraphs)| 创作内容的新方式，在任何内容类型上添加段落字段，段落还可以互相嵌套，从简单的文本或图片到复杂的图片轮播，还可以随意重新排序，[DEMO](https://paragraphs.site-showcase.com/) | 203w+ |
-| [Classy Paragraphs](https://www.drupal.org/project/classy_paragraphs)| 给Paragraphs字段添加类，方便为段落区块定制不同的样式风格 | 11w+ |
-| [Content lock](https://www.drupal.org/project/content_lock)| 内容锁定，阻止其他用户同时对同一节点编辑，可按节点类型或按格式；可设置避免意外丢失内容，如关闭浏览器链接未保存而离开编辑表单等| 22w+ |
+| [Paragraphs](https://www.drupal.org/project/paragraphs) | 创作内容的新方式，在任何内容类型上添加段落字段，段落还可以互相嵌套，从简单的文本或图片到复杂的图片轮播，还可以随意重新排序，[DEMO](https://paragraphs.site-showcase.com/) | 203w+ |
+| [Classy Paragraphs](https://www.drupal.org/project/classy_paragraphs) | 给Paragraphs字段添加类，方便为段落区块定制不同的样式风格 | 11w+ |
+| [Content lock](https://www.drupal.org/project/content_lock) | 内容锁定，阻止其他用户同时对同一节点编辑，可按节点类型或按格式；可设置避免意外丢失内容，如关闭浏览器链接未保存而离开编辑表单等| 22w+ |
 | [Weight](https://www.drupal.org/project/weight) | 对内容启用权重排序，对非重视时间节点的内容很有用，比如产品，你想要的内容 | 38w+ |
 | [Exclude Node Title](https://www.drupal.org/project/exclude_node_title) | 前台页面排除显示标题，有些场景下，你并不希望显示内容的标题 | 26w+ |
 | [Flippy](https://www.drupal.org/project/flippy) | 为内容添加上一篇/下一篇的功能，这在很多的门户网站中很常见 | 6w+ |
-| [Scheduler](https://www.drupal.org/project/scheduler) | 可对内容进行定时发布或者未发布 | 119w+| 
+| [Scheduler](https://www.drupal.org/project/scheduler) | 可对内容进行定时发布或者未发布 | 119w+ | 
 | [linkit](https://www.drupal.org/project/Linkit) | 在编辑器中快速插入节点，用户链接，分类术语，文件和外部链接的模块 | 137w+ |
 | [Add another](https://www.drupal.org/project/addanother) | 发布节点后，自动新建节点，快速发布内容，节省操作 | 18w+ |
 | [FullCalendar](https://www.drupal.org/project/fullcalendar) | 使用日历来显示字段（使用时间对内容分类） | 21w+ |
@@ -76,96 +77,106 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 | [Node clone @d7](https://www.drupal.org/project/node_clone) | 允许用户对已存在的内容节点进行克隆| 168w+ |
 | [Bulk Delete @d7](https://www.drupal.org/project/bulkdelete) | 一键删除指定内容类型的内容节点 | 1.9w |
 | [Inline Entity Form](https://www.drupal.org/project/inline_entity_form) | 如果B关联A内容类型，可以在A的内容维护页面新建B节点 | 214w+ |
-| [Metatag](https://www.drupal.org/project/metatag)| SEO 利器，设置页面Meta元数据信息 | 443w+ |
-| [Diff](https://www.drupal.org/project/diff)| 跟踪node节点的版本变化，跟踪修改| 268w+ |
+| [Metatag](https://www.drupal.org/project/metatag) | SEO 利器，设置页面Meta元数据信息 | 443w+ |
+| [Diff](https://www.drupal.org/project/diff) | 跟踪node节点的版本变化，跟踪修改| 268w+ |
 | [Node Title Validation](https://www.drupal.org/project/node_title_validation) | 可对节点标题进行验证（字符长度、黑名单、唯一性）| 1.8w+ |
-| [FAQ Field](https://www.drupal.org/project/faqfield)| 可快速创建 FAQ 页面（常见问题解答）| 7.5w+ |
+| [FAQ Field](https://www.drupal.org/project/faqfield) | 可快速创建 FAQ 页面（常见问题解答）| 7.5w+ |
 
-<h4 id="taxonomy">分类术语</h4>
+<h4 id="taxonomy">分类术语 Taxonomy</h4>
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
-| [Taxonomy Term Reference Tree Widget](https://www.drupal.org/project/term_reference_tree)| 树形展示分类术语词汇表 | 18w+ |
+| [Taxonomy Term Reference Tree Widget](https://www.drupal.org/project/term_reference_tree) | 树形展示分类术语词汇表 | 18w+ |
 | [Simple hierarchical select](https://www.drupal.org/project/shs) | Ajax 联动方式展示分类术语，支持views | 21w+ |
-| [Taxonomy menu](https://www.drupal.org/project/taxonomy_menu)| 使用分类术语的层级结构快速构建一个菜单 | 73w+ |
+| [Taxonomy menu](https://www.drupal.org/project/taxonomy_menu) | 使用分类术语的层级结构快速构建一个菜单 | 73w+ |
 | [Taxonomy Manager](https://www.drupal.org/project/taxonomy_manager) | 该模块提供一个强大的分类术语管理界面，可批量删除添加，支持ajax，导出等 | 51w+ |
 
-<h4 id="manage">管理</h4>
+<h4 id="manage">管理 Manage</h4>
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
-|[Module filter](https://www.drupal.org/project/module_filter)| 一个很复杂的Drupal站点，可能会包含很多的模块，该模块可以提高管理模块的效率 | 299w+ |
-|[Read only mode](https://www.drupal.org/project/readonlymode)| 当站点设置为维护模式时，可访问内容，但不允许添加发布内容 | 8w+ |
-| [Admin Toolbar](https://www.drupal.org/project/admin_toolbar)| 该模块可以增强默认的Drupal工具栏菜单，添加下拉功能，从而减少点击链接路径，轻松访问各个管理页面 | 225w+ |
-| [Rules](https://www.drupal.org/project/rules)| 重量级的模块，允许站点管理员根据发生的事件（内容更新，用户登录，访问等等），执行指定的操作 | 324w+ |
-|[SMTP Authentication Support](https://www.drupal.org/project/smtp)| 发送电子邮件到SMTP服务器，不使用PHP mail(),如果php支持，可以使用SSL连接 | 116w+ |
+| [Module filter](https://www.drupal.org/project/module_filter) | 一个很复杂的Drupal站点，可能会包含很多的模块，该模块可以提高管理模块的效率 | 299w+ |
+| [Read only mode](https://www.drupal.org/project/readonlymode) | 当站点设置为维护模式时，可访问内容，但不允许添加发布内容 | 8w+ |
+| [Admin Toolbar](https://www.drupal.org/project/admin_toolbar) | 该模块可以增强默认的Drupal工具栏菜单，添加下拉功能，从而减少点击链接路径，轻松访问各个管理页面 | 225w+ |
+| [Rules](https://www.drupal.org/project/rules) | 重量级的模块，允许站点管理员根据发生的事件（内容更新，用户登录，访问等等），执行指定的操作 | 324w+ |
+| [SMTP Authentication Support](https://www.drupal.org/project/smtp) | 发送电子邮件到SMTP服务器，不使用PHP mail(),如果php支持，可以使用SSL连接 | 116w+ |
+| [Transliteration @d7](https://www.drupal.org/project/transliteration) | 对上传的文件名进行翻译，比如中文转换成拼音，清除空格，替换不需要的字符等 | 192w+ | 
+| [Coffee](https://www.drupal.org/project/coffee) | 使用快捷键 alt + d 呼出管理菜单，然后输入你要访问的页面，类似Mac的Spotlight | 45w+ |
 
-<h4 id="mobile">移动设备</h4>
-
-| 模块 | 描述 | 安装量 |
-| --- | ---- | :---: |
-|[Mobile sliding menu](https://www.drupal.org/project/mmenu)| 使用mmenu jQuery 插件构建的移动端菜单，高度自定义配置，使用体验挺好 | 2.9w+ |
-|[FooTable](https://www.drupal.org/project/footable)| 使用jQuery FooTable插件构建的模块，创建响应式表格，在很宽的表格中，在很小的屏幕下也可以正常显示，通过隐藏或者折叠某些列 | 4.4w+ |
-| [FitVids](https://www.drupal.org/project/fitvids)| 如果你的网站需要响应显示嵌入的视频，可以考虑该模块，HTML5就没有必要了 | 15w+ |
-
-
-<h4 id="comments">评论 </h4>
+<h4 id="editor">编辑器 Editor</h4>
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
-| [AJAX Comments](https://www.drupal.org/project/ajax_comments)| 提供ajax评论，例如Facebook, Google+, vk.com等 | 12w+ |
+| [Plupload integration](https://www.drupal.org/project/plupload) | 提供Plupload到Drupal的集成，多文件上传 | 80w+ |
+| [Insert](https://www.drupal.org/project/insert) | 很实用的模块，可以将上传的文件和图片字段轻松的插入到编辑器中 | 45w+ |
 
 
-<h4 id="permissions">权限控制</h4>
-
-| 模块 | 描述 | 安装量 |
-| --- | ---- | :---: |
-| [Permissions by Term](https://www.drupal.org/project/permissions_by_term)| Drupal 默认内容类型按角色给访问权限，结合该模块可以让某内容节点只允许某些角色访问或者指定用户访问 | 8w+ |
-| [Content Access](https://www.drupal.org/project/content_access)| 按角色和作者统一设置管理内容类型的访问、编辑、删除权限 | 58w+ |
-| [Private content](https://www.drupal.org/project/private_content)| 简单的 Node 节点访问控制模块 | 1.3k+ |
-| [Block Content Permissions](https://www.drupal.org/project/block_content_permissions)| 开放区块管理权限，允许指定角色新建、更新、删除区块内容 | 4.8w+ |
-
-
-
-<h4 id="vote">投票</h4>
+<h4 id="mobile">移动设备 Mobile</h4>
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
-| [Flag](https://www.drupal.org/project/flag)| 重量级模块，提供灵活的标记系统，可提供任何内容类型的实体提供任意数量的标记 | 150w+ |
-| [Vote Up/Down](https://www.drupal.org/project/vote_up_down)| 允许对实体节点进行投票 | 26w+ |
-| [Fivestar @d7](https://www.drupal.org/project/fivestar)| 默认提供了几种风格的五星评价 | 73w+ |
-| [Rate](https://www.drupal.org/project/rate)| 评价模块，提供点赞，五星，yes/no等选项，另外还有一些统计票数可选| 21w+ |
-| [Star Rating](https://www.drupal.org/project/starrating)| 提供星级评价字段，在字段显示中可选多种评价样式| 3W+|
+| [Mobile sliding menu](https://www.drupal.org/project/mmenu) | 使用mmenu jQuery 插件构建的移动端菜单，高度自定义配置，使用体验挺好 | 2.9w+ |
+| [FooTable](https://www.drupal.org/project/footable) | 使用jQuery FooTable插件构建的模块，创建响应式表格，在很宽的表格中，在很小的屏幕下也可以正常显示，通过隐藏或者折叠某些列 | 4.4w+ |
+| [FitVids](https://www.drupal.org/project/fitvids) | 如果你的网站需要响应显示嵌入的视频，可以考虑该模块，HTML5就没有必要了 | 15w+ |
 
-<h4 id="sns">社交</h4>
 
-| 模块 | 描述 | 安装量 |
-| --- | ---- | :---: |
-| [Privatemsg @d7](https://www.drupal.org/project/privatemsg)| 发送私人信息，论坛或者社交网站 | 37w+ |
-| [Bookabel Entities Everywhere](https://www.drupal.org/project/bee)| 为任何节点添加预订功能，粒度可以细分到小时或者每日 | 3.7k+ |
-| [oLogin](https://www.drupal.org/project/ologin)| 提供国内常用的第三方社交平台统一登录 | 1.5k+ |
-| [Wechat](https://www.drupal.org/project/wechat)| Durpal微信公众平台接口，提供基本功能 | 1.1w+ |
-| [Organic groups](https://www.drupal.org/project/og)| 允许用户创建自己的组 | 113w+ |
-
-<h4 id="release">发行版</h4>
+<h4 id="comments">评论 Comments</h4>
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
-| [Open Social](https://www.drupal.org/project/social)| 该发行版是一个开箱即用的在线社区、知识文档分享解决方案 [Demo](https://demo.getopensocial.com/) | 7.6w+ |
+| [AJAX Comments](https://www.drupal.org/project/ajax_comments) | 提供ajax评论，例如Facebook, Google+, vk.com等 | 12w+ |
+
+
+<h4 id="permissions">权限控制 Permissions</h4>
+
+| 模块 | 描述 | 安装量 |
+| --- | ---- | :---: |
+| [Permissions by Term](https://www.drupal.org/project/permissions_by_term) | Drupal 默认内容类型按角色给访问权限，结合该模块可以让某内容节点只允许某些角色访问或者指定用户访问 | 8w+ |
+| [Content Access](https://www.drupal.org/project/content_access) | 按角色和作者统一设置管理内容类型的访问、编辑、删除权限 | 58w+ |
+| [Private content](https://www.drupal.org/project/private_content) | 简单的 Node 节点访问控制模块 | 1.3k+ |
+| [Block Content Permissions](https://www.drupal.org/project/block_content_permissions) | 开放区块管理权限，允许指定角色新建、更新、删除区块内容 | 4.8w+ |
+
+
+
+<h4 id="vote">投票 Vote</h4>
+
+| 模块 | 描述 | 安装量 |
+| --- | ---- | :---: |
+| [Flag](https://www.drupal.org/project/flag) | 重量级模块，提供灵活的标记系统，可提供任何内容类型的实体提供任意数量的标记 | 150w+ |
+| [Vote Up/Down](https://www.drupal.org/project/vote_up_down) | 允许对实体节点进行投票 | 26w+ |
+| [Fivestar @d7](https://www.drupal.org/project/fivestar) | 默认提供了几种风格的五星评价 | 73w+ |
+| [Rate](https://www.drupal.org/project/rate) | 评价模块，提供点赞，五星，yes/no等选项，另外还有一些统计票数可选| 21w+ |
+| [Star Rating](https://www.drupal.org/project/starrating) | 提供星级评价字段，在字段显示中可选多种评价样式| 3w+ |
+
+<h4 id="sns">社交 SNS</h4>
+
+| 模块 | 描述 | 安装量 |
+| --- | ---- | :---: |
+| [Privatemsg @d7](https://www.drupal.org/project/privatemsg) | 发送私人信息，论坛或者社交网站 | 37w+ |
+| [Bookabel Entities Everywhere](https://www.drupal.org/project/bee) | 为任何节点添加预订功能，粒度可以细分到小时或者每日 | 3.7k+ |
+| [oLogin](https://www.drupal.org/project/ologin) | 提供国内常用的第三方社交平台统一登录 | 1.5k+ |
+| [Wechat](https://www.drupal.org/project/wechat) | Durpal微信公众平台接口，提供基本功能 | 1.1w+ |
+| [Organic groups](https://www.drupal.org/project/og) | 允许用户创建自己的组 | 113w+ |
+
+<h4 id="release">发行版 Release</h4>
+
+| 模块 | 描述 | 安装量 |
+| --- | ---- | :---: |
+| [Open Social](https://www.drupal.org/project/social) | 该发行版是一个开箱即用的在线社区、知识文档分享解决方案 [Demo](https://demo.getopensocial.com/) | 7.6w+ |
 
 <h4 id="seo">SEO</h4>
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
-| [Easy Breadcrumb](https://www.drupal.org/project/easy_breadcrumb)| 该模块使用当前路径别名和当期标题自动生成面包屑路径 | 42w+ |
-| [SEO Checklist](https://www.drupal.org/project/seo_checklist)| 提供SEO核对清单和良好的SEo策略，可以有效地检查SEO代办事项 | 37w+ |
-| [Pathauto](https://www.drupal.org/project/pathauto)| 创建自定义路径别名 | 679w+ |
-| [Redirect](https://www.drupal.org/project/redirect)| URL 路径重定向 | 27w+ |
-| [Search 404](https://www.drupal.org/project/search404)| 出现404错误时，显示搜索页面 | 39w+ |
+| [Easy Breadcrumb](https://www.drupal.org/project/easy_breadcrumb) | 该模块使用当前路径别名和当期标题自动生成面包屑路径 | 42w+ |
+| [SEO Checklist](https://www.drupal.org/project/seo_checklist) | 提供SEO核对清单和良好的SEo策略，可以有效地检查SEO代办事项 | 37w+ |
+| [Pathauto](https://www.drupal.org/project/pathauto) | 创建自定义路径别名 | 679w+ |
+| [Redirect](https://www.drupal.org/project/redirect) | URL 路径重定向 | 27w+ |
+| [Search 404](https://www.drupal.org/project/search404) | 出现404错误时，显示搜索页面 | 39w+ |
 | [XML Sitemap](https://www.drupal.org/project/xmlsitemap) | 创建符合规范的站点地图索引，有利于搜索引擎抓取收录 | 240w+ |
 | [Redirect 403 to User Login](https://www.drupal.org/project/r4032login) | 将403错误页面重定向到/user/login页面，并显示一条消息，一旦登录成功，返回最初请求的页面| 29w+ |
 
-<h4 id="performance">性能</h4>
+<h4 id="performance">性能 Performance</h4>
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
