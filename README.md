@@ -6,6 +6,7 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
  - [视图](#views)
  - [内容](#node)
  - [分类术语](#taxonomy)
+ - [用户体验](#ued)
  - [管理](#manage)
  - [编辑器](#editor)
  - [移动设备](#mobile)
@@ -16,11 +17,13 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
  - [发行版](#release)
  - [SEO](#seo)
  - [性能](#performance)
+ - [其他](#others)
  - [官网文档](#doc)
 
 ### TODO
  - [主题](#themes)
  - [互动](#active)
+ 
 
 <h4 id="carousel">幻灯片 Carousel</h4>
 
@@ -91,6 +94,12 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 | [Taxonomy menu](https://www.drupal.org/project/taxonomy_menu) | 使用分类术语的层级结构快速构建一个菜单 | 73w+ |
 | [Taxonomy Manager](https://www.drupal.org/project/taxonomy_manager) | 该模块提供一个强大的分类术语管理界面，可批量删除添加，支持ajax，导出等 | 51w+ |
 
+<h4 id="ued">用户体验 UED</h4>
+
+| 模块 | 描述 | 安装量 |
+| --- | ---- | :---: |
+| [Search Autocomplete](https://www.drupal.org/project/search_autocomplete) | 在搜索时，自动显示相关的建议列表，高度自定义配置 | 12w+ |
+
 <h4 id="manage">管理 Manage</h4>
 
 | 模块 | 描述 | 安装量 |
@@ -102,6 +111,9 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 | [SMTP Authentication Support](https://www.drupal.org/project/smtp) | 发送电子邮件到SMTP服务器，不使用PHP mail(),如果php支持，可以使用SSL连接 | 116w+ |
 | [Transliteration @d7](https://www.drupal.org/project/transliteration) | 对上传的文件名进行翻译，比如中文转换成拼音，清除空格，替换不需要的字符等 | 192w+ | 
 | [Coffee](https://www.drupal.org/project/coffee) | 使用快捷键 alt + d 呼出管理菜单，然后输入你要访问的页面，类似Mac的Spotlight | 45w+ |
+| [Seckit](https://www.drupal.org/project/seckit) | 该模块为Drupal提供安全建议，降低程序的风险 | 67w+ |
+| [Restrict password change](https://www.drupal.org/project/restrict_password_change) | 有时候我们希望允许某些用户可以添加其他用户，但不能更改用户的密码 | 8k+ |
+
 
 <h4 id="editor">编辑器 Editor</h4>
 
@@ -109,6 +121,10 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 | --- | ---- | :---: |
 | [Plupload integration](https://www.drupal.org/project/plupload) | 提供Plupload到Drupal的集成，多文件上传 | 80w+ |
 | [Insert](https://www.drupal.org/project/insert) | 很实用的模块，可以将上传的文件和图片字段轻松的插入到编辑器中 | 45w+ |
+| [UEditor - 百度编辑器](https://www.drupal.org/project/ueditor) | 百度编辑器，轻量级，可定制化 | 2.6w+ |
+| [Markdown](https://www.drupal.org/project/markdown) | 为编辑器提供 Markdown 语法支持 | 28w+ |
+| [Ace editor](https://www.drupal.org/project/ace_editor) | Ace 是使用 JavaScript 编写的代码编辑器，提供代码高亮，缩进，键盘快捷键，自动完成，代码折叠，查找和替换等 | 6.2w+ |
+
 
 
 <h4 id="mobile">移动设备 Mobile</h4>
@@ -182,6 +198,10 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 | --- | ---- | :---: |
 | [Static Server](https://www.drupal.org/project/static_server) | 配置静态服务器的静态文件，以便调用 | 2.5k+ |
 
+<h4 id="other">其他 Other</h4>
+
+| 模块 | 描述 | 安装量 |
+| --- | ---- | :---: |
 
 <h4 id="doc">Drupal 官网文档</h4>
 
