@@ -16,6 +16,7 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
  - [社交](#sns)
  - [发行版](#release)
  - [SEO](#seo)
+ - [开发](#dev)
  - [性能](#performance)
  - [其他](#others)
  - [官网文档](#doc)
@@ -60,6 +61,7 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 | [Masonry Views](https://www.drupal.org/project/masonry_views) | 使用Masonry API 构建的瀑布流模块 | 7.9w|
 | [A Simple Timeline](https://www.drupal.org/project/simple_timeline) | 使用views输出简单的时间轴模块 | 1.3w|
 | [Views data export](https://www.drupal.org/project/views_data_export) | 从自定义的视图从导出数据（csv, xls, doc, txt, xml）| 107w+ |
+| [DraggableViews](https://www.drupal.org/project/draggableviews) | 把视图创建出来的行变成可拖动 | 57w+ |
 
 
 <h4 id="node">内容 Node</h4>
@@ -191,6 +193,13 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 | [Search 404](https://www.drupal.org/project/search404) | 出现404错误时，显示搜索页面 | 39w+ |
 | [XML Sitemap](https://www.drupal.org/project/xmlsitemap) | 创建符合规范的站点地图索引，有利于搜索引擎抓取收录 | 240w+ |
 | [Redirect 403 to User Login](https://www.drupal.org/project/r4032login) | 将403错误页面重定向到/user/login页面，并显示一条消息，一旦登录成功，返回最初请求的页面| 29w+ |
+
+<h4 id="dev">开发 Development</h4>
+
+| 模块 | 描述 | 安装量 |
+| --- | ---- | :---: |
+| [Stage File Proxy](https://www.drupal.org/project/stage_file_proxy) | 在开发环境上获取集成或者生产环境文件的通用解决方案，而不必把整个files文件拷贝到开发环境 | 123w+ |
+| [Config pages](https://www.drupal.org/project/config_pages) | 如果你经常使用表单API来创建自定义页面，那么这个模块也许可以帮助你快速的创建类似的页面，并帮你配置一个后台的管理菜单 | 8w+ |
 
 <h4 id="performance">性能 Performance</h4>
 
