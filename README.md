@@ -106,6 +106,8 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
+| [Backup and Migrate](https://www.drupal.org/project/backup_migrate) | 备份和恢复你的站点数据库、代码、附件，支持自动备份 | 308w+ |
+| [Configuration Read-only mode](https://www.drupal.org/project/config_readonly) | 该模块可以锁定通过Drupal管理后台完成的任何配置，例如你不想在生产环境上进行配置的更改，只允许本地进行配置的情况 | 13w+ |
 | [Module filter](https://www.drupal.org/project/module_filter) | 一个很复杂的Drupal站点，可能会包含很多的模块，该模块可以提高管理模块的效率 | 299w+ |
 | [Read only mode](https://www.drupal.org/project/readonlymode) | 当站点设置为维护模式时，可访问内容，但不允许添加发布内容 | 8w+ |
 | [Admin Toolbar](https://www.drupal.org/project/admin_toolbar) | 该模块可以增强默认的Drupal工具栏菜单，添加下拉功能，从而减少点击链接路径，轻松访问各个管理页面 | 225w+ |
@@ -115,6 +117,7 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 | [Coffee](https://www.drupal.org/project/coffee) | 使用快捷键 alt + d 呼出管理菜单，然后输入你要访问的页面，类似Mac的Spotlight | 45w+ |
 | [Seckit](https://www.drupal.org/project/seckit) | 该模块为Drupal提供安全建议，降低程序的风险 | 67w+ |
 | [Restrict password change](https://www.drupal.org/project/restrict_password_change) | 有时候我们希望允许某些用户可以添加其他用户，但不能更改用户的密码 | 8k+ |
+| [Matomo Analytics](https://www.drupal.org/project/matomo) | 添加[Matomo](https://matomo.org/) 网络统计跟踪系统到您的网站 | 3.7w+ |
 
 
 <h4 id="editor">编辑器 Editor</h4>
