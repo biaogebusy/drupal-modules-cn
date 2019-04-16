@@ -203,6 +203,8 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 | --- | ---- | :---: |
 | [Stage File Proxy](https://www.drupal.org/project/stage_file_proxy) | 在开发环境上获取集成或者生产环境文件的通用解决方案，而不必把整个files文件拷贝到开发环境 | 123w+ |
 | [Config pages](https://www.drupal.org/project/config_pages) | 如果你经常使用表单API来创建自定义页面，那么这个模块也许可以帮助你快速的创建类似的页面，并帮你配置一个后台的管理菜单 | 8w+ |
+| [CSS Editor](https://www.drupal.org/project/css_editor) | 通过后台添加自定义css样式，而且还可以实时预览效果 | 3.7w+ |
+| [Block Class](https://www.drupal.org/project/block_class) | 在区块配置页面允许给区块添加自定义class类 | 77.9w+ |
 
 <h4 id="performance">性能 Performance</h4>
 
