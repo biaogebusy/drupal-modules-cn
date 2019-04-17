@@ -7,6 +7,7 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
  - [内容](#node)
  - [分类术语](#taxonomy)
  - [用户体验](#ued)
+ - [主题](#themes)
  - [管理](#manage)
  - [编辑器](#editor)
  - [移动设备](#mobile)
@@ -22,7 +23,6 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
  - [官网文档](#doc)
 
 ### TODO
- - [主题](#themes)
  - [互动](#active)
  
 
@@ -101,6 +101,12 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
 | [Search Autocomplete](https://www.drupal.org/project/search_autocomplete) | 在搜索时，自动显示相关的建议列表，高度自定义配置 | 12w+ |
+
+<h4 id="themes">主题 Themes</h4>
+
+| 模块 | 描述 | 安装量 |
+| --- | ---- | :---: |
+| [Front Page](https://www.drupal.org/project/front) | 为不同的角色使用不同的主页 | 40w+ |
 
 <h4 id="manage">管理 Manage</h4>
 
@@ -201,6 +207,7 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
+| [Devel](https://www.drupal.org/project/devel) | 开发调式相关的模块，可以生成删除节点，用户，评论等 | 607w+ |
 | [Stage File Proxy](https://www.drupal.org/project/stage_file_proxy) | 在开发环境上获取集成或者生产环境文件的通用解决方案，而不必把整个files文件拷贝到开发环境 | 123w+ |
 | [Config pages](https://www.drupal.org/project/config_pages) | 如果你经常使用表单API来创建自定义页面，那么这个模块也许可以帮助你快速的创建类似的页面，并帮你配置一个后台的管理菜单 | 8w+ |
 | [CSS Editor](https://www.drupal.org/project/css_editor) | 通过后台添加自定义css样式，而且还可以实时预览效果 | 3.7w+ |
