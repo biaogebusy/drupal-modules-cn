@@ -110,6 +110,7 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 | [Front Page](https://www.drupal.org/project/front) | 为不同的角色使用不同的主页 | 40w+ |
 | [Image Effects](https://www.drupal.org/project/image_effects) | 为图片添加背景图、效果、水印等 | 24w+ |
 | [Focal Point](https://www.drupal.org/project/focal_point) | 允许你在上传图片的时候进行焦点的处理，这样可以裁剪出重要且合适的部分 | 87w+ |
+| [Switch Page Theme](https://www.drupal.org/project/switch_page_theme) | 根据路径使用不同的主题，比如你建立了一个自定义的管理主题，可以根据指定的路径来使用管理主题 | 2.8w+ |
 
 <h4 id="menu">菜单 Menu</h4>
 
@@ -122,6 +123,7 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 | [Taxonomy Menu](https://www.drupal.org/project/taxonomy_menu) | 根据分类术语结构转换成菜单 | 74w+ |
 | [Superfish](https://www.drupal.org/project/superfish) | 使用 Superfish 插件来展示 Drupal 菜单，键盘可访问 | 89w+ |
 | [Menu Token](https://www.drupal.org/project/menu_token) | 该模块可以为菜单标题或者路径提供Token，比如 `user/[current-user:uid]`，就可以根据路径来传递参数做一些事情 | 23w+ |
+| [Font Awesome Menu Icons](https://www.drupal.org/project/fontawesome_menu_icons) | 给菜单扩展字段，允许添加[Font Awesome](https://www.drupal.org/project/fontawesome) 字体图标，可以结合[Font Awesome Icon Picker](https://github.com/farbelous/fontawesome-iconpicker) 这个模块来快速预览选择合适的图标 | 1.6w+ |
 
 <h4 id="manage">管理 Manage</h4>
 
