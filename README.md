@@ -18,14 +18,12 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
  - [社交](#sns)
  - [发行版](#release)
  - [SEO](#seo)
-<<<<<<< HEAD
  - [编码规范](#standards)
-=======
  - [开发](#dev)
->>>>>>> afe6ed0c1b2f38c298023c38516bce5fe3ca0bbe
  - [性能](#performance)
  - [其他](#others)
  - [官网文档](#doc)
+ - [相关文章](#articles)
 
 ### TODO
  - [互动](#active)
@@ -146,7 +144,6 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 | [Restrict password change](https://www.drupal.org/project/restrict_password_change) | 有时候我们希望允许某些用户可以添加其他用户，但不能更改用户的密码 | 8k+ |
 | [Matomo Analytics](https://www.drupal.org/project/matomo) | 添加[Matomo](https://matomo.org/) 网络统计跟踪系统到您的网站 | 3.7w+ |
 
-
 <h4 id="editor">编辑器 Editor</h4>
 
 | 模块 | 描述 | 安装量 |
@@ -157,8 +154,6 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 | [Markdown](https://www.drupal.org/project/markdown) | 为编辑器提供 Markdown 语法支持 | 28w+ |
 | [Ace editor](https://www.drupal.org/project/ace_editor) | Ace 是使用 JavaScript 编写的代码编辑器，提供代码高亮，缩进，键盘快捷键，自动完成，代码折叠，查找和替换等 | 6.2w+ |
 
-
-
 <h4 id="mobile">移动设备 Mobile</h4>
 
 | 模块 | 描述 | 安装量 |
@@ -167,13 +162,11 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 | [FooTable](https://www.drupal.org/project/footable) | 使用jQuery FooTable插件构建的模块，创建响应式表格，在很宽的表格中，在很小的屏幕下也可以正常显示，通过隐藏或者折叠某些列 | 4.4w+ |
 | [FitVids](https://www.drupal.org/project/fitvids) | 如果你的网站需要响应显示嵌入的视频，可以考虑该模块，HTML5就没有必要了 | 15w+ |
 
-
 <h4 id="comments">评论 Comments</h4>
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
 | [AJAX Comments](https://www.drupal.org/project/ajax_comments) | 提供ajax评论，例如Facebook, Google+, vk.com等 | 12w+ |
-
 
 <h4 id="permissions">权限控制 Permissions</h4>
 
@@ -183,8 +176,6 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 | [Content Access](https://www.drupal.org/project/content_access) | 按角色和作者统一设置管理内容类型的访问、编辑、删除权限 | 58w+ |
 | [Private content](https://www.drupal.org/project/private_content) | 简单的 Node 节点访问控制模块 | 1.3k+ |
 | [Block Content Permissions](https://www.drupal.org/project/block_content_permissions) | 开放区块管理权限，允许指定角色新建、更新、删除区块内容 | 4.8w+ |
-
-
 
 <h4 id="vote">投票 Vote</h4>
 
@@ -224,15 +215,13 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 | [XML Sitemap](https://www.drupal.org/project/xmlsitemap) | 创建符合规范的站点地图索引，有利于搜索引擎抓取收录 | 240w+ |
 | [Redirect 403 to User Login](https://www.drupal.org/project/r4032login) | 将403错误页面重定向到/user/login页面，并显示一条消息，一旦登录成功，返回最初请求的页面| 29w+ |
 
-<<<<<<< HEAD
 <h4 id="standards">编码规范</h4>
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
 | [Coder](https://www.drupal.org/project/coder) | 根据最佳实践编码规范检查你的Drupal代码，注意该文件并不是模块，而是命令行工具 | 100w+ |
 
-<h4 id="performance">性能</h4>
-=======
+
 <h4 id="dev">开发 Development</h4>
 
 | 模块 | 描述 | 安装量 |
@@ -244,7 +233,6 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 | [Block Class](https://www.drupal.org/project/block_class) | 在区块配置页面允许给区块添加自定义class类 | 77.9w+ |
 
 <h4 id="performance">性能 Performance</h4>
->>>>>>> afe6ed0c1b2f38c298023c38516bce5fe3ca0bbe
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
@@ -257,7 +245,7 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 
 <h4 id="doc">Drupal 官网文档</h4>
 
-| 标题 | 描述 |
+| 标题 | 简介 |
 | --- | ---- | 
 | [添加css和js](https://www.drupal.org/docs/8/theming/adding-stylesheets-css-and-javascript-js-to-a-drupal-8-theme) | 在Drupal8 中添加css和javascript |
 | [建立子主题](https://www.drupal.org/docs/8/theming-drupal-8/creating-a-drupal-8-sub-theme-or-sub-theme-of-sub-theme) | 关于建立子主题的文档 |
@@ -272,3 +260,10 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 | [ESLint settings](https://www.drupal.org/docs/develop/standards/javascript/eslint-settings) | ESLint 代码检查 |
 | [jQuery 编码规范](https://www.drupal.org/docs/develop/standards/javascript/jquery-coding-standards) | jQuery 编码规范和最佳实践 |
 | [谁使用了Drupal？](https://www.drupal.com/showcases) | 官网收录的Drupal使用案例 |
+
+
+<h4 id="articles">相关文章资源</h4>
+
+| 标题 | 文章简介 | 
+| --- | --- |
+| [理解 Drupal behaviors 机制](https://www.lullabot.com/articles/understanding-javascript-behaviors-in-drupal#/) | 理解 Drupal behaviors 是深入开发 Drupal 主题的前提，涉及到 Drupal js 的执行机制，上下文等 |
