@@ -113,6 +113,8 @@ Drupal 模块整理，久不维护或者有安全风险的模块酌情不添加�
 | [Image Effects](https://www.drupal.org/project/image_effects) | 为图片添加背景图、效果、水印等 | 24w+ |
 | [Focal Point](https://www.drupal.org/project/focal_point) | 允许你在上传图片的时候进行焦点的处理，这样可以裁剪出重要且合适的部分 | 87w+ |
 | [Switch Page Theme](https://www.drupal.org/project/switch_page_theme) | 根据路径使用不同的主题，比如你建立了一个自定义的管理主题，可以根据指定的路径来使用管理主题 | 2.8w+ |
+| [Font Awesome Icons](https://www.drupal.org/project/fontawesome) | 知名的字体图标库，web 网页中非常流行的字体集 | 34w+ |
+| [Omega](https://www.drupal.org/project/omega) | 响应式布局，可以作为基主题建立子主题 | 112w+ |
 
 <h4 id="menu">菜单 Menu</h4>
 
