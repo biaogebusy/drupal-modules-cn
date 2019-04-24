@@ -115,6 +115,9 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Switch Page Theme](https://www.drupal.org/project/switch_page_theme) | 根据路径使用不同的主题，比如你建立了一个自定义的管理主题，可以根据指定的路径来使用管理主题 | 2.8w+ |
 | [Font Awesome Icons](https://www.drupal.org/project/fontawesome) | 知名的字体图标库，web 网页中非常流行的字体集 | 34w+ |
 | [Omega](https://www.drupal.org/project/omega) | 响应式布局，可以作为基主题建立子主题 | 112w+ |
+| [Bootstrap](https://www.drupal.org/project/bootstrap) | Bootstrap 是最受欢迎的 HTML、CSS 和 JS 框架，用于开发响应式布局、移动设备优先的 WEB 项目，有详细的使用[文档](https://drupal-bootstrap.org/api/bootstrap)。 | 233w+ |
+| [ZURB Foundation](https://www.drupal.org/project/zurb_foundation) | 该主题可以快速制作网站原型，降低开发成本 | 26w+ |
+| [Adminimal](https://www.drupal.org/project/adminimal_theme) | 该主题是 Drupal 最受欢迎的管理主题之一，UI 现代简约，响应式布局 | 177w+ |
 
 <h4 id="menu">菜单 Menu</h4>
 
