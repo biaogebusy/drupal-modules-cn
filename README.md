@@ -104,6 +104,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
 | [Search Autocomplete](https://www.drupal.org/project/search_autocomplete) | 在搜索时，自动显示相关的建议列表，高度自定义配置 | 12w+ |
+| [Ajax loader](https://www.drupal.org/project/ajax_loader) | 该模块会覆盖内核自带的 Ajax loader 样式，提供了很多种 loading 样式选择 | 3w+ |
 
 <h4 id="themes">主题 Themes</h4>
 
@@ -158,6 +159,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [UEditor - 百度编辑器](https://www.drupal.org/project/ueditor) | 百度编辑器，轻量级，可定制化 | 2.6w+ |
 | [Markdown](https://www.drupal.org/project/markdown) | 为编辑器提供 Markdown 语法支持 | 28w+ |
 | [Ace editor](https://www.drupal.org/project/ace_editor) | Ace 是使用 JavaScript 编写的代码编辑器，提供代码高亮，缩进，键盘快捷键，自动完成，代码折叠，查找和替换等 | 6.2w+ |
+| [Gutenberg](https://www.drupal.org/project/gutenberg) | 原生的古腾堡编辑器是 WordPress 出品的，也有了 Drupal 的版本，尝试新体验的可以使用 | 1.1w+ |
 
 <h4 id="mobile">移动设备 Mobile</h4>
 
