@@ -33,15 +33,15 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
-| [Slick Carousel](https://www.drupal.org/project/slick) | 强大响应式且性能优异的图片轮播解决方案 | 45w+ |
-| [Views Slideshow](https://www.drupal.org/project/views_slideshow) | 最受欢迎的幻灯片模块，可放任何内容 | 215w+ |
-| [Colorbox](https://www.drupal.org/project/colorbox) | 轻量级高可定制幻灯片模块，高度集成在drupal中  | 252w+ |
-| [Colorbox Node @d7](https://www.drupal.org/project/colorbox_node) | 可以把node,user,views,webform等实体显示在弹窗  | 16w+ |
-| [Flex Slider](https://www.drupal.org/project/flexslider) | 响应式，支持移动设备手势滑动  | 71w+ |
+| [Slick Carousel](https://www.drupal.org/project/slick) | 强大响应式且性能优异的图片轮播解决方案，有非常丰富的配置选项 | 45w+ |
+| [Views Slideshow](https://www.drupal.org/project/views_slideshow) | 最受欢迎的幻灯片模块，可放任何内容，高度定制 | 215w+ |
+| [Colorbox](https://www.drupal.org/project/colorbox) | 轻量级高可定制幻灯片模块，高度集成在 Drupal中，可放图片，Iframed 或者在线内容等等  | 252w+ |
+| [Colorbox Node @d7](https://www.drupal.org/project/colorbox_node) | 可以把Node, User, Views, Webform等实体显示在弹窗  | 16w+ |
+| [Flex Slider](https://www.drupal.org/project/flexslider) | 响应式、可调整大小、适配浏览器和移动设备，支持移动设备手势滑动  | 71w+ |
 | [Views Nivo slider](https://www.drupal.org/project/views_nivo_slider) | 有很多的效果  | 14w+ |
 | [Field Slideshow](https://www.drupal.org/project/field_slideshow) | 让内容的图片多值字段支持幻灯片，使用jQuery cycle实现  | 17w+ |
 | [jCarousel](https://www.drupal.org/project/jcarousel) | 可以把任何内容或图片转换成轮播组件，集成视图，开放一些API |  59w+ |
-| [Owl Carousel](https://www.drupal.org/project/owlcarousel) | 支持响应式、移动手势、高定制幻灯片，有可用的回调，自定义事件 | 21w+ |
+| [Owl Carousel](https://www.drupal.org/project/owlcarousel) | 提供视图样式，字段格式化和管理 UI，支持响应式、移动手势、高定制幻灯片，CSS3动画，JSON，有可用的回调，自定义事件等 | 21w+ |
 | [Vegas @d7](https://www.drupal.org/project/vegas) | 给页面添加全屏的背景图片幻灯片 |  1w+ |
 | [Juicebox](https://www.drupal.org/project/juicebox) | 可构建HTML5响应式图片库，提供了强大的跨设备解决方案  | 12w|
 | [Node Gallery @d7](https://www.drupal.org/project/node_gallery) | 把node使用幻灯片显示 | 15w+ |
@@ -103,7 +103,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
-| [Search Autocomplete](https://www.drupal.org/project/search_autocomplete) | 在搜索时，自动显示相关的建议列表，高度自定义配置 | 12w+ |
+| [Search Autocomplete](https://www.drupal.org/project/search_autocomplete) | 在输入搜索表单时，自动填充显示相关的建议列表，开启后，默认匹配核心搜索和搜索模块，高度自定义配置 | 12w+ |
 | [Ajax loader](https://www.drupal.org/project/ajax_loader) | 该模块会覆盖内核自带的 Ajax loader 样式，提供了很多种 loading 样式选择 | 3w+ |
 
 <h4 id="themes">主题 Themes</h4>
@@ -164,8 +164,8 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
-| [Commerce Alipay](https://www.drupal.org/project/commerce_alipay) | 与[Commerce](http://drupal.org/project/commerce) 电子商务模块集成，开通支付宝支付，可使用二维码扫描支付 | 7.8k+ | 
-| [Commerce PayPal](https://www.drupal.org/project/commerce_paypal) | 集成了[Commerce](http://drupal.org/project/commerce) 模块，国外比较流行的 PayPal 第三方支付平台 | 23w+ |
+| [Commerce Alipay](https://www.drupal.org/project/commerce_alipay) | 与 [Commerce](http://drupal.org/project/commerce) 电子商务模块集成，开通支付宝支付，可使用二维码扫描支付，国内支付结算的首选方案 | 7.8k+ | 
+| [Commerce PayPal](https://www.drupal.org/project/commerce_paypal) | 集成了 [Commerce](http://drupal.org/project/commerce) 模块，国外比较流行的 PayPal 第三方支付平台 | 23w+ |
 | [Alipay API](https://www.drupal.org/project/alipay_api) | 使用支付宝第三方支付解决方案平台接入支付 | 1.3k+ |
 | [Currency](https://www.drupal.org/project/currency) | 该模块提供货币转换的功能，当你需要多国货币结算时 | 15w+ |
 
@@ -208,7 +208,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
-| [Flag](https://www.drupal.org/project/flag) | 重量级模块，提供灵活的标记系统，可提供任何内容类型的实体提供任意数量的标记 | 150w+ |
+| [Flag](https://www.drupal.org/project/flag) | 重量级模块，是一个弹性的可创建复杂定制的标记系统，可提供任何内容类型的实体提供任意数量的标记，比如书签，重要事项，朋友，或者你不喜欢的，总之可以标记你所想要的 | 150w+ |
 | [Vote Up/Down](https://www.drupal.org/project/vote_up_down) | 允许对实体节点进行投票 | 26w+ |
 | [Fivestar @d7](https://www.drupal.org/project/fivestar) | 默认提供了几种风格的五星评价 | 73w+ |
 | [Rate](https://www.drupal.org/project/rate) | 评价模块，提供点赞，五星，yes/no等选项，另外还有一些统计票数可选| 21w+ |
