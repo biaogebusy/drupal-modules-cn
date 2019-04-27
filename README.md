@@ -11,6 +11,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
  - [菜单](#menu)
  - [媒体](#media)
  - [管理](#manage)
+ - [电子商务](#commerce)
  - [编辑器](#editor)
  - [移动设备](#mobile)
  - [评论](#comments)
@@ -155,6 +156,19 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Seckit](https://www.drupal.org/project/seckit) | 该模块为Drupal提供安全建议，降低程序的风险 | 67w+ |
 | [Restrict password change](https://www.drupal.org/project/restrict_password_change) | 有时候我们希望允许某些用户可以添加其他用户，但不能更改用户的密码 | 8k+ |
 | [Matomo Analytics](https://www.drupal.org/project/matomo) | 添加[Matomo](https://matomo.org/) 网络统计跟踪系统到您的网站 | 3.7w+ |
+| [Workflow](https://www.drupal.org/project/workflow) | 可以创建任意内容类型的工作流，比如你有“故事”内容类型，可以有草稿、审阅、已发布状态，并且可以切换状态,包含了workflow_access, workflow_rulues, workflow_views, workflow_admin_ui等子模块 | 30w+ |
+| [Workbench](https://www.drupal.org/project/workbench) | 该模块提供了简易的方式创建自己的工作流，也提供了相互依赖的模块 | 60w+ |
+| [Maestro](https://www.drupal.org/project/maestro) | 可视化的工作流解决方案，通过拖放来映射业务的流程 | 3w+ |
+
+<h4 id="commerce">商务 Commerce</h4>
+
+| 模块 | 描述 | 安装量 |
+| --- | ---- | :---: |
+| [Commerce Alipay](https://www.drupal.org/project/commerce_alipay) | 与[Commerce](http://drupal.org/project/commerce) 电子商务模块集成，开通支付宝支付，可使用二维码扫描支付 | 7.8k+ | 
+| [Commerce PayPal](https://www.drupal.org/project/commerce_paypal) | 集成了[Commerce](http://drupal.org/project/commerce) 模块，国外比较流行的 PayPal 第三方支付平台 | 23w+ |
+| [Alipay API](https://www.drupal.org/project/alipay_api) | 使用支付宝第三方支付解决方案平台接入支付 | 1.3k+ |
+| [Currency](https://www.drupal.org/project/currency) | 该模块提供货币转换的功能，当你需要多国货币结算时 | 15w+ |
+
 
 <h4 id="editor">编辑器 Editor</h4>
 
