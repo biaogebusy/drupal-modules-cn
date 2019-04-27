@@ -2,31 +2,14 @@
 Drupal 是一个强大的内容管理框架，即使没有编写任何代码的情况下，也可以配置构建出专业的网站，这些都离不开社区提供的模块。
 
 ### 分类
- - [幻灯片](#carousel)
- - [视图](#views)
- - [内容](#node)
- - [分类术语](#taxonomy)
- - [用户体验](#ued)
- - [主题](#themes)
- - [菜单](#menu)
- - [媒体](#media)
- - [管理](#manage)
- - [电子商务](#commerce)
- - [编辑器](#editor)
- - [移动设备](#mobile)
- - [评论](#comments)
- - [权限控制](#permissions)
- - [投票](#vote)
- - [社交](#sns)
- - [发行版](#release)
- - [SEO](#seo)
- - [编码规范](#standards)
- - [开发](#dev)
- - [性能](#performance)
- - [互动](#action)
- - [其他](#others)
- - [官网文档](#doc)
- - [相关文章](#articles)
+
+| 分类 | 子类 |
+| --- | ---- |
+| UI | [幻灯片](#carousel) ，[视图](#views)，[用户体验](#ued)，[主题](#themes)，[互动](#action)|
+| 实体 | [内容](#node)，[分类术语](#taxonomy)，[菜单](#menu)，[媒体](#media)，[编辑器](#editor)，[评论](#comments)，[投票](#vote)|
+| 其他 | [管理](#manage)，[电子商务](#commerce)，[移动设备](#mobile)，[社交](#sns)，[发行版](#release)，[SEO](#seo)，[开发](#dev)，[性能](#performance)|
+| 文章 | [编码规范](#standards)，[官网文档](#doc)，[相关文章](#articles)|
+
  
 
 <h4 id="carousel">幻灯片 Carousel</h4>
@@ -159,6 +142,10 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Workflow](https://www.drupal.org/project/workflow) | 可以创建任意内容类型的工作流，比如你有“故事”内容类型，可以有草稿、审阅、已发布状态，并且可以切换状态,包含了workflow_access, workflow_rulues, workflow_views, workflow_admin_ui等子模块 | 30w+ |
 | [Workbench](https://www.drupal.org/project/workbench) | 该模块提供了简易的方式创建自己的工作流，也提供了相互依赖的模块 | 60w+ |
 | [Maestro](https://www.drupal.org/project/maestro) | 可视化的工作流解决方案，通过拖放来映射业务的流程 | 3w+ |
+| [Permissions by Term](https://www.drupal.org/project/permissions_by_term) | Drupal 默认内容类型按角色给访问权限，结合该模块可以让某内容节点只允许某些角色访问或者指定用户访问 | 8w+ |
+| [Content Access](https://www.drupal.org/project/content_access) | 按角色和作者统一设置管理内容类型的访问、编辑、删除权限 | 58w+ |
+| [Private content](https://www.drupal.org/project/private_content) | 简单的 Node 节点访问控制模块 | 1.3k+ |
+| [Block Content Permissions](https://www.drupal.org/project/block_content_permissions) | 开放区块管理权限，允许指定角色新建、更新、删除区块内容 | 4.8w+ |
 
 <h4 id="commerce">商务 Commerce</h4>
 
@@ -194,15 +181,6 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
 | [AJAX Comments](https://www.drupal.org/project/ajax_comments) | 提供ajax评论，例如Facebook, Google+, vk.com等 | 12w+ |
-
-<h4 id="permissions">权限控制 Permissions</h4>
-
-| 模块 | 描述 | 安装量 |
-| --- | ---- | :---: |
-| [Permissions by Term](https://www.drupal.org/project/permissions_by_term) | Drupal 默认内容类型按角色给访问权限，结合该模块可以让某内容节点只允许某些角色访问或者指定用户访问 | 8w+ |
-| [Content Access](https://www.drupal.org/project/content_access) | 按角色和作者统一设置管理内容类型的访问、编辑、删除权限 | 58w+ |
-| [Private content](https://www.drupal.org/project/private_content) | 简单的 Node 节点访问控制模块 | 1.3k+ |
-| [Block Content Permissions](https://www.drupal.org/project/block_content_permissions) | 开放区块管理权限，允许指定角色新建、更新、删除区块内容 | 4.8w+ |
 
 <h4 id="vote">投票 Vote</h4>
 
@@ -270,11 +248,6 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
 | [Back To Top](https://www.drupal.org/project/back_to_top) | 给页面添加一个按钮，点击按钮平滑的回到页面顶部 | 16.3w+ |
-
-<h4 id="other">其他 Other</h4>
-
-| 模块 | 描述 | 安装量 |
-| --- | ---- | :---: |
 
 <h4 id="doc">Drupal 官网文档</h4>
 
