@@ -255,7 +255,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | --- | ---- | 
 | [添加css和js](https://www.drupal.org/docs/8/theming/adding-stylesheets-css-and-javascript-js-to-a-drupal-8-theme) | 在Drupal8 中添加css和javascript |
 | [建立子主题](https://www.drupal.org/docs/8/theming-drupal-8/creating-a-drupal-8-sub-theme-or-sub-theme-of-sub-theme) | 关于建立子主题的文档 |
-| [JavaScript API 概览](https://www.drupal.org/docs/7/api/javascript-api/javascript-api-overview) | Drupal8 在页面初始化的时候或者获取数据时候提供了一些API |
+| [JavaScript API 概览](https://www.drupal.org/docs/7/api/javascript-api/javascript-api-overview) | Drupal8 在页面初始化的时候或者获取数据时候提供了一些API，详细介绍了 JavaScript 是如何在 Drupal 中运行的，遵循官方的开发规范是良好开发的第一步 |
 | [主题定义.info.yml](https://www.drupal.org/docs/8/theming-drupal-8/defining-a-theme-with-an-infoyml-file) | 详细介绍了主题定义文件的参数 |
 | [在主题中添加区域](https://www.drupal.org/docs/8/theming/adding-regions-to-a-theme) | 在 Drupal8 中如何声明一个区域 |
 | [Drupal 如何架构CSS](https://www.drupal.org/docs/develop/standards/css/css-architecture-for-drupal-8) | 可以借鉴一下Drupal 对应css组件化开发的一些思路 |
@@ -265,7 +265,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [JavaScript 编码规范](https://www.drupal.org/docs/develop/standards/javascript/javascript-coding-standards) | JavaScript 开发的相关规范 |
 | [ESLint settings](https://www.drupal.org/docs/develop/standards/javascript/eslint-settings) | ESLint 代码检查 |
 | [jQuery 编码规范](https://www.drupal.org/docs/develop/standards/javascript/jquery-coding-standards) | jQuery 编码规范和最佳实践 |
-| [谁使用了Drupal？](https://www.drupal.com/showcases) | 官网收录的Drupal使用案例 |
+| [谁使用了Drupal？](https://www.drupal.com/showcases) | 官网收录的 Drupal 使用案例，包括了很多的世界顶级高校，如果你要向你的客户展示都有谁在使用，这个是一个不错的查询工具 |
 
 
 <h4 id="articles">相关文章资源</h4>
