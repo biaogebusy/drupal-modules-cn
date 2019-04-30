@@ -72,6 +72,9 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Diff](https://www.drupal.org/project/diff) | 跟踪 `Node` 节点的版本变化，跟踪修改| 268w+ |
 | [Node Title Validation](https://www.drupal.org/project/node_title_validation) | 可对节点标题进行验证（字符长度、黑名单、唯一性）| 1.8w+ |
 | [FAQ Field](https://www.drupal.org/project/faqfield) | 可快速创建 `FAQ` 页面（常见问题解答）| 7.5w+ |
+| [Legal](https://www.drupal.org/project/legal) | 注册时，同意条款和条件才可以下一步 | 22w+ |
+| [Terms of Use](https://www.drupal.org/project/terms_of_use) | 和 `Legal` 模块一样，同意条款和条件，该模特可选某个 `Node` 节点为协议，可自定义标题 | 9.2w+ |
+
 
 <h4 id="taxonomy">分类术语 Taxonomy</h4>
 
@@ -146,6 +149,9 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Content Access](https://www.drupal.org/project/content_access) | 按角色和作者统一设置管理内容类型的访问、编辑、删除权限 | 58w+ |
 | [Private content](https://www.drupal.org/project/private_content) | 简单的 `Node` 节点访问控制模块 | 1.3k+ |
 | [Block Content Permissions](https://www.drupal.org/project/block_content_permissions) | 开放区块管理权限，允许指定角色新建、更新、删除区块内容 | 4.8w+ |
+| [CAPTCHA](https://www.drupal.org/project/captcha) | 该模块可以有效阻止垃圾邮件程序提交表单，有很多的选项提供使用 | 267w+ |
+| [Chinese Captcha](https://www.drupal.org/project/chinese_captcha) | 中文验证码模块，防止机器人垃圾信息的攻击 | 6k+ |
+| [reCAPTCHA](https://www.drupal.org/project/recaptcha) | 该模块使用了 Google reCAPTCHA 服务，可以有效识别机器人，有效减少垃圾邮件和滥用提交 | 139w+ |
 
 <h4 id="commerce">商务 Commerce</h4>
 
