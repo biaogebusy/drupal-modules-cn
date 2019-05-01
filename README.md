@@ -152,6 +152,8 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [CAPTCHA](https://www.drupal.org/project/captcha) | 该模块可以有效阻止垃圾邮件程序提交表单，有很多的选项提供使用 | 267w+ |
 | [Chinese Captcha](https://www.drupal.org/project/chinese_captcha) | 中文验证码模块，防止机器人垃圾信息的攻击 | 6k+ |
 | [reCAPTCHA](https://www.drupal.org/project/recaptcha) | 该模块使用了 Google reCAPTCHA 服务，可以有效识别机器人，有效减少垃圾邮件和滥用提交 | 139w+ |
+| [Honeypot](https://www.drupal.org/project/honeypot) | 使用蜜罐和时间戳的原理来阻止机器人提交垃圾信息，该模块不像 `CAPTCHA` 模块有侵入性，支持所有表单或者指定表单 | 114w+ |
+| [Captcha Riddler](https://www.drupal.org/project/riddler) | 该模块依赖 `CAPTCHA` 模块，提交表单时提供自定义问题和匹配的答案，可随机问题，有效防止机器人提交垃圾信息，但是过多的设置复杂度有可能影响用户使用体验 | 2.8w+ |
 
 <h4 id="commerce">商务 Commerce</h4>
 
