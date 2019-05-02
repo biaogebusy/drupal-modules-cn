@@ -74,6 +74,8 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [FAQ Field](https://www.drupal.org/project/faqfield) | 可快速创建 `FAQ` 页面（常见问题解答）| 7.5w+ |
 | [Legal](https://www.drupal.org/project/legal) | 注册时，同意条款和条件才可以下一步 | 22w+ |
 | [Terms of Use](https://www.drupal.org/project/terms_of_use) | 和 `Legal` 模块一样，同意条款和条件，该模特可选某个 `Node` 节点为协议，可自定义标题 | 9.2w+ |
+| [User Points](https://www.drupal.org/project/userpoints) | 用户积分模块，与 `Rule` 模块集成，触发操作时，增加或者减少积分 | 17w+ |
+| [Session Limit](https://www.drupal.org/project/session_limit) | 管理员可以设置一个用户同时可以登录多少个 | 14w+ |
 
 
 <h4 id="taxonomy">分类术语 Taxonomy</h4>
@@ -154,6 +156,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [reCAPTCHA](https://www.drupal.org/project/recaptcha) | 该模块使用了 Google reCAPTCHA 服务，可以有效识别机器人，有效减少垃圾邮件和滥用提交 | 139w+ |
 | [Honeypot](https://www.drupal.org/project/honeypot) | 使用蜜罐和时间戳的原理来阻止机器人提交垃圾信息，该模块不像 `CAPTCHA` 模块有侵入性，支持所有表单或者指定表单 | 114w+ |
 | [Captcha Riddler](https://www.drupal.org/project/riddler) | 该模块依赖 `CAPTCHA` 模块，提交表单时提供自定义问题和匹配的答案，可随机问题，有效防止机器人提交垃圾信息，但是过多的设置复杂度有可能影响用户使用体验 | 2.8w+ |
+| [Password Policy](https://www.drupal.org/project/password_policy) | 对密码进行约束限制，必须满足条件才可以修改，支持字符、数字、字母、长度、大小写、标点、用户名等，还实现了密码到期功能，可强制下次登录时更改密码 | 81w+ |
 
 <h4 id="commerce">商务 Commerce</h4>
 
