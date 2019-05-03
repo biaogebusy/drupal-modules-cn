@@ -1,5 +1,5 @@
 ## Drupal modules 中文
-Drupal 是一个强大的内容管理框架，即使没有编写任何代码的情况下，也可以配置构建出专业的网站，这些都离不开社区提供的模块。
+Drupal 是一个强大的内容管理框架，即使没有编写任何代码的情况下，也可以配置构建出极富弹性且创造力的架站平台，这些都离不开社区提供的模块，多样化的模块组合使得网站有更多的想象空间。
 
 ### 分类
 
@@ -16,8 +16,8 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
-| [Slick Carousel](https://www.drupal.org/project/slick) | 强大响应式且性能优异的图片轮播解决方案，有非常丰富的配置选项 | 45w+ |
-| [Views Slideshow](https://www.drupal.org/project/views_slideshow) | 最受欢迎的幻灯片模块，可放任何内容，高度定制 | 215w+ |
+| [Slick Carousel](https://www.drupal.org/project/slick) | `Slick` 轮播，强大响应式且性能优异的图片轮播解决方案，有非常丰富的配置选项，`slick` 官网自己调侃这是你最后使用的图片轮播 | 45w+ |
+| [Views Slideshow](https://www.drupal.org/project/views_slideshow) | 视图轮播模块，该模块是最受欢迎的幻灯片模块，可放任何内容，高度定制 | 215w+ |
 | [Colorbox](https://www.drupal.org/project/colorbox) | 轻量级高可定制幻灯片模块，高度集成在 `Drupal` 中，可放图片，`Iframed` 或者在线内容等等  | 252w+ |
 | [Colorbox Node @d7](https://www.drupal.org/project/colorbox_node) | 可以把 `Node`, `User`, `Views`, `Webform` 等实体显示在弹窗  | 16w+ |
 | [Flex Slider](https://www.drupal.org/project/flexslider) | 响应式、可调整大小、适配浏览器和移动设备，支持移动设备手势滑动  | 71w+ |
@@ -55,28 +55,28 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
 | [Webform](https://www.drupal.org/project/webform) | `Webform` 可以构建表单，强大灵活的配置可以高度定制 `UI`，邮件通知，提交收集、导出，更有很多个相关的模块扩展使用 | 560W+ |
-| [Paragraphs](https://www.drupal.org/project/paragraphs) | 创作内容的新方式，在任何内容类型上添加段落字段，段落还可以互相嵌套，从简单的文本或图片到复杂的图片轮播，还可以随意重新排序，[DEMO](https://paragraphs.site-showcase.com/) | 203w+ |
+| [Paragraphs](https://www.drupal.org/project/paragraphs) | 段落，是创作内容的新方式，在任何内容类型上添加段落字段，段落还可以互相嵌套，从简单的文本或图片到复杂的图片轮播，还可以随意重新排序，[DEMO](https://paragraphs.site-showcase.com/) | 203w+ |
 | [Classy Paragraphs](https://www.drupal.org/project/classy_paragraphs) | 给 `Paragraphs` 字段添加类，方便为段落区块定制不同的样式风格 | 11w+ |
 | [Content lock](https://www.drupal.org/project/content_lock) | 内容锁定，阻止其他用户同时对同一节点编辑，可按节点类型或按格式；可设置避免意外丢失内容，如关闭浏览器链接未保存而离开编辑表单等| 22w+ |
-| [Weight](https://www.drupal.org/project/weight) | 对内容启用权重排序，对非重视时间节点的内容很有用，比如产品，你想要的内容 | 38w+ |
-| [Exclude Node Title](https://www.drupal.org/project/exclude_node_title) | 前台页面排除显示标题，有些场景下，你并不希望显示内容的标题 | 26w+ |
-| [Flippy](https://www.drupal.org/project/flippy) | 为内容添加上一篇/下一篇的功能，这在很多的门户网站中很常见 | 6w+ |
-| [Scheduler](https://www.drupal.org/project/scheduler) | 可对内容进行定时发布或者未发布 | 119w+ | 
-| [linkit](https://www.drupal.org/project/Linkit) | 在编辑器中快速插入节点，用户链接，分类术语，文件和外部链接的模块 | 137w+ |
-| [Add another](https://www.drupal.org/project/addanother) | 发布节点后，自动新建节点，快速发布内容，节省操作 | 18w+ |
-| [FullCalendar](https://www.drupal.org/project/fullcalendar) | 使用日历来显示字段（使用时间对内容分类） | 21w+ |
-| [Calendar @d7](https://www.drupal.org/project/calendar) | 多种日历格式显示节点字段 | 144w+ |
-| [Node clone @d7](https://www.drupal.org/project/node_clone) | 允许用户对已存在的内容节点进行克隆| 168w+ |
-| [Bulk Delete @d7](https://www.drupal.org/project/bulkdelete) | 一键删除指定内容类型的内容节点 | 1.9w |
-| [Inline Entity Form](https://www.drupal.org/project/inline_entity_form) | 如果 `B` 关联 `A` 内容类型，可以在 `A` 的内容维护页面新建 `B` 节点 | 214w+ |
-| [Diff](https://www.drupal.org/project/diff) | 跟踪 `Node` 节点的版本变化，跟踪修改| 268w+ |
-| [Node Title Validation](https://www.drupal.org/project/node_title_validation) | 可对节点标题进行验证（字符长度、黑名单、唯一性）| 1.8w+ |
-| [FAQ Field](https://www.drupal.org/project/faqfield) | 可快速创建 `FAQ` 页面（常见问题解答）| 7.5w+ |
-| [Legal](https://www.drupal.org/project/legal) | 注册时，同意条款和条件才可以下一步 | 22w+ |
-| [Terms of Use](https://www.drupal.org/project/terms_of_use) | 和 `Legal` 模块一样，同意条款和条件，该模特可选某个 `Node` 节点为协议，可自定义标题 | 9.2w+ |
-| [User Points](https://www.drupal.org/project/userpoints) | 用户积分模块，与 `Rule` 模块集成，触发操作时，增加或者减少积分 | 17w+ |
-| [Session Limit](https://www.drupal.org/project/session_limit) | 管理员可以设置一个用户同时可以登录多少个 | 14w+ |
-
+| [Weight](https://www.drupal.org/project/weight) | 权重，对内容启用排序，对非重视时间节点的内容很有用，比如产品，你想要的内容 | 38w+ |
+| [Exclude Node Title](https://www.drupal.org/project/exclude_node_title) | 排除标题，前台页面不显示标题，有些场景下，你并不希望显示内容的标题 | 26w+ |
+| [Flippy](https://www.drupal.org/project/flippy) | 上一篇/下一篇，为内容添加快速到达上下篇的功能，这在很多的门户网站中很常见 | 6w+ |
+| [Scheduler](https://www.drupal.org/project/scheduler) | 定时计划，可对内容进行定时发布或者未发布 | 119w+ | 
+| [linkit](https://www.drupal.org/project/Linkit) | 插入链接，在编辑器中快速插入节点，用户链接，分类术语，文件和外部链接的模块 | 137w+ |
+| [Add another](https://www.drupal.org/project/addanother) | 新建下一个，发布节点后，自动新建节点，快速发布内容，节省操作 | 18w+ |
+| [FullCalendar](https://www.drupal.org/project/fullcalendar) | 全日历，使用日历来显示字段（使用时间对内容分类） | 21w+ |
+| [Calendar @d7](https://www.drupal.org/project/calendar) | 日历，多种日历格式显示节点字段 | 144w+ |
+| [Node clone @d7](https://www.drupal.org/project/node_clone) | 内容克隆，允许用户对已存在的内容节点进行克隆| 168w+ |
+| [Bulk Delete @d7](https://www.drupal.org/project/bulkdelete) | 一键删除，可以快速删除指定内容类型的内容节点 | 1.9w |
+| [Inline Entity Form](https://www.drupal.org/project/inline_entity_form) | 内联实体表单，如果 `B` 关联 `A` 内容类型，可以在 `A` 的内容维护页面新建 `B` 节点 | 214w+ |
+| [Diff](https://www.drupal.org/project/diff) | 查看区别，跟踪 `Node` 节点的版本变化，跟踪修改| 268w+ |
+| [Node Title Validation](https://www.drupal.org/project/node_title_validation) | 标题验证，（字符长度、黑名单、唯一性）| 1.8w+ |
+| [FAQ Field](https://www.drupal.org/project/faqfield) | 常见问题解答，可快速创建 `FAQ` 页面| 7.5w+ |
+| [Legal](https://www.drupal.org/project/legal) | 注册条款，注册时，同意才可以下一步 | 22w+ |
+| [Terms of Use](https://www.drupal.org/project/terms_of_use) | 用户条款，和 `Legal` 模块一样，同意条款和条件，该模特可选某个 `Node` 节点为协议，可自定义标题 | 9.2w+ |
+| [User Points](https://www.drupal.org/project/userpoints) | 用户积分，与 `Rule` 模块集成，触发操作时，增加或者减少积分 | 17w+ |
+| [Session Limit](https://www.drupal.org/project/session_limit) | 会话限制，管理员可以设置一个用户同时可以登录多少个 | 14w+ |
+| [Email Registration](https://www.drupal.org/project/email_registration) | 邮箱注册，允许用户通过邮件来注册和登录 | 44w+ |
 
 <h4 id="taxonomy">分类术语 Taxonomy</h4>
 
@@ -157,6 +157,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Honeypot](https://www.drupal.org/project/honeypot) | 使用蜜罐和时间戳的原理来阻止机器人提交垃圾信息，该模块不像 `CAPTCHA` 模块有侵入性，支持所有表单或者指定表单 | 114w+ |
 | [Captcha Riddler](https://www.drupal.org/project/riddler) | 该模块依赖 `CAPTCHA` 模块，提交表单时提供自定义问题和匹配的答案，可随机问题，有效防止机器人提交垃圾信息，但是过多的设置复杂度有可能影响用户使用体验 | 2.8w+ |
 | [Password Policy](https://www.drupal.org/project/password_policy) | 对密码进行约束限制，必须满足条件才可以修改，支持字符、数字、字母、长度、大小写、标点、用户名等，还实现了密码到期功能，可强制下次登录时更改密码 | 81w+ |
+| [Automatic user Names](https://www.drupal.org/project/auto_username) | 自动用户名，该模块会禁用注册表单的用户名字段，提供令牌自动生成用户名，这样你就可以生成一些虚拟的账户 | 1.5w+ |
 
 <h4 id="commerce">商务 Commerce</h4>
 
@@ -248,6 +249,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Config pages](https://www.drupal.org/project/config_pages) | 如果你经常使用表单 `API` 来创建自定义页面，那么这个模块也许可以帮助你快速的创建类似的页面，并帮你配置一个后台的管理菜单 | 8w+ |
 | [CSS Editor](https://www.drupal.org/project/css_editor) | 通过后台添加自定义 `Css` 样式，而且还可以实时预览效果 | 3.7w+ |
 | [Block Class](https://www.drupal.org/project/block_class) | 在区块配置页面允许给区块添加自定义 `Class` 类 | 77.9w+ |
+| [Masquerade](https://www.drupal.org/project/masquerade) | 允许有权限的用户无需密码直接切换到另外的一个用户，并随时可以切回本账户，这对于开发来说有时会非常有用 | 88w+ |
 
 <h4 id="performance">性能 Performance</h4>
 
