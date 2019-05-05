@@ -286,7 +286,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [jQuery 编码规范](https://www.drupal.org/docs/develop/standards/javascript/jquery-coding-standards) | `jQuery` 编码规范和最佳实践 |
 | [谁使用了 Drupal？](https://www.drupal.com/showcases) | 官网收录的 `Drupal` 使用案例，包括了很多的世界顶级高校，如果你要向你的客户展示都有谁在使用，这个是一个不错的查询工具 |
 | [Using attributes in templates](https://www.drupal.org/docs/8/theming-drupal-8/using-attributes-in-templates) | 在 `twig` 模板中，使用 `attributes` 对象的方法去创建属性 | 
-| [JSON:API](https://www.drupal.org/docs/8/modules/jsonapi/jsonapi) | 在 Drupal 中启用 JSON:API ，概念和如何使用 |
+| [JSON:API](https://www.drupal.org/docs/8/modules/jsonapi/jsonapi) | 在 Drupal 中启用 JSON:API ，讲述概念和如何使用 |
 
 
 <h4 id="articles">相关文章资源</h4>
