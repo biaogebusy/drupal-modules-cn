@@ -8,7 +8,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | UI | [幻灯片](#carousel) ，[视图](#views)，[用户体验](#ued)，[主题](#themes)，[互动](#action)|
 | 实体 | [内容](#node)，[分类术语](#taxonomy)，[菜单](#menu)，[媒体](#media)，[编辑器](#editor)，[评论](#comments)，[投票](#vote)|
 | 其他 | [管理](#manage)，[电子商务](#commerce)，[移动设备](#mobile)，[社交](#sns)，[发行版](#release)，[SEO](#seo)，[开发](#dev)，[性能](#performance)|
-| 文章 | [编码规范](#standards)，[官网文档](#doc)，[相关文章](#articles)|
+| 文章 | [编码规范](#standards)，[官网文档](#doc)，[相关文章](#articles)，[开源项目 Github](#github)|
 
  
 
@@ -269,7 +269,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 
 | 标题 | 简介 |
 | --- | --- | 
-| [添加css和js](https://www.drupal.org/docs/8/theming/adding-stylesheets-css-and-javascript-js-to-a-drupal-8-theme) | 在 `Drupal8` 中添加 `Css` 和 `JavaScript` |
+| [添加 CSS 和 JS](https://www.drupal.org/docs/8/theming/adding-stylesheets-css-and-javascript-js-to-a-drupal-8-theme) | 在 `Drupal8` 中添加 `Css` 和 `JavaScript` |
 | [建立子主题](https://www.drupal.org/docs/8/theming-drupal-8/creating-a-drupal-8-sub-theme-or-sub-theme-of-sub-theme) | 关于建立子主题的文档 |
 | [JavaScript API 概览](https://www.drupal.org/docs/7/api/javascript-api/javascript-api-overview) | `Drupal8` 在页面初始化的时候或者获取数据时候提供了一些 `API`，详细介绍了 `JavaScript` 是如何在 `Drupal` 中运行的，遵循官方的开发规范是良好开发的第一步 |
 | [Drupal.settings](https://www.drupal.org/docs/7/api/javascript-api/javascript-api-overview#drupal-settings) | 这个对象是 `Drupal` 模块和前端数据沟通的桥梁，后台的配置信息，前端可以读取并做出应有的响应 |
@@ -277,15 +277,16 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Drupal.locale](https://www.drupal.org/docs/7/api/javascript-api/javascript-api-overview#drupal-locale) | 如果你的站点目前用到多语言或者未来要用到多语言，那么在 `JavaScript` 中，字符串可以使用 `Drupal.t()` 可以让字符串可翻译 | 
 | [主题定义.info.yml](https://www.drupal.org/docs/8/theming-drupal-8/defining-a-theme-with-an-infoyml-file) | 详细介绍了主题定义文件的参数 |
 | [在主题中添加区域](https://www.drupal.org/docs/8/theming/adding-regions-to-a-theme) | 在 `Drupal8` 中如何声明一个区域，良好的布局架构是一个主题的基础 |
-| [Drupal 如何架构CSS](https://www.drupal.org/docs/develop/standards/css/css-architecture-for-drupal-8) | 可以借鉴一下 `Drupal` 对应 `Css` 组件化开发的一些思路 |
+| [Drupal 如何架构 CSS](https://www.drupal.org/docs/develop/standards/css/css-architecture-for-drupal-8) | 可以借鉴一下 `Drupal` 对应 `Css` 组件化开发的一些思路 |
 | [Seven UI 样式指南](https://groups.drupal.org/node/283223) | 详细介绍了内置主题 `Seven` 的 `UI` 指南 |
 | [Drupal 编码规范](https://www.drupal.org/docs/develop/standards) | 编码规范的目录 |
 | [Drupal JavaScript API 文档和注释规范](https://www.drupal.org/docs/develop/standards/javascript/javascript-api-documentation-and-comment-standards) | `JavaScript` 开发的相关规范 |
 | [JavaScript 编码规范](https://www.drupal.org/docs/develop/standards/javascript/javascript-coding-standards) | `JavaScript` 开发的相关规范 |
 | [ESLint settings](https://www.drupal.org/docs/develop/standards/javascript/eslint-settings) | `ESLint` 代码检查 |
 | [jQuery 编码规范](https://www.drupal.org/docs/develop/standards/javascript/jquery-coding-standards) | `jQuery` 编码规范和最佳实践 |
-| [谁使用了Drupal？](https://www.drupal.com/showcases) | 官网收录的 `Drupal` 使用案例，包括了很多的世界顶级高校，如果你要向你的客户展示都有谁在使用，这个是一个不错的查询工具 |
-| [Using attributes in templates](https://www.drupal.org/docs/8/theming-drupal-8/using-attributes-in-templates) | 在 `tiwg` 模板中，使用 `attributes` 对象的方法去创建属性 | 
+| [谁使用了 Drupal？](https://www.drupal.com/showcases) | 官网收录的 `Drupal` 使用案例，包括了很多的世界顶级高校，如果你要向你的客户展示都有谁在使用，这个是一个不错的查询工具 |
+| [Using attributes in templates](https://www.drupal.org/docs/8/theming-drupal-8/using-attributes-in-templates) | 在 `twig` 模板中，使用 `attributes` 对象的方法去创建属性 | 
+| [JSON:API](https://www.drupal.org/docs/8/modules/jsonapi/jsonapi) | 在 Drupal 中启用 JSON:API ，概念和如何使用 |
 
 
 <h4 id="articles">相关文章资源</h4>
@@ -293,3 +294,9 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | 标题 | 文章简介 | 
 | --- | --- |
 | [理解 Drupal behaviors 机制](https://www.lullabot.com/articles/understanding-javascript-behaviors-in-drupal#/) | 理解 `Drupal behaviors` 是深入开发 `Drupal` 主题的前提，涉及到 `Drupal js` 的执行机制，上下文等 |
+
+<h4 id="github">开源项目 Github</h4>
+
+| 项目名 | 项目简介 | 
+| --- | --- |
+|[docker4drupal](https://github.com/wodby/docker4drupal) | 针对 `Drupal` 优化的 `Docker` 镜像，支持 `Linux`, `Mac`, `Windows` 环境 |
