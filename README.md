@@ -77,6 +77,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [User Points](https://www.drupal.org/project/userpoints) | 用户积分，与 `Rule` 模块集成，触发操作时，增加或者减少积分 | 17w+ |
 | [Session Limit](https://www.drupal.org/project/session_limit) | 会话限制，管理员可以设置一个用户同时可以登录多少个 | 14w+ |
 | [Email Registration](https://www.drupal.org/project/email_registration) | 邮箱注册，允许用户通过邮件来注册和登录 | 44w+ |
+| [Field Hidden](https://www.drupal.org/project/field_hidden) | 隐藏字段，一般可以用来配合生产 Pathauto 的路径，也可以用于不需要编辑的输入，但是需要 Entity 存储的用途 | 13w+ |
 
 <h4 id="taxonomy">分类术语 Taxonomy</h4>
 
@@ -84,14 +85,14 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | --- | ---- | :---: |
 | [Taxonomy Term Reference Tree Widget](https://www.drupal.org/project/term_reference_tree) | 树形展示分类术语词汇表 | 18w+ |
 | [Simple hierarchical select](https://www.drupal.org/project/shs) | `Ajax` 联动方式展示分类术语，支持 `Views` | 21w+ |
-| [Taxonomy menu](https://www.drupal.org/project/taxonomy_menu) | 使用分类术语的层级结构快速构建一个菜单 | 73w+ |
-| [Taxonomy Manager](https://www.drupal.org/project/taxonomy_manager) | 该模块提供一个强大的分类术语管理界面，可批量删除添加，支持 `Ajax`，导出等 | 51w+ |
+| [Taxonomy menu](https://www.drupal.org/project/taxonomy_menu) | 术语菜单，使用分类术语的层级结构快速构建一个菜单 | 73w+ |
+| [Taxonomy Manager](https://www.drupal.org/project/taxonomy_manager) | 术语管理器，该模块提供一个强大的分类术语管理界面，可批量删除添加，支持 `Ajax`，导出等 | 51w+ |
 
 <h4 id="ued">用户体验 UED</h4>
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
-| [Search Autocomplete](https://www.drupal.org/project/search_autocomplete) | 在输入搜索表单时，自动填充显示相关的建议列表，开启后，默认匹配核心搜索和搜索模块，高度自定义配置 | 12w+ |
+| [Search Autocomplete](https://www.drupal.org/project/search_autocomplete) | 搜索自动检索，在输入搜索表单时，自动填充显示相关的建议列表，开启后，默认匹配核心搜索和搜索模块，高度自定义配置 | 12w+ |
 | [Ajax loader](https://www.drupal.org/project/ajax_loader) | 该模块会覆盖内核自带的 `Ajax loader` 样式，提供了很多种 `loading` 样式选择 | 3w+ |
 
 <h4 id="themes">主题 Themes</h4>
@@ -99,10 +100,10 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
 | [Front Page](https://www.drupal.org/project/front) | 为不同的角色使用不同的主页 | 40w+ |
-| [Image Effects](https://www.drupal.org/project/image_effects) | 为图片添加背景图、效果、水印等 | 24w+ |
+| [Image Effects](https://www.drupal.org/project/image_effects) | 图片效果，为图片添加背景图、效果、水印等 | 24w+ |
 | [Focal Point](https://www.drupal.org/project/focal_point) | 允许你在上传图片的时候进行焦点的处理，这样可以裁剪出重要且合适的部分 | 87w+ |
-| [Switch Page Theme](https://www.drupal.org/project/switch_page_theme) | 根据路径使用不同的主题，比如你建立了一个自定义的管理主题，可以根据指定的路径来使用管理主题 | 2.8w+ |
-| [Font Awesome Icons](https://www.drupal.org/project/fontawesome) | 知名的字体图标库，`Web` 网页中非常流行的字体集 | 34w+ |
+| [Switch Page Theme](https://www.drupal.org/project/switch_page_theme) | 切换页面主题，根据路径使用不同的主题，比如你建立了一个自定义的管理主题，可以根据指定的路径来使用管理主题 | 2.8w+ |
+| [Font Awesome Icons](https://www.drupal.org/project/fontawesome) | `Awesome` 字体图标，知名的字体图标库，`Web` 网页中非常流行的字体集 | 34w+ |
 | [Omega](https://www.drupal.org/project/omega) | 响应式布局，可以作为基主题建立子主题 | 112w+ |
 | [Bootstrap](https://www.drupal.org/project/bootstrap) | [Bootstrap 中文](https://v3.bootcss.com/) 是最受欢迎的 `HTML`、`CSS` 和 `JS` 前端`CSS`框架，用于开发响应式布局、移动设备优先的 `WEB` 项目，有详细的使用[文档](https://drupal-bootstrap.org/api/bootstrap)。 | 233w+ |
 | [ZURB Foundation](https://www.drupal.org/project/zurb_foundation) | 该主题可以快速制作网站原型，降低开发成本 | 26w+ |
@@ -133,8 +134,8 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
 | [Backup and Migrate](https://www.drupal.org/project/backup_migrate) | 备份和恢复你的站点数据库、代码、附件，支持自动备份 | 308w+ |
-| [Configuration Read-only mode](https://www.drupal.org/project/config_readonly) | 该模块可以锁定通过 `Drupal` 管理后台完成的任何配置，例如你不想在生产环境上进行配置的更改，只允许本地进行配置的情况 | 13w+ |
-| [Module filter](https://www.drupal.org/project/module_filter) | 一个很复杂的 `Drupal` 站点，可能会包含很多的模块，该模块可以提高管理模块的效率 | 299w+ |
+| [Configuration Read-only mode](https://www.drupal.org/project/config_readonly) | 配置只读模式，该模块可以锁定通过 `Drupal` 管理后台完成的任何配置，例如你不想在生产环境上进行配置的更改，只允许本地进行配置的情况 | 13w+ |
+| [Module filter](https://www.drupal.org/project/module_filter) | 过滤模块，一个很复杂的 `Drupal` 站点，可能会包含很多的模块，该模块可以提高管理模块的效率 | 299w+ |
 | [Read only mode](https://www.drupal.org/project/readonlymode) | 当站点设置为维护模式时，可访问内容，但不允许添加发布内容 | 8w+ |
 | [Admin Toolbar](https://www.drupal.org/project/admin_toolbar) | 该模块可以增强默认的 `Drupal` 工具栏菜单，添加下拉功能，从而减少点击链接路径，轻松访问各个管理页面 | 225w+ |
 | [Rules](https://www.drupal.org/project/rules) | 重量级的模块，允许站点管理员根据发生的事件（内容更新，用户登录，访问等等），执行指定的操作 | 324w+ |
