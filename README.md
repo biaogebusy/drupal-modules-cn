@@ -6,7 +6,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | 分类 | 子类 |
 | --- | ---- |
 | UI | [幻灯片](#carousel) ，[视图](#views)，[用户体验](#ued)，[主题](#themes)，[互动](#action)|
-| 实体 | [内容](#node)，[分类术语](#taxonomy)，[菜单](#menu)，[媒体](#media)，[编辑器](#editor)，[评论](#comments)，[投票](#vote)|
+| 实体 | [内容](#node)，[用户](#user)，[分类术语](#taxonomy)，[菜单](#menu)，[媒体](#media)，[编辑器](#editor)，[评论](#comments)，[投票](#vote)|
 | 其他 | [管理](#manage)，[电子商务](#commerce)，[移动设备](#mobile)，[社交](#sns)，[发行版](#release)，[SEO](#seo)，[开发](#dev)，[性能](#performance)|
 | 文章 | [编码规范](#standards)，[官网文档](#doc)，[相关文章](#articles)，[开源项目 Github](#github)|
 
@@ -72,12 +72,27 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Diff](https://www.drupal.org/project/diff) | 查看区别，跟踪 `Node` 节点的版本变化，跟踪修改| 268w+ |
 | [Node Title Validation](https://www.drupal.org/project/node_title_validation) | 标题验证，（字符长度、黑名单、唯一性）| 1.8w+ |
 | [FAQ Field](https://www.drupal.org/project/faqfield) | 常见问题解答，可快速创建 `FAQ` 页面| 7.5w+ |
+| [Field Hidden](https://www.drupal.org/project/field_hidden) | 隐藏字段，一般可以用来配合生产 Pathauto 的路径，也可以用于不需要编辑的输入，但是需要 Entity 存储的用途 | 13w+ |
+
+<h4 id="user">用户 User</h4>
+
+| 模块 | 描述 | 安装量 |
+| --- | ---- | :---: |
 | [Legal](https://www.drupal.org/project/legal) | 注册条款，注册时，同意才可以下一步 | 22w+ |
 | [Terms of Use](https://www.drupal.org/project/terms_of_use) | 用户条款，和 `Legal` 模块一样，同意条款和条件，该模特可选某个 `Node` 节点为协议，可自定义标题 | 9.2w+ |
 | [User Points](https://www.drupal.org/project/userpoints) | 用户积分，与 `Rule` 模块集成，触发操作时，增加或者减少积分 | 17w+ |
 | [Session Limit](https://www.drupal.org/project/session_limit) | 会话限制，管理员可以设置一个用户同时可以登录多少个 | 14w+ |
 | [Email Registration](https://www.drupal.org/project/email_registration) | 邮箱注册，允许用户通过邮件来注册和登录 | 44w+ |
-| [Field Hidden](https://www.drupal.org/project/field_hidden) | 隐藏字段，一般可以用来配合生产 Pathauto 的路径，也可以用于不需要编辑的输入，但是需要 Entity 存储的用途 | 13w+ |
+| [CAPTCHA](https://www.drupal.org/project/captcha) | 该模块可以有效阻止垃圾邮件程序提交表单，有很多的选项提供使用 | 267w+ |
+| [Chinese Captcha](https://www.drupal.org/project/chinese_captcha) | 中文验证码模块，防止机器人垃圾信息的攻击 | 6k+ |
+| [reCAPTCHA](https://www.drupal.org/project/recaptcha) | 该模块使用了 Google reCAPTCHA 服务，可以有效识别机器人，有效减少垃圾邮件和滥用提交 | 139w+ |
+| [Honeypot](https://www.drupal.org/project/honeypot) | 使用蜜罐和时间戳的原理来阻止机器人提交垃圾信息，该模块不像 `CAPTCHA` 模块有侵入性，支持所有表单或者指定表单 | 114w+ |
+| [Captcha Riddler](https://www.drupal.org/project/riddler) | 该模块依赖 `CAPTCHA` 模块，提交表单时提供自定义问题和匹配的答案，可随机问题，有效防止机器人提交垃圾信息，但是过多的设置复杂度有可能影响用户使用体验 | 2.8w+ |
+| [Password Policy](https://www.drupal.org/project/password_policy) | 对密码进行约束限制，必须满足条件才可以修改，支持字符、数字、字母、长度、大小写、标点、用户名等，还实现了密码到期功能，可强制下次登录时更改密码 | 81w+ |
+| [Automatic user Names](https://www.drupal.org/project/auto_username) | 自动用户名，该模块会禁用注册表单的用户名字段，提供令牌自动生成用户名，这样你就可以生成一些虚拟的账户 | 1.5w+ |
+| [Registration codes](https://www.drupal.org/project/regcode) | 注册邀请码，管理员可以提供有效注册码，生成导入导出注册码，可设置只有注册码的用户才可以注册新账户 | 4w+ |
+| [Automated Logout](https://www.drupal.org/project/autologout) | 超时退出登录，当用户在页面中没有活动时，超时退出功能，可基于用户角色设置超时，用户也可以自己设置超时 | 34w+ |
+
 
 <h4 id="taxonomy">分类术语 Taxonomy</h4>
 
@@ -122,13 +137,6 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Menu Token](https://www.drupal.org/project/menu_token) | 该模块可以为菜单标题或者路径提供Token，比如 `user/[current-user:uid]`，就可以根据路径来传递参数做一些事情 | 23w+ |
 | [Font Awesome Menu Icons](https://www.drupal.org/project/fontawesome_menu_icons) | 给菜单扩展字段，允许添加 [Font Awesome](https://www.drupal.org/project/fontawesome) 字体图标，可以结合 [Font Awesome Icon Picker](https://github.com/farbelous/fontawesome-iconpicker) 这个模块来快速预览选择合适的图标 | 1.6w+ |
 
-<h4 id="media">媒体 Media</h4>
-
-| 模块 | 描述 | 安装量 |
-| --- | ---- | :---: |
-| [Video.js](https://www.drupal.org/project/videojs) | 基于 `HTML5` 的视频播放器，对应老旧的浏览器可以回退到 `Flash` 播放 | 13w+ |
-| [FillPDF](https://www.drupal.org/project/fillpdf) | 这个模块并不是用来显示 `PDF` 文件，而是根据内容字段或者 `Webform` 表单填写后生成 `PDF` 并可下载或者保存到服务器中 | 4.7w+ |
-
 <h4 id="manage">管理 Manage</h4>
 
 | 模块 | 描述 | 安装量 |
@@ -152,13 +160,6 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Content Access](https://www.drupal.org/project/content_access) | 按角色和作者统一设置管理内容类型的访问、编辑、删除权限 | 58w+ |
 | [Private content](https://www.drupal.org/project/private_content) | 简单的 `Node` 节点访问控制模块 | 1.3k+ |
 | [Block Content Permissions](https://www.drupal.org/project/block_content_permissions) | 开放区块管理权限，允许指定角色新建、更新、删除区块内容 | 4.8w+ |
-| [CAPTCHA](https://www.drupal.org/project/captcha) | 该模块可以有效阻止垃圾邮件程序提交表单，有很多的选项提供使用 | 267w+ |
-| [Chinese Captcha](https://www.drupal.org/project/chinese_captcha) | 中文验证码模块，防止机器人垃圾信息的攻击 | 6k+ |
-| [reCAPTCHA](https://www.drupal.org/project/recaptcha) | 该模块使用了 Google reCAPTCHA 服务，可以有效识别机器人，有效减少垃圾邮件和滥用提交 | 139w+ |
-| [Honeypot](https://www.drupal.org/project/honeypot) | 使用蜜罐和时间戳的原理来阻止机器人提交垃圾信息，该模块不像 `CAPTCHA` 模块有侵入性，支持所有表单或者指定表单 | 114w+ |
-| [Captcha Riddler](https://www.drupal.org/project/riddler) | 该模块依赖 `CAPTCHA` 模块，提交表单时提供自定义问题和匹配的答案，可随机问题，有效防止机器人提交垃圾信息，但是过多的设置复杂度有可能影响用户使用体验 | 2.8w+ |
-| [Password Policy](https://www.drupal.org/project/password_policy) | 对密码进行约束限制，必须满足条件才可以修改，支持字符、数字、字母、长度、大小写、标点、用户名等，还实现了密码到期功能，可强制下次登录时更改密码 | 81w+ |
-| [Automatic user Names](https://www.drupal.org/project/auto_username) | 自动用户名，该模块会禁用注册表单的用户名字段，提供令牌自动生成用户名，这样你就可以生成一些虚拟的账户 | 1.5w+ |
 
 <h4 id="commerce">商务 Commerce</h4>
 
@@ -220,6 +221,14 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
 | [Open Social](https://www.drupal.org/project/social) | 该发行版是一个开箱即用的在线社区、知识文档分享解决方案 [Demo](https://demo.getopensocial.com/) | 7.6w+ |
+
+<h4 id="media">媒体 Media</h4>
+
+| 模块 | 描述 | 安装量 |
+| --- | ---- | :---: |
+| [Video.js](https://www.drupal.org/project/videojs) | 基于 `HTML5` 的视频播放器，对应老旧的浏览器可以回退到 `Flash` 播放 | 13w+ |
+| [FillPDF](https://www.drupal.org/project/fillpdf) | 这个模块并不是用来显示 `PDF` 文件，而是根据内容字段或者 `Webform` 表单填写后生成 `PDF` 并可下载或者保存到服务器中 | 4.7w+ |
+
 
 <h4 id="seo">SEO</h4>
 
