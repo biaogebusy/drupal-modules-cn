@@ -92,6 +92,8 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Automatic user Names](https://www.drupal.org/project/auto_username) | 自动用户名，该模块会禁用注册表单的用户名字段，提供令牌自动生成用户名，这样你就可以生成一些虚拟的账户 | 1.5w+ |
 | [Registration codes](https://www.drupal.org/project/regcode) | 注册邀请码，管理员可以提供有效注册码，生成导入导出注册码，可设置只有注册码的用户才可以注册新账户 | 4w+ |
 | [Automated Logout](https://www.drupal.org/project/autologout) | 超时退出登录，当用户在页面中没有活动时，超时退出功能，可基于用户角色设置超时，用户也可以自己设置超时 | 34w+ |
+| [Password Separate Form](https://www.drupal.org/project/change_pwd_page) | 独立修改密码页面，这个页面具有单独的密码更改表单，默认的修改密码页面有点让人困惑 | 3.4w+ |
+| [Login Destination](https://www.drupal.org/project/login_destination) | 登录重定向，登录或者退出可自定义重定向到指定的内部或者外部页面，也可保留在当前访问的页面 | 37w+ |
 
 
 <h4 id="taxonomy">分类术语 Taxonomy</h4>
