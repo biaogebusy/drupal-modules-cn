@@ -138,6 +138,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Superfish](https://www.drupal.org/project/superfish) | 使用 `Superfish` 插件来展示 `Drupal` 菜单，键盘可访问 | 89w+ |
 | [Menu Token](https://www.drupal.org/project/menu_token) | 该模块可以为菜单标题或者路径提供Token，比如 `user/[current-user:uid]`，就可以根据路径来传递参数做一些事情 | 23w+ |
 | [Font Awesome Menu Icons](https://www.drupal.org/project/fontawesome_menu_icons) | 给菜单扩展字段，允许添加 [Font Awesome](https://www.drupal.org/project/fontawesome) 字体图标，可以结合 [Font Awesome Icon Picker](https://github.com/farbelous/fontawesome-iconpicker) 这个模块来快速预览选择合适的图标 | 1.6w+ |
+| [Default Toolbar Menu](https://www.drupal.org/project/default_toolbar_menu) | 默认工具栏菜单，使得不同角色的用户登录后台时，可以看到不同的默认菜单 | new | 
 
 <h4 id="manage">管理 Manage</h4>
 
