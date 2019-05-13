@@ -73,6 +73,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Node Title Validation](https://www.drupal.org/project/node_title_validation) | 标题验证，（字符长度、黑名单、唯一性）| 1.8w+ |
 | [FAQ Field](https://www.drupal.org/project/faqfield) | 常见问题解答，可快速创建 `FAQ` 页面| 7.5w+ |
 | [Field Hidden](https://www.drupal.org/project/field_hidden) | 隐藏字段，一般可以用来配合生产 Pathauto 的路径，也可以用于不需要编辑的输入，但是需要 Entity 存储的用途 | 13w+ |
+| [Glossify](https://www.drupal.org/project/glossify) | 扫描和解析内容并关联术语，生成链接，提高站内链接密度，有利于 SEO | 4.7w+ |
 
 <h4 id="user">用户 User</h4>
 
