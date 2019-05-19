@@ -5,7 +5,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 
 | 分类 | 子类 |
 | --- | ---- |
-| UI | [幻灯片](#carousel) ，[视图](#views)，[用户体验](#ued)，[主题](#themes)，[互动](#action)|
+| UI | [幻灯片](#carousel) ，[视图](#views)，[用户体验](#ued)，[主题](#themes)，[互动](#action)，[表单](#form)|
 | 实体 | [内容](#node)，[用户](#user)，[分类术语](#taxonomy)，[菜单](#menu)，[媒体](#media)，[编辑器](#editor)，[评论](#comments)，[投票](#vote)|
 | 其他 | [管理](#manage)，[电子商务](#commerce)，[移动设备](#mobile)，[社交](#sns)，[发行版](#release)，[SEO](#seo)，[开发](#dev)，[性能](#performance)|
 | 文章 | [编码规范](#standards)，[官网文档](#doc)，[相关文章](#articles)，[开源项目 Github](#github)|
@@ -54,7 +54,6 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
-| [Webform](https://www.drupal.org/project/webform) | `Webform` 可以构建表单，强大灵活的配置可以高度定制 `UI`，邮件通知，提交收集、导出，更有很多个相关的模块扩展使用 | 560W+ |
 | [Paragraphs](https://www.drupal.org/project/paragraphs) | 段落，是创作内容的新方式，在任何内容类型上添加段落字段，段落还可以互相嵌套，从简单的文本或图片到复杂的图片轮播，还可以随意重新排序，[DEMO](https://paragraphs.site-showcase.com/) | 203w+ |
 | [Classy Paragraphs](https://www.drupal.org/project/classy_paragraphs) | 给 `Paragraphs` 字段添加类，方便为段落区块定制不同的样式风格 | 11w+ |
 | [Content lock](https://www.drupal.org/project/content_lock) | 内容锁定，阻止其他用户同时对同一节点编辑，可按节点类型或按格式；可设置避免意外丢失内容，如关闭浏览器链接未保存而离开编辑表单等| 22w+ |
@@ -74,6 +73,13 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [FAQ Field](https://www.drupal.org/project/faqfield) | 常见问题解答，可快速创建 `FAQ` 页面| 7.5w+ |
 | [Field Hidden](https://www.drupal.org/project/field_hidden) | 隐藏字段，一般可以用来配合生产 Pathauto 的路径，也可以用于不需要编辑的输入，但是需要 Entity 存储的用途 | 13w+ |
 | [Glossify](https://www.drupal.org/project/glossify) | 扫描和解析内容并关联术语，生成链接，提高站内链接密度，有利于 SEO | 4.7w+ |
+| [File Paths](https://www.drupal.org/project/filefield_paths) | 字段文件路径，可以自定义指定字段上传的图片、文件存放的路径，扩展默认内核字段模块 | 43w+ |
+| [Filefield Sources](https://www.drupal.org/project/filefield_sources) | 上传文件可选择已存在服务器的文件 | 72w+ |
+| [Field image tooltip](https://www.drupal.org/project/field_image_tooltips) | 图片标记，允许你给图片某个位置添加标记和相应的内容 | 1.4k |
+| [Conditional Fields](https://www.drupal.org/project/conditional_fields) | 条件字段，B 字段依赖 A 字段，意味着当 A 字段被选择时，你才可以对 B 字段进行更新编辑 | 80w+ | 
+| [Automatic Entity Label](https://www.drupal.org/project/auto_entitylabel) | 自动字段，这是一个小而高效的模块，比如你有个编号需要自动根据 Token 生成，不希望用户填写，可以使用这个模块，它会隐藏前端显示，自动根据 Token 规则填写，包括节点标题、评论主题、分类术语等 | 37w+ |
+| [Field Group](https://www.drupal.org/project/field_group) | 字段组，该模块默认自带字段集、水平 Tab 标签、垂直标签、手风琴、HTML5等 | 403w+ |
+| [Simple Field Formatter](https://www.drupal.org/project/simple_field_formatter) | 简单字段格式化，轻松控制字段值的显示，比如在字段前置、后置指定文本、反转、修建、转为大小写、第一个字符转为大写 | 1.8w | 
 
 <h4 id="user">用户 User</h4>
 
@@ -93,9 +99,18 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Automatic user Names](https://www.drupal.org/project/auto_username) | 自动用户名，该模块会禁用注册表单的用户名字段，提供令牌自动生成用户名，这样你就可以生成一些虚拟的账户 | 1.5w+ |
 | [Registration codes](https://www.drupal.org/project/regcode) | 注册邀请码，管理员可以提供有效注册码，生成导入导出注册码，可设置只有注册码的用户才可以注册新账户 | 4w+ |
 | [Automated Logout](https://www.drupal.org/project/autologout) | 超时退出登录，当用户在页面中没有活动时，超时退出功能，可基于用户角色设置超时，用户也可以自己设置超时 | 34w+ |
-| [Password Separate Form](https://www.drupal.org/project/change_pwd_page) | 独立修改密码页面，这个页面具有单独的密码更改表单，默认的修改密码页面有点让人困惑 | 3.4w+ |
 | [Login Destination](https://www.drupal.org/project/login_destination) | 登录重定向，登录或者退出可自定义重定向到指定的内部或者外部页面，也可保留在当前访问的页面 | 37w+ |
 
+
+<h4 id="form">表单 Form</h4>
+
+| 模块 | 描述 | 安装量 |
+| --- | ---- | :---: |
+| [Webform](https://www.drupal.org/project/webform) | `Webform` 可以构建表单，强大灵活的配置可以高度定制 `UI`，邮件通知，提交收集、导出，更有很多个相关的模块扩展使用 | 560W+ |
+| [field_validation](https://www.drupal.org/project/field_validation) | 表单验证，提供大量的常规表单校验 | 23w+ |
+| [Password Separate Form](https://www.drupal.org/project/change_pwd_page) | 独立修改密码页面，这个页面具有单独的密码更改表单，默认的修改密码页面有点让人困惑 | 3.4w+ |
+| [Simple hierarchical select](https://www.drupal.org/project/shs) | 简单的多级选择器，通过 Ajax 的方式联动下拉列表 | 22w+ |
+| [Field Formatter Class](https://www.drupal.org/project/field_formatter_class) | 给字段添加类，方便 CSS 或者 JavaScript 获取选择 | 14w+ |
 
 <h4 id="taxonomy">分类术语 Taxonomy</h4>
 
@@ -164,6 +179,8 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Content Access](https://www.drupal.org/project/content_access) | 按角色和作者统一设置管理内容类型的访问、编辑、删除权限 | 58w+ |
 | [Private content](https://www.drupal.org/project/private_content) | 简单的 `Node` 节点访问控制模块 | 1.3k+ |
 | [Block Content Permissions](https://www.drupal.org/project/block_content_permissions) | 开放区块管理权限，允许指定角色新建、更新、删除区块内容 | 4.8w+ |
+| [Field Permissions](https://www.drupal.org/project/field_permissions) | 字段权限，允许管理员设置字段这种细度级的权限，拥有权限的人才可以编辑、查看或者创建 | 86W+ |
+| [Token Filter](https://www.drupal.org/project/token_filter) | Token 过滤器，提供一个输入表单来快速搜索过滤需要的 Token | 53w+ |
 
 <h4 id="commerce">商务 Commerce</h4>
 
