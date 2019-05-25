@@ -8,7 +8,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | UI | [幻灯片](#carousel) ，[视图](#views)，[用户体验](#ued)，[主题](#themes)，[互动](#action)，[表单](#form)|
 | 实体 | [内容](#node)，[用户](#user)，[分类术语](#taxonomy)，[菜单](#menu)，[媒体](#media)，[编辑器](#editor)，[评论](#comments)，[投票](#vote)|
 | 其他 | [管理](#manage)，[电子商务](#commerce)，[移动设备](#mobile)，[社交](#sns)，[发行版](#release)，[SEO](#seo)，[开发](#dev)，[性能](#performance)|
-| 文章 | [编码规范](#standards)，[官网文档](#doc)，[相关文章](#articles)，[开源项目 Github](#github)|
+| 文章 | [编码规范](#standards)，[官网文档](#doc)，[文章资源](#articles)，[视频资源](#video)，[开源项目 Github](#github)|
 
  
 
@@ -320,16 +320,26 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [JSON:API](https://www.drupal.org/docs/8/modules/jsonapi/jsonapi) | 在 Drupal 中启用 JSON:API ，讲述概念和如何使用 |
 
 
-<h4 id="articles">相关文章资源</h4>
+<h4 id="articles">文章资源 Article</h4>
 
 | 标题 | 文章简介 | 
 | --- | --- |
 | [理解 Drupal behaviors 机制](https://www.lullabot.com/articles/understanding-javascript-behaviors-in-drupal#/) | 理解 Drupal behaviors 是深入开发 Drupal 主题的前提，涉及到 Drupal js 的执行机制，上下文等 |
 | [使用软连接来解决 Drupal jsonapi 中 Node 节点图片相对路径的问题](https://zhuanlan.zhihu.com/p/66268190) | 使用 Angular 构建的单页面应用，读取 Drupal JSONAPI 的数据，通过软连接来解决图片显示问题 |
+| [reactfordrupal](https://reactfordrupal.com/) | 关于 React 和 Drupal 相关的文章集合 |
+
+<h4 id="articles">视频资源 Video</h4>
+
+| 标题 | 视频简介 | 
+| --- | --- |
+| [videodrupal](https://www.videodrupal.org/) | 该网站集合了 Youtube 上发布的 Drupal 视频，为 Drupal 社区服务，免费 | 
 | [React, Drupal 8, and JsonAPI 入门指南](https://www.videodrupal.org/video/20180429/getting-started-react-drupal-8-and-jsonapi) | 使用 react 构建前端页面，使用 Drupal8 和 JsonAPI(视频) |
+
+
 
 <h4 id="github">开源项目 Github</h4>
 
 | 项目名 | 项目简介 | 
 | --- | --- |
 |[docker4drupal](https://github.com/wodby/docker4drupal) | 针对 Drupal 优化的 Docker 镜像，支持 Linux, Mac, Windows 环境 |
+| [React Drupal exaple](https://github.com/zivtech/react-drupal-example) | Drupal8 模块中使用 React 的一个例子 |
