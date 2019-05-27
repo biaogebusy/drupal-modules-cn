@@ -319,6 +319,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [谁使用了 Drupal？](https://www.drupal.com/showcases) | 官网收录的 Drupal 使用案例，包括了很多的世界顶级高校，如果你要向你的客户展示都有谁在使用，这个是一个不错的查询工具 |
 | [Using attributes in templates](https://www.drupal.org/docs/8/theming-drupal-8/using-attributes-in-templates) | 在 twig 模板中，使用 attributes 对象的方法去创建属性 | 
 | [JSON:API](https://www.drupal.org/docs/8/modules/jsonapi/jsonapi) | 在 Drupal 中启用 JSON:API ，讲述概念和如何使用 |
+| [Drupal 版本升级](https://www.drupal.org/docs/8/upgrade/upgrading-from-drupal-6-or-7-to-drupal-8) | 从 Drupal6 升级到 Drupal7，或者从 Drupal7 升级到 Drupal8 |
 
 
 <h4 id="articles">文章资源 Article</h4>
