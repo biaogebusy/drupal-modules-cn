@@ -80,6 +80,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Automatic Entity Label](https://www.drupal.org/project/auto_entitylabel) | 自动字段，这是一个小而高效的模块，比如你有个编号需要自动根据 Token 生成，不希望用户填写，可以使用这个模块，它会隐藏前端显示，自动根据 Token 规则填写，包括节点标题、评论主题、分类术语等 | 37w+ |
 | [Field Group](https://www.drupal.org/project/field_group) | 字段组，该模块默认自带字段集、水平 Tab 标签、垂直标签、手风琴、HTML5等 | 403w+ |
 | [Simple Field Formatter](https://www.drupal.org/project/simple_field_formatter) | 简单字段格式化，轻松控制字段值的显示，比如在字段前置、后置指定文本、反转、修建、转为大小写、第一个字符转为大写 | 1.8w | 
+| [agGrid](https://www.drupal.org/project/aggrid) | agGrid 网格数据表单，使用 ag-Grid 开源库来保存类似网格的数据 | 1.5k+ |
 
 <h4 id="user">用户 User</h4>
 
@@ -343,3 +344,4 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | --- | --- |
 |[docker4drupal](https://github.com/wodby/docker4drupal) | 针对 Drupal 优化的 Docker 镜像，支持 Linux, Mac, Windows 环境 |
 | [React Drupal exaple](https://github.com/zivtech/react-drupal-example) | Drupal8 模块中使用 React 的一个例子 |
+| [mysql_best_configuration](https://github.com/jdaaaaaavid/mysql_best_configuration/blob/master/my.cnf) | Mysql 数据库配置优化 |
