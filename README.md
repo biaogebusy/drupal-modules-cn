@@ -61,7 +61,6 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Exclude Node Title](https://www.drupal.org/project/exclude_node_title) | 排除标题，前台页面不显示标题，有些场景下，你并不希望显示内容的标题 | 26w+ |
 | [Flippy](https://www.drupal.org/project/flippy) | 上一篇/下一篇，为内容添加快速到达上下篇的功能，这在很多的门户网站中很常见 | 6w+ |
 | [Scheduler](https://www.drupal.org/project/scheduler) | 定时计划，可对内容进行定时发布或者未发布 | 119w+ | 
-| [linkit](https://www.drupal.org/project/Linkit) | 插入链接，在编辑器中快速插入节点，用户链接，分类术语，文件和外部链接的模块 | 137w+ |
 | [Add another](https://www.drupal.org/project/addanother) | 新建下一个，发布节点后，自动新建节点，快速发布内容，节省操作 | 18w+ |
 | [FullCalendar](https://www.drupal.org/project/fullcalendar) | 全日历，使用日历来显示字段（使用时间对内容分类） | 21w+ |
 | [Calendar @d7](https://www.drupal.org/project/calendar) | 日历，多种日历格式显示节点字段 | 144w+ |
@@ -220,6 +219,14 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [CKEditor Find/Replace](https://www.drupal.org/project/ckeditor_find) | 查找替换，在编辑器中方便查找替换匹配的内容 | 4k+ |
 | [CKEditor Templates](https://www.drupal.org/project/ckeditor_templates) | 插入自定义模板， 通过对话框的方式，提供预定义的内容模板，包含页面布局，文本格式和样式 | 5w+ |
 | [CKEditor Bootstrap Glyphicon](https://www.drupal.org/project/glyphicons) | 插入 Bootstrap 字体图标 | 2.8k+ |
+| [CKEditor IndexBlock](https://www.drupal.org/project/ckeditor_indentblock) | 段落缩进，给文本段落添加缩进功能 | 8.5k+ |
+| [CKEditor Letter Spacing](https://www.drupal.org/project/ckeditor_ls) | 添加字间距，给文本添加字间距 | 0.6k+ |
+| [CKEditor CodeMirror](https://www.drupal.org/project/ckeditor_codemirror) | 源码模式下添加语法高亮显示，方便查看源码 | 3.2w+ |
+| [CKEditor Bootstrap Buttons](https://www.drupal.org/project/ckeditor_bootstrap_buttons) | 插入 Bootstrap 按钮，通过配置的方式插入按钮，可添加字体图标 | 1.7w+ |
+| [Editor Advanced link](https://www.drupal.org/project/editor_advanced_link) | 添加高级链接，可配置 Class, ID, target, rel | 48w+ | 
+| [Editor File upload](https://www.drupal.org/project/editor_file) | 在编辑器中上传文件 | 20w+ |
+| [Entity Embed](https://www.drupal.org/project/entity_embed) | 嵌入实体，可在编辑器中嵌入实体内容，需要在过滤器中允许 `<drupal-entity data-*>` | 111w+ |
+| [linkit](https://www.drupal.org/project/Linkit) | 插入链接，在编辑器中快速插入节点，用户链接，分类术语，文件和外部链接的模块 | 137w+ |
 
 
 <h4 id="mobile">移动设备 Mobile</h4>
