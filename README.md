@@ -81,6 +81,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Field Group](https://www.drupal.org/project/field_group) | 字段组，该模块默认自带字段集、水平 Tab 标签、垂直标签、手风琴、HTML5等 | 403w+ |
 | [Simple Field Formatter](https://www.drupal.org/project/simple_field_formatter) | 简单字段格式化，轻松控制字段值的显示，比如在字段前置、后置指定文本、反转、修建、转为大小写、第一个字符转为大写 | 1.8w | 
 | [agGrid](https://www.drupal.org/project/aggrid) | agGrid 网格数据表单，使用 ag-Grid 开源库来保存类似网格的数据 | 1.5k+ |
+| [FAQ](https://www.drupal.org/project/faq) | 常见问题模块，允许用户创建常见问题页面，通过配置自动生成，还可以通过视图进行自定义布局| 30w+ |
 
 <h4 id="user">用户 User</h4>
 
@@ -155,7 +156,8 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Superfish](https://www.drupal.org/project/superfish) | 使用 Superfish 插件来展示 Drupal 菜单，键盘可访问 | 89w+ |
 | [Menu Token](https://www.drupal.org/project/menu_token) | 该模块可以为菜单标题或者路径提供Token，比如 user/[current-user:uid]，就可以根据路径来传递参数做一些事情 | 23w+ |
 | [Font Awesome Menu Icons](https://www.drupal.org/project/fontawesome_menu_icons) | 给菜单扩展字段，允许添加 [Font Awesome](https://www.drupal.org/project/fontawesome) 字体图标，可以结合 [Font Awesome Icon Picker](https://github.com/farbelous/fontawesome-iconpicker) 这个模块来快速预览选择合适的图标 | 1.6w+ |
-| [Default Toolbar Menu](https://www.drupal.org/project/default_toolbar_menu) | 默认工具栏菜单，使得不同角色的用户登录后台时，可以看到不同的默认菜单 | new | 
+| [Default Toolbar Menu](https://www.drupal.org/project/default_toolbar_menu) | 默认工具栏菜单，使得不同角色的用户登录后台时，可以看到不同的默认菜单 | 50+ | 
+| [Menu postion](https://www.drupal.org/project/menu_position) | 菜单位置，简单的说就是把实体的标题添加到面包屑菜单中 | 20w+ |
 
 <h4 id="manage">管理 Manage</h4>
 
@@ -203,6 +205,22 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Markdown](https://www.drupal.org/project/markdown) | 为编辑器提供 Markdown 语法支持 | 28w+ |
 | [Ace editor](https://www.drupal.org/project/ace_editor) | Ace 是使用 JavaScript 编写的代码编辑器，提供代码高亮，缩进，键盘快捷键，自动完成，代码折叠，查找和替换等 | 6.2w+ |
 | [Gutenberg](https://www.drupal.org/project/gutenberg) | 原生的古腾堡编辑器是 WordPress 出品的，也有了 Drupal 的版本，尝试新体验的可以使用 | 1.1w+ |
+| [CKEditor Upload Image](https://www.drupal.org/project/ckeditor_uploadimage) | 上传图片，可以从剪切板中粘贴图片并上传到编辑器中 | 2.8w+ |
+| [CKEditor Color Button](https://www.drupal.org/project/colorbutton) | 颜色按钮，可以在编辑器中为文字或者文字背景添加颜色 | 14.5w+ |
+| [CkEditor Accessibility Checker](https://www.drupal.org/project/ckeditor_a11ychecker) | 编辑器可访问检测器，该模块可以检查编辑器中的内容可访问性，并提供解决方案 | 1.2w+ |
+| [CkEditor COdeSnippet](https://www.drupal.org/project/codesnippet) | 代码片段，高亮显示格式化代码 | 4.9w+ |
+| [CKEditor CodeTag](https://www.drupal.org/project/codetag) | 编辑器内联代码高亮，有时候需要在文本中内联代码标签，更好的突出显示 | 8.3k+ |
+| [CKEditor Emojione](https://www.drupal.org/project/ckeditor_emojione) | 表情包，在编辑器中插入常用的表情 | 2.7k+ |
+| [CKEditor Font Size and Family](https://www.drupal.org/project/ckeditor_font) | 设置字体和字体大小，在编辑器中可自定义字体和字体大小 | 8w+ |
+| [CKEditor Loremipsum](https://www.drupal.org/project/ckeditor_loremipsum) | 插入 lorem 测试文本，可插入随机的测试文本 | 3.7k+ |
+| [CKEditor Spoiler](https://www.drupal.org/project/ckeditor_spoiler) | 插入可折叠面板，在编辑器中可以插入折叠展开的面板 | 5k+ |
+| [CKEditor Wordcount](https://www.drupal.org/project/ckwordcount) | 数字统计，可统计编辑器中的段落、单词、文本字数 | 5w+ |
+| [CKEditor List Style](https://www.drupal.org/project/ckeditor_liststyle) | 列表样式，给文本添加可选的列表样式 | 1.9w+ |
+| [CKEditor Anchor Link](https://www.drupal.org/project/anchor_link) | 锚点链接，通过对话框的方式编辑锚点 | 15.6w+ |
+| [CKEditor Find/Replace](https://www.drupal.org/project/ckeditor_find) | 查找替换，在编辑器中方便查找替换匹配的内容 | 4k+ |
+| [CKEditor Templates](https://www.drupal.org/project/ckeditor_templates) | 插入自定义模板， 通过对话框的方式，提供预定义的内容模板，包含页面布局，文本格式和样式 | 5w+ |
+| [CKEditor Bootstrap Glyphicon](https://www.drupal.org/project/glyphicons) | 插入 Bootstrap 字体图标 | 2.8k+ |
+
 
 <h4 id="mobile">移动设备 Mobile</h4>
 
@@ -336,7 +354,6 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | --- | --- |
 | [videodrupal](https://www.videodrupal.org/) | 该网站集合了 Youtube 上发布的 Drupal 视频，为 Drupal 社区服务，免费 | 
 | [React, Drupal 8, and JsonAPI 入门指南](https://www.videodrupal.org/video/20180429/getting-started-react-drupal-8-and-jsonapi) | 使用 react 构建前端页面，使用 Drupal8 和 JsonAPI(视频) |
-
 
 
 <h4 id="github">开源项目 Github</h4>
