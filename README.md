@@ -354,6 +354,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [理解 Drupal behaviors 机制](https://www.lullabot.com/articles/understanding-javascript-behaviors-in-drupal#/) | 理解 Drupal behaviors 是深入开发 Drupal 主题的前提，涉及到 Drupal js 的执行机制，上下文等 |
 | [使用软连接来解决 Drupal jsonapi 中 Node 节点图片相对路径的问题](https://zhuanlan.zhihu.com/p/66268190) | 使用 Angular 构建的单页面应用，读取 Drupal JSONAPI 的数据，通过软连接来解决图片显示问题 |
 | [reactfordrupal](https://reactfordrupal.com/) | 关于 React 和 Drupal 相关的文章集合 |
+| [Drupal 8, React, Vue, JSON API and ES6 learning resources](https://colorfield.be/blog/drupal-8-react-vue-json-api-and-es6-learning-resources) | 关于 Drupal 8, React, Vue, JSON API 和 ES6 相关的学习资源 |
 
 <h4 id="articles">视频资源 Video</h4>
 
