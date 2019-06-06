@@ -375,3 +375,6 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 |[docker4drupal](https://github.com/wodby/docker4drupal) | 针对 Drupal 优化的 Docker 镜像，支持 Linux, Mac, Windows 环境 |
 | [React Drupal exaple](https://github.com/zivtech/react-drupal-example) | Drupal8 模块中使用 React 的一个例子 |
 | [mysql_best_configuration](https://github.com/jdaaaaaavid/mysql_best_configuration/blob/master/my.cnf) | Mysql 数据库配置优化 |
+| [Angular jsonapi](https://github.com/jakubrohleder/angular-jsonapi) | Angular 应用中方便操作 jsonapi 数据的库 |
+| [Backbone jsonapi](https://github.com/guillaumervls/backbone-jsonapi) | 从 jsonapi 中获取模型和集合 |
+| [jsonapi libraries](https://jsonapi.org/implementations/#client-libraries-javascript) | 关于 jsonapi 相关的库 |
