@@ -97,6 +97,9 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Honeypot](https://www.drupal.org/project/honeypot) | 使用蜜罐和时间戳的原理来阻止机器人提交垃圾信息，该模块不像 CAPTCHA 模块有侵入性，支持所有表单或者指定表单 | 114w+ |
 | [Captcha Riddler](https://www.drupal.org/project/riddler) | 该模块依赖 CAPTCHA 模块，提交表单时提供自定义问题和匹配的答案，可随机问题，有效防止机器人提交垃圾信息，但是过多的设置复杂度有可能影响用户使用体验 | 2.8w+ |
 | [Password Policy](https://www.drupal.org/project/password_policy) | 对密码进行约束限制，必须满足条件才可以修改，支持字符、数字、字母、长度、大小写、标点、用户名等，还实现了密码到期功能，可强制下次登录时更改密码 | 81w+ |
+| [First Time Login](https://www.drupal.org/project/first_time_login) | 首次登陆，需要用户去重设自己的账户资料信息，可设置过了多少天之后需重新更新资料 | 3.6k+ |
+| [Simple Psassword Reset](https://www.drupal.org/project/simple_pass_reset) | 密码重置，启用此模块后，重置链接直接进入编辑密码表单，而不是默认的一次性登录表单页面 | 4.4k+ |
+| [Force Password Change](https://www.drupal.org/project/force_password_change) | 强制密码更改，允许管理员根据用户角色、用户或者新建的用户，在下一次登录时更改其密码，也可设置密码过期时间 | 5.9w+ |
 | [Automatic user Names](https://www.drupal.org/project/auto_username) | 自动用户名，该模块会禁用注册表单的用户名字段，提供令牌自动生成用户名，这样你就可以生成一些虚拟的账户 | 1.5w+ |
 | [Registration codes](https://www.drupal.org/project/regcode) | 注册邀请码，管理员可以提供有效注册码，生成导入导出注册码，可设置只有注册码的用户才可以注册新账户 | 4w+ |
 | [Automated Logout](https://www.drupal.org/project/autologout) | 超时退出登录，当用户在页面中没有活动时，超时退出功能，可基于用户角色设置超时，用户也可以自己设置超时 | 34w+ |
