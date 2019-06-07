@@ -81,6 +81,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Simple Field Formatter](https://www.drupal.org/project/simple_field_formatter) | 简单字段格式化，轻松控制字段值的显示，比如在字段前置、后置指定文本、反转、修建、转为大小写、第一个字符转为大写 | 1.8w | 
 | [agGrid](https://www.drupal.org/project/aggrid) | agGrid 网格数据表单，使用 ag-Grid 开源库来保存类似网格的数据 | 1.5k+ |
 | [FAQ](https://www.drupal.org/project/faq) | 常见问题模块，允许用户创建常见问题页面，通过配置自动生成，还可以通过视图进行自定义布局| 30w+ |
+| [JSON:API Extras](https://www.drupal.org/project/jsonapi_extras) | JSONAPI 默认零配置，该模块额外的自定义了 JSONAPI 的配置，覆写路径、禁用资源、日期格式等 | 11.8w |
 
 <h4 id="user">用户 User</h4>
 
