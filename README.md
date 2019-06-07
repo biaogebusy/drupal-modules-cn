@@ -98,6 +98,9 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Honeypot](https://www.drupal.org/project/honeypot) | 使用蜜罐和时间戳的原理来阻止机器人提交垃圾信息，该模块不像 CAPTCHA 模块有侵入性，支持所有表单或者指定表单 | 114w+ |
 | [Captcha Riddler](https://www.drupal.org/project/riddler) | 该模块依赖 CAPTCHA 模块，提交表单时提供自定义问题和匹配的答案，可随机问题，有效防止机器人提交垃圾信息，但是过多的设置复杂度有可能影响用户使用体验 | 2.8w+ |
 | [Password Policy](https://www.drupal.org/project/password_policy) | 对密码进行约束限制，必须满足条件才可以修改，支持字符、数字、字母、长度、大小写、标点、用户名等，还实现了密码到期功能，可强制下次登录时更改密码 | 81w+ |
+| [First Time Login](https://www.drupal.org/project/first_time_login) | 首次登陆，需要用户去重设自己的账户资料信息，可设置过了多少天之后需重新更新资料 | 3.6k+ |
+| [Simple Psassword Reset](https://www.drupal.org/project/simple_pass_reset) | 密码重置，启用此模块后，重置链接直接进入编辑密码表单，而不是默认的一次性登录表单页面 | 4.4k+ |
+| [Force Password Change](https://www.drupal.org/project/force_password_change) | 强制密码更改，允许管理员根据用户角色、用户或者新建的用户，在下一次登录时更改其密码，也可设置密码过期时间 | 5.9w+ |
 | [Automatic user Names](https://www.drupal.org/project/auto_username) | 自动用户名，该模块会禁用注册表单的用户名字段，提供令牌自动生成用户名，这样你就可以生成一些虚拟的账户 | 1.5w+ |
 | [Registration codes](https://www.drupal.org/project/regcode) | 注册邀请码，管理员可以提供有效注册码，生成导入导出注册码，可设置只有注册码的用户才可以注册新账户 | 4w+ |
 | [Automated Logout](https://www.drupal.org/project/autologout) | 超时退出登录，当用户在页面中没有活动时，超时退出功能，可基于用户角色设置超时，用户也可以自己设置超时 | 34w+ |
@@ -355,6 +358,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [理解 Drupal behaviors 机制](https://www.lullabot.com/articles/understanding-javascript-behaviors-in-drupal#/) | 理解 Drupal behaviors 是深入开发 Drupal 主题的前提，涉及到 Drupal js 的执行机制，上下文等 |
 | [使用软连接来解决 Drupal jsonapi 中 Node 节点图片相对路径的问题](https://zhuanlan.zhihu.com/p/66268190) | 使用 Angular 构建的单页面应用，读取 Drupal JSONAPI 的数据，通过软连接来解决图片显示问题 |
 | [reactfordrupal](https://reactfordrupal.com/) | 关于 React 和 Drupal 相关的文章集合 |
+| [Drupal 8, React, Vue, JSON API and ES6 learning resources](https://colorfield.be/blog/drupal-8-react-vue-json-api-and-es6-learning-resources) | 关于 Drupal 8, React, Vue, JSON API 和 ES6 相关的学习资源 |
 
 <h4 id="articles">视频资源 Video</h4>
 
@@ -368,6 +372,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 
 | 项目名 | 项目简介 | 
 | --- | --- |
+| [Contentacms](https://github.com/contentacms) | Contenta 是围绕 Drupal API-First 开发的应用 |
 |[docker4drupal](https://github.com/wodby/docker4drupal) | 针对 Drupal 优化的 Docker 镜像，支持 Linux, Mac, Windows 环境 |
 | [React Drupal exaple](https://github.com/zivtech/react-drupal-example) | Drupal8 模块中使用 React 的一个例子 |
 | [mysql_best_configuration](https://github.com/jdaaaaaavid/mysql_best_configuration/blob/master/my.cnf) | Mysql 数据库配置优化 |
