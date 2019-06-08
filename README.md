@@ -135,7 +135,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 
 <h4 id="themes">主题 Themes</h4>
 
-| 模块 | 描述 | 安装量 |
+| 主题 | 描述 | 安装量 |
 | --- | ---- | :---: |
 | [Front Page](https://www.drupal.org/project/front) | 为不同的角色使用不同的主页 | 40w+ |
 | [Image Effects](https://www.drupal.org/project/image_effects) | 图片效果，为图片添加背景图、效果、水印等 | 24w+ |
@@ -146,6 +146,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Bootstrap](https://www.drupal.org/project/bootstrap) | [Bootstrap 中文](https://v3.bootcss.com/) 是最受欢迎的 HTML、CSS 和 JS 前端CSS框架，用于开发响应式布局、移动设备优先的 WEB 项目，有详细的使用[文档](https://drupal-bootstrap.org/api/bootstrap)。 | 233w+ |
 | [ZURB Foundation](https://www.drupal.org/project/zurb_foundation) | 该主题可以快速制作网站原型，降低开发成本 | 26w+ |
 | [Adminimal](https://www.drupal.org/project/adminimal_theme) | 该主题是 Drupal 最受欢迎的管理主题之一，UI 现代简约，响应式布局 | 177w+ |
+| [Material Admin](https://www.drupal.org/project/material_admin) | Material 风格的管理后台 | 7.3w+ |
 
 <h4 id="menu">菜单 Menu</h4>
 
