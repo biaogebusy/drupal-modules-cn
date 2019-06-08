@@ -77,8 +77,6 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Field image tooltip](https://www.drupal.org/project/field_image_tooltips) | 图片标记，允许你给图片某个位置添加标记和相应的内容 | 1.4k |
 | [Conditional Fields](https://www.drupal.org/project/conditional_fields) | 条件字段，B 字段依赖 A 字段，意味着当 A 字段被选择时，你才可以对 B 字段进行更新编辑 | 80w+ | 
 | [Automatic Entity Label](https://www.drupal.org/project/auto_entitylabel) | 自动字段，这是一个小而高效的模块，比如你有个编号需要自动根据 Token 生成，不希望用户填写，可以使用这个模块，它会隐藏前端显示，自动根据 Token 规则填写，包括节点标题、评论主题、分类术语等 | 37w+ |
-| [Field Group](https://www.drupal.org/project/field_group) | 字段组，该模块默认自带字段集、水平 Tab 标签、垂直标签、手风琴、HTML5等 | 403w+ |
-| [Simple Field Formatter](https://www.drupal.org/project/simple_field_formatter) | 简单字段格式化，轻松控制字段值的显示，比如在字段前置、后置指定文本、反转、修建、转为大小写、第一个字符转为大写 | 1.8w | 
 | [agGrid](https://www.drupal.org/project/aggrid) | agGrid 网格数据表单，使用 ag-Grid 开源库来保存类似网格的数据 | 1.5k+ |
 | [FAQ](https://www.drupal.org/project/faq) | 常见问题模块，允许用户创建常见问题页面，通过配置自动生成，还可以通过视图进行自定义布局| 30w+ |
 | [JSON:API Extras](https://www.drupal.org/project/jsonapi_extras) | JSONAPI 默认零配置，该模块额外的自定义了 JSONAPI 的配置，覆写路径、禁用资源、日期格式等 | 11.8w |
@@ -112,17 +110,19 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
 | [Webform](https://www.drupal.org/project/webform) | Webform 可以构建表单，强大灵活的配置可以高度定制 UI，邮件通知，提交收集、导出，更有很多个相关的模块扩展使用 | 560W+ |
+| [Field Group](https://www.drupal.org/project/field_group) | 字段组，该模块默认自带字段集、水平 Tab 标签、垂直标签、手风琴、HTML5等 | 403w+ |
+| [Simple Field Formatter](https://www.drupal.org/project/simple_field_formatter) | 简单字段格式化，轻松控制字段值的显示，比如在字段前置、后置指定文本、反转、修建、转为大小写、第一个字符转为大写 | 1.8w | 
 | [field_validation](https://www.drupal.org/project/field_validation) | 表单验证，提供大量的常规表单校验 | 23w+ |
 | [Password Separate Form](https://www.drupal.org/project/change_pwd_page) | 独立修改密码页面，这个页面具有单独的密码更改表单，默认的修改密码页面有点让人困惑 | 3.4w+ |
 | [Simple hierarchical select](https://www.drupal.org/project/shs) | 简单的多级选择器，通过 Ajax 的方式联动下拉列表 | 22w+ |
 | [Field Formatter Class](https://www.drupal.org/project/field_formatter_class) | 给字段添加类，方便 CSS 或者 JavaScript 获取选择 | 14w+ |
+| [Chosen](https://www.drupal.org/project/chosen) | 使用 Chosen Jquery 插件，让你的 Select 表单元素使用更加友好 | 91w+ |
 
 <h4 id="taxonomy">分类术语 Taxonomy</h4>
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
 | [Taxonomy Term Reference Tree Widget](https://www.drupal.org/project/term_reference_tree) | 树形展示分类术语词汇表 | 18w+ |
-| [Simple hierarchical select](https://www.drupal.org/project/shs) | Ajax 联动方式展示分类术语，支持 Views | 21w+ |
 | [Taxonomy menu](https://www.drupal.org/project/taxonomy_menu) | 术语菜单，使用分类术语的层级结构快速构建一个菜单 | 73w+ |
 | [Taxonomy Manager](https://www.drupal.org/project/taxonomy_manager) | 术语管理器，该模块提供一个强大的分类术语管理界面，可批量删除添加，支持 Ajax，导出等 | 51w+ |
 
