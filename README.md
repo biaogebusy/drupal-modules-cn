@@ -10,8 +10,6 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | 其他 | [管理](#manage)，[电子商务](#commerce)，[移动设备](#mobile)，[社交](#sns)，[发行版](#release)，[SEO](#seo)，[开发](#dev)，[性能](#performance)|
 | 文章 | [编码规范](#standards)，[官网文档](#doc)，[文章资源](#articles)，[视频资源](#video)，[开源项目 Github](#github)|
 
- 
-
 <h4 id="carousel">幻灯片 Carousel</h4>
 
 | 模块 | 描述 | 安装量 |
@@ -28,7 +26,6 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Vegas @d7](https://www.drupal.org/project/vegas) | 给页面添加全屏的背景图片幻灯片 |  1w+ |
 | [Juicebox](https://www.drupal.org/project/juicebox) | 可构建 HTML5 响应式图片库，提供了强大的跨设备解决方案  | 12w|
 | [Node Gallery @d7](https://www.drupal.org/project/node_gallery) | 把 Node 使用幻灯片显示 | 15w+ |
-
 
 <h4 id="views">视图 Views</h4>
 
@@ -49,7 +46,6 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Views data export](https://www.drupal.org/project/views_data_export) | 从自定义的视图从导出数据（csv, xls, doc, txt, xml）| 107w+ |
 | [DraggableViews](https://www.drupal.org/project/draggableviews) | 把视图创建出来的行变成可拖动 | 57w+ |
 
-
 <h4 id="node">内容 Node</h4>
 
 | 模块 | 描述 | 安装量 |
@@ -60,7 +56,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Weight](https://www.drupal.org/project/weight) | 权重，对内容启用排序，对非重视时间节点的内容很有用，比如产品，你想要的内容 | 38w+ |
 | [Exclude Node Title](https://www.drupal.org/project/exclude_node_title) | 排除标题，前台页面不显示标题，有些场景下，你并不希望显示内容的标题 | 26w+ |
 | [Flippy](https://www.drupal.org/project/flippy) | 上一篇/下一篇，为内容添加快速到达上下篇的功能，这在很多的门户网站中很常见 | 6w+ |
-| [Scheduler](https://www.drupal.org/project/scheduler) | 定时计划，可对内容进行定时发布或者未发布 | 119w+ | 
+| [Scheduler](https://www.drupal.org/project/scheduler) | 定时计划，可对内容进行定时发布或者未发布 | 119w+ |
 | [Add another](https://www.drupal.org/project/addanother) | 新建下一个，发布节点后，自动新建节点，快速发布内容，节省操作 | 18w+ |
 | [FullCalendar](https://www.drupal.org/project/fullcalendar) | 全日历，使用日历来显示字段（使用时间对内容分类） | 21w+ |
 | [Calendar @d7](https://www.drupal.org/project/calendar) | 日历，多种日历格式显示节点字段 | 144w+ |
@@ -131,6 +127,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
 | [Search Autocomplete](https://www.drupal.org/project/search_autocomplete) | 搜索自动检索，在输入搜索表单时，自动填充显示相关的建议列表，开启后，默认匹配核心搜索和搜索模块，高度自定义配置 | 12w+ |
+| [Autocomplete Deluxe](https://www.drupal.org/project/autocomplete_deluxe) | 搜索自动检索豪华版，选择时不用输入内容，可多次选择，支持分类 | 27w+ |
 | [Ajax loader](https://www.drupal.org/project/ajax_loader) | 该模块会覆盖内核自带的 Ajax loader 样式，提供了很多种 loading 样式选择 | 3w+ |
 
 <h4 id="themes">主题 Themes</h4>
@@ -147,6 +144,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [ZURB Foundation](https://www.drupal.org/project/zurb_foundation) | 该主题可以快速制作网站原型，降低开发成本 | 26w+ |
 | [Adminimal](https://www.drupal.org/project/adminimal_theme) | 该主题是 Drupal 最受欢迎的管理主题之一，UI 现代简约，响应式布局 | 177w+ |
 | [Material Admin](https://www.drupal.org/project/material_admin) | Material 风格的管理后台 | 7.3w+ |
+| [Belgrage](https://www.drupal.org/project/belgrade) | 电子商务主题，基于 Bootstrap Css 框架，查看 [Demo](https://drupal.org/project/commerce_demo) 演示 | 5k+ |
 
 <h4 id="menu">菜单 Menu</h4>
 
@@ -174,7 +172,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Admin Toolbar](https://www.drupal.org/project/admin_toolbar) | 该模块可以增强默认的 Drupal 工具栏菜单，添加下拉功能，从而减少点击链接路径，轻松访问各个管理页面 | 225w+ |
 | [Rules](https://www.drupal.org/project/rules) | 重量级的模块，允许站点管理员根据发生的事件（内容更新，用户登录，访问等等），执行指定的操作 | 324w+ |
 | [SMTP Authentication Support](https://www.drupal.org/project/smtp) | 发送电子邮件到SMTP服务器，不使用 PHP mail() ,如果 php 支持，可以使用 SSL 连接 | 116w+ |
-| [Transliteration @d7](https://www.drupal.org/project/transliteration) | 对上传的文件名进行翻译，比如中文转换成拼音，清除空格，替换不需要的字符等 | 192w+ | 
+| [Transliteration @d7](https://www.drupal.org/project/transliteration) | 对上传的文件名进行翻译，比如中文转换成拼音，清除空格，替换不需要的字符等 | 192w+ |
 | [Coffee](https://www.drupal.org/project/coffee) | 使用快捷键 alt + d 呼出管理菜单，然后输入你要访问的页面，类似 Mac 的 Spotlight | 45w+ |
 | [Seckit](https://www.drupal.org/project/seckit) | 该模块为 Drupal 提供安全建议，降低程序的风险 | 67w+ |
 | [Restrict password change](https://www.drupal.org/project/restrict_password_change) | 有时候我们希望允许某些用户可以添加其他用户，但不能更改用户的密码 | 8k+ |
@@ -193,11 +191,10 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
-| [Commerce Alipay](https://www.drupal.org/project/commerce_alipay) | 与 [Commerce](http://drupal.org/project/commerce) 电子商务模块集成，开通支付宝支付，可使用二维码扫描支付，国内支付结算的首选方案 | 7.8k+ | 
+| [Commerce Alipay](https://www.drupal.org/project/commerce_alipay) | 与 [Commerce](http://drupal.org/project/commerce) 电子商务模块集成，开通支付宝支付，可使用二维码扫描支付，国内支付结算的首选方案 | 7.8k+ |
 | [Commerce PayPal](https://www.drupal.org/project/commerce_paypal) | 集成了 [Commerce](http://drupal.org/project/commerce) 模块，国外比较流行的 PayPal 第三方支付平台 | 23w+ |
 | [Alipay API](https://www.drupal.org/project/alipay_api) | 使用支付宝第三方支付解决方案平台接入支付 | 1.3k+ |
 | [Currency](https://www.drupal.org/project/currency) | 该模块提供货币转换的功能，当你需要多国货币结算时 | 15w+ |
-
 
 <h4 id="editor">编辑器 Editor</h4>
 
@@ -228,11 +225,10 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [CKEditor Letter Spacing](https://www.drupal.org/project/ckeditor_ls) | 添加字间距，给文本添加字间距 | 0.6k+ |
 | [CKEditor CodeMirror](https://www.drupal.org/project/ckeditor_codemirror) | 源码模式下添加语法高亮显示，方便查看源码 | 3.2w+ |
 | [CKEditor Bootstrap Buttons](https://www.drupal.org/project/ckeditor_bootstrap_buttons) | 插入 Bootstrap 按钮，通过配置的方式插入按钮，可添加字体图标 | 1.7w+ |
-| [Editor Advanced link](https://www.drupal.org/project/editor_advanced_link) | 添加高级链接，可配置 Class, ID, target, rel | 48w+ | 
+| [Editor Advanced link](https://www.drupal.org/project/editor_advanced_link) | 添加高级链接，可配置 Class, ID, target, rel | 48w+ |
 | [Editor File upload](https://www.drupal.org/project/editor_file) | 在编辑器中上传文件 | 20w+ |
 | [Entity Embed](https://www.drupal.org/project/entity_embed) | 嵌入实体，可在编辑器中嵌入实体内容，需要在过滤器中允许 `<drupal-entity data-*>` | 111w+ |
 | [linkit](https://www.drupal.org/project/Linkit) | 插入链接，在编辑器中快速插入节点，用户链接，分类术语，文件和外部链接的模块 | 137w+ |
-
 
 <h4 id="mobile">移动设备 Mobile</h4>
 
@@ -281,7 +277,6 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Video.js](https://www.drupal.org/project/videojs) | 基于 HTML5 的视频播放器，对应老旧的浏览器可以回退到 Flash 播放 | 13w+ |
 | [FillPDF](https://www.drupal.org/project/fillpdf) | 这个模块并不是用来显示 PDF 文件，而是根据内容字段或者 Webform 表单填写后生成 PDF 并可下载或者保存到服务器中 | 4.7w+ |
 
-
 <h4 id="seo">SEO</h4>
 
 | 模块 | 描述 | 安装量 |
@@ -300,7 +295,6 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
 | [Coder](https://www.drupal.org/project/coder) | 根据最佳实践编码规范检查你的 Drupal 代码，注意该文件并不是模块，而是命令行工具 | 100w+ |
-
 
 <h4 id="dev">开发 Development</h4>
 
@@ -330,13 +324,13 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 <h4 id="doc">Drupal 官网文档</h4>
 
 | 标题 | 简介 |
-| --- | --- | 
+| --- | --- |
 | [添加 CSS 和 JS](https://www.drupal.org/docs/8/theming/adding-stylesheets-css-and-javascript-js-to-a-drupal-8-theme) | 在 Drupal8 中添加 Css 和 JavaScript |
 | [建立子主题](https://www.drupal.org/docs/8/theming-drupal-8/creating-a-drupal-8-sub-theme-or-sub-theme-of-sub-theme) | 关于建立子主题的文档 |
 | [JavaScript API 概览](https://www.drupal.org/docs/7/api/javascript-api/javascript-api-overview) | Drupal8 在页面初始化的时候或者获取数据时候提供了一些 API，详细介绍了 JavaScript 是如何在 Drupal 中运行的，遵循官方的开发规范是良好开发的第一步 |
 | [Drupal.settings](https://www.drupal.org/docs/7/api/javascript-api/javascript-api-overview#drupal-settings) | 这个对象是 Drupal 模块和前端数据沟通的桥梁，后台的配置信息，前端可以读取并做出应有的响应 |
 | [Drupal.behaviors](https://www.drupal.org/docs/7/api/javascript-api/javascript-api-overview#drupal-behaviors) | 理解 Drupal.behaviors 至关重要，一味的使用 $(document).ready()并不好，当你 ajax 调用数据时，常用的方式可能找不到这个元素而报错，使用 behaviors 可以传入上下文参数，文章页提供了最佳实践 |
-| [Drupal.locale](https://www.drupal.org/docs/7/api/javascript-api/javascript-api-overview#drupal-locale) | 如果你的站点目前用到多语言或者未来要用到多语言，那么在 JavaScript 中，字符串可以使用 Drupal.t() 可以让字符串可翻译 | 
+| [Drupal.locale](https://www.drupal.org/docs/7/api/javascript-api/javascript-api-overview#drupal-locale) | 如果你的站点目前用到多语言或者未来要用到多语言，那么在 JavaScript 中，字符串可以使用 Drupal.t() 可以让字符串可翻译 |
 | [主题定义.info.yml](https://www.drupal.org/docs/8/theming-drupal-8/defining-a-theme-with-an-infoyml-file) | 详细介绍了主题定义文件的参数 |
 | [在主题中添加区域](https://www.drupal.org/docs/8/theming/adding-regions-to-a-theme) | 在 Drupal8 中如何声明一个区域，良好的布局架构是一个主题的基础 |
 | [Drupal 如何架构 CSS](https://www.drupal.org/docs/develop/standards/css/css-architecture-for-drupal-8) | 可以借鉴一下 Drupal 对应 Css 组件化开发的一些思路 |
@@ -351,32 +345,35 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [JSON:API](https://www.drupal.org/docs/8/modules/jsonapi/jsonapi) | 在 Drupal 中启用 JSON:API ，讲述概念和如何使用 |
 | [Drupal 版本升级](https://www.drupal.org/docs/8/upgrade/upgrading-from-drupal-6-or-7-to-drupal-8) | 从 Drupal6 升级到 Drupal7，或者从 Drupal7 升级到 Drupal8 |
 
-
 <h4 id="articles">文章资源 Article</h4>
 
-| 标题 | 文章简介 | 
+| 标题 | 文章简介 |
 | --- | --- |
 | [理解 Drupal behaviors 机制](https://www.lullabot.com/articles/understanding-javascript-behaviors-in-drupal#/) | 理解 Drupal behaviors 是深入开发 Drupal 主题的前提，涉及到 Drupal js 的执行机制，上下文等 |
 | [使用软连接来解决 Drupal jsonapi 中 Node 节点图片相对路径的问题](https://zhuanlan.zhihu.com/p/66268190) | 使用 Angular 构建的单页面应用，读取 Drupal JSONAPI 的数据，通过软连接来解决图片显示问题 |
 | [reactfordrupal](https://reactfordrupal.com/) | 关于 React 和 Drupal 相关的文章集合 |
 | [Drupal 8, React, Vue, JSON API and ES6 learning resources](https://colorfield.be/blog/drupal-8-react-vue-json-api-and-es6-learning-resources) | 关于 Drupal 8, React, Vue, JSON API 和 ES6 相关的学习资源 |
+| [使用 Drupal jsonapi 为微信小程序提供数据](https://zhuanlan.zhihu.com/p/75641125) | Drupal 的 JSON:API 模块几乎可以肯定是目前功能最齐全最易于使用的实现，开箱即用零配置 |
 
 <h4 id="articles">视频资源 Video</h4>
 
-| 标题 | 视频简介 | 
+| 标题 | 视频简介 |
 | --- | --- |
 | [videodrupal](https://www.videodrupal.org/) | 该网站集合了 Youtube 上发布的 Drupal 视频，为 Drupal 社区服务，免费 | 
 | [React, Drupal 8, and JsonAPI 入门指南](https://www.videodrupal.org/video/20180429/getting-started-react-drupal-8-and-jsonapi) | 使用 react 构建前端页面，使用 Drupal8 和 JsonAPI(视频) |
 
-
 <h4 id="github">开源项目 Github</h4>
 
-| 项目名 | 项目简介 | 
+| 项目名 | 项目简介 |
 | --- | --- |
 | [Contentacms](https://github.com/contentacms) | Contenta 是围绕 Drupal API-First 开发的应用 |
 |[docker4drupal](https://github.com/wodby/docker4drupal) | 针对 Drupal 优化的 Docker 镜像，支持 Linux, Mac, Windows 环境 |
 | [React Drupal exaple](https://github.com/zivtech/react-drupal-example) | Drupal8 模块中使用 React 的一个例子 |
 | [mysql_best_configuration](https://github.com/jdaaaaaavid/mysql_best_configuration/blob/master/my.cnf) | Mysql 数据库配置优化 |
+| [Angular jsonapi](https://github.com/jakubrohleder/angular-jsonapi) | Angular 应用中方便操作 jsonapi 数据的库 |
+| [Backbone jsonapi](https://github.com/guillaumervls/backbone-jsonapi) | 从 jsonapi 中获取模型和集合 |
+| [jsonapi libraries](https://jsonapi.org/implementations/#client-libraries-javascript) | 关于 jsonapi 相关的库 |
+
 
 欢迎关注微信公众号：Drupal每周推荐
 ![Drupal每周推荐微信公众号](qrcode.jpg)
