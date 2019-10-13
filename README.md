@@ -377,3 +377,6 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 |[docker4drupal](https://github.com/wodby/docker4drupal) | 针对 Drupal 优化的 Docker 镜像，支持 Linux, Mac, Windows 环境 |
 | [React Drupal exaple](https://github.com/zivtech/react-drupal-example) | Drupal8 模块中使用 React 的一个例子 |
 | [mysql_best_configuration](https://github.com/jdaaaaaavid/mysql_best_configuration/blob/master/my.cnf) | Mysql 数据库配置优化 |
+
+欢迎关注微信公众号：Drupal每周推荐
+![Drupal每周推荐微信公众号](qrcode.jpg)
