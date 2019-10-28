@@ -312,8 +312,9 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
 | [Static Server](https://www.drupal.org/project/static_server) | 配置静态服务器的静态文件，以便调用 | 2.5k+ |
-| [Memcache](https://www.drupal.org/project/memcache) | 该模块提供了 Drupal 与内存缓存之间沟通的桥梁，你需要装一些 PHP 的相关依赖，启用后，性能也可以大幅度提升 | 186w+ | 
+| [Memcache](https://www.drupal.org/project/memcache) | 该模块提供了 Drupal 与内存缓存之间沟通的桥梁，你需要装一些 PHP 的相关依赖，启用后，性能也可以大幅度提升 | 186w+ |
 | [Image Lazyloader](https://www.drupal.org/project/lazyloader) | 启用图片懒加载，你的站点如果有很多图片展示，可以提高页面的渲染速度 | 6w+ |
+| [Blazy](https://www.drupal.org/project/blazy) | 延迟加载图片，以节省带宽和服务器请求，如果用户不浏览整个页面，将具有更快的加载时间并节省数据使用量 | 52w+ |
 
 <h4 id="action">交互 Action</h4>
 
