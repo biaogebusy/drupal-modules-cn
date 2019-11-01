@@ -268,6 +268,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
+| [Lightning](https://www.drupal.org/project/lightning) | Acquia 官方出品的企业级发行版，让编辑人员能够体验出色的创作体验 | 18w+ |
 | [Open Social](https://www.drupal.org/project/social) | 该发行版是一个开箱即用的在线社区、知识文档分享解决方案 [Demo](https://demo.getopensocial.com/) | 7.6w+ |
 
 <h4 id="media">媒体 Media</h4>
