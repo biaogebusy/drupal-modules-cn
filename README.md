@@ -377,4 +377,4 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 
 
 欢迎关注微信公众号：Drupal每周推荐
-![Drupal每周推荐微信公众号](qrcode.jpg)
+![Drupal每周推荐微信公众号](https://github.com/biaogebusy/drupal-modules-cn/blob/master/qrcode.jpg)
