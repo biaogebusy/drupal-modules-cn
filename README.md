@@ -58,7 +58,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Flippy](https://www.drupal.org/project/flippy) | 上一篇/下一篇，为内容添加快速到达上下篇的功能，这在很多的门户网站中很常见 | 6w+ |
 | [Scheduler](https://www.drupal.org/project/scheduler) | 定时计划，可对内容进行定时发布或者未发布 | 119w+ |
 | [Add another](https://www.drupal.org/project/addanother) | 新建下一个，发布节点后，自动新建节点，快速发布内容，节省操作 | 18w+ |
-| [FullCalendar](https://www.drupal.org/project/fullcalendar) | 全日历，使用日历来显示字段（使用时间对内容分类） | 21w+ |
+| [FullCalendar](https://www.drupal.org/project/fullcalendar) | 完整日历，使用日历来显示字段（使用时间对内容分类） | 21w+ |
 | [Calendar @d7](https://www.drupal.org/project/calendar) | 日历，多种日历格式显示节点字段 | 144w+ |
 | [Node clone @d7](https://www.drupal.org/project/node_clone) | 内容克隆，允许用户对已存在的内容节点进行克隆| 168w+ |
 | [Bulk Delete @d7](https://www.drupal.org/project/bulkdelete) | 一键删除，可以快速删除指定内容类型的内容节点 | 1.9w |
