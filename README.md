@@ -10,7 +10,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | 其他 | [管理](#manage)，[电子商务](#commerce)，[移动设备](#mobile)，[社交](#sns)，[发行版](#release)，[SEO](#seo)，[开发](#dev)，[性能](#performance)|
 | 文章 | [编码规范](#standards)，[官网文档](#doc)，[文章资源](#articles)，[视频资源](#video)，[开源项目 Github](#github)|
 
-<h4 id="carousel">幻灯片 Carousel</h4>
+#### Carousel
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
@@ -27,7 +27,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Juicebox](https://www.drupal.org/project/juicebox) | 可构建 HTML5 响应式图片库，提供了强大的跨设备解决方案  | 12w|
 | [Node Gallery @d7](https://www.drupal.org/project/node_gallery) | 把 Node 使用幻灯片显示 | 15w+ |
 
-<h4 id="views">视图 Views</h4>
+#### Views
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
@@ -46,7 +46,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Views data export](https://www.drupal.org/project/views_data_export) | 从自定义的视图从导出数据（csv, xls, doc, txt, xml）| 107w+ |
 | [DraggableViews](https://www.drupal.org/project/draggableviews) | 把视图创建出来的行变成可拖动 | 57w+ |
 
-<h4 id="node">内容 Node</h4>
+#### Node
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
@@ -76,8 +76,9 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [agGrid](https://www.drupal.org/project/aggrid) | agGrid 网格数据表单，使用 ag-Grid 开源库来保存类似网格的数据 | 1.5k+ |
 | [FAQ](https://www.drupal.org/project/faq) | 常见问题模块，允许用户创建常见问题页面，通过配置自动生成，还可以通过视图进行自定义布局| 30w+ |
 | [JSON:API Extras](https://www.drupal.org/project/jsonapi_extras) | JSONAPI 默认零配置，该模块额外的自定义了 JSONAPI 的配置，覆写路径、禁用资源、日期格式等 | 11.8w |
+| [JSON:API explorer](https://www.drupal.org/project/jsonapi_explorer) | 提供过滤 JSON:API 的 UI 界面，方便生成需要的字段，要求核心版本8.8，或者使用外部服务 [explorer](https://explore.jsonapi.dev/) | 4 |
 
-<h4 id="user">用户 User</h4>
+#### User
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
@@ -100,8 +101,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Automated Logout](https://www.drupal.org/project/autologout) | 超时退出登录，当用户在页面中没有活动时，超时退出功能，可基于用户角色设置超时，用户也可以自己设置超时 | 34w+ |
 | [Login Destination](https://www.drupal.org/project/login_destination) | 登录重定向，登录或者退出可自定义重定向到指定的内部或者外部页面，也可保留在当前访问的页面 | 37w+ |
 
-
-<h4 id="form">表单 Form</h4>
+#### Form
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
@@ -114,7 +114,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Field Formatter Class](https://www.drupal.org/project/field_formatter_class) | 给字段添加类，方便 CSS 或者 JavaScript 获取选择 | 14w+ |
 | [Chosen](https://www.drupal.org/project/chosen) | 使用 Chosen Jquery 插件，让你的 Select 表单元素使用更加友好 | 91w+ |
 
-<h4 id="taxonomy">分类术语 Taxonomy</h4>
+#### Taxonomy
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
@@ -122,7 +122,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Taxonomy menu](https://www.drupal.org/project/taxonomy_menu) | 术语菜单，使用分类术语的层级结构快速构建一个菜单 | 73w+ |
 | [Taxonomy Manager](https://www.drupal.org/project/taxonomy_manager) | 术语管理器，该模块提供一个强大的分类术语管理界面，可批量删除添加，支持 Ajax，导出等 | 51w+ |
 
-<h4 id="ued">用户体验 UED</h4>
+#### Ued
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
@@ -130,10 +130,12 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Autocomplete Deluxe](https://www.drupal.org/project/autocomplete_deluxe) | 搜索自动检索豪华版，选择时不用输入内容，可多次选择，支持分类 | 27w+ |
 | [Ajax loader](https://www.drupal.org/project/ajax_loader) | 该模块会覆盖内核自带的 Ajax loader 样式，提供了很多种 loading 样式选择 | 3w+ |
 
-<h4 id="themes">主题 Themes</h4>
+#### Themes
 
 | 主题 | 描述 | 安装量 |
 | --- | ---- | :---: |
+| [Claro](https://www.drupal.org/project/claro) | 准备加入内核的 Drupal 新默认后台现代主题 | 1.6k+ |
+| [Olivero](https://www.drupal.org/project/olivero) | 即将面世的 Drupal 默认前台主题 | 无 |
 | [Front Page](https://www.drupal.org/project/front) | 为不同的角色使用不同的主页 | 40w+ |
 | [Image Effects](https://www.drupal.org/project/image_effects) | 图片效果，为图片添加背景图、效果、水印等 | 24w+ |
 | [Focal Point](https://www.drupal.org/project/focal_point) | 允许你在上传图片的时候进行焦点的处理，这样可以裁剪出重要且合适的部分 | 87w+ |
@@ -146,7 +148,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Material Admin](https://www.drupal.org/project/material_admin) | Material 风格的管理后台 | 7.3w+ |
 | [Belgrage](https://www.drupal.org/project/belgrade) | 电子商务主题，基于 Bootstrap Css 框架，查看 [Demo](https://drupal.org/project/commerce_demo) 演示 | 5k+ |
 
-<h4 id="menu">菜单 Menu</h4>
+#### Menu
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
@@ -161,7 +163,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Default Toolbar Menu](https://www.drupal.org/project/default_toolbar_menu) | 默认工具栏菜单，使得不同角色的用户登录后台时，可以看到不同的默认菜单 | 50+ | 
 | [Menu postion](https://www.drupal.org/project/menu_position) | 菜单位置，简单的说就是把实体的标题添加到面包屑菜单中 | 20w+ |
 
-<h4 id="manage">管理 Manage</h4>
+#### Manage
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
@@ -187,7 +189,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Field Permissions](https://www.drupal.org/project/field_permissions) | 字段权限，允许管理员设置字段这种细度级的权限，拥有权限的人才可以编辑、查看或者创建 | 86W+ |
 | [Token Filter](https://www.drupal.org/project/token_filter) | Token 过滤器，提供一个输入表单来快速搜索过滤需要的 Token | 53w+ |
 
-<h4 id="commerce">商务 Commerce</h4>
+#### Commerce
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
@@ -196,7 +198,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Alipay API](https://www.drupal.org/project/alipay_api) | 使用支付宝第三方支付解决方案平台接入支付 | 1.3k+ |
 | [Currency](https://www.drupal.org/project/currency) | 该模块提供货币转换的功能，当你需要多国货币结算时 | 15w+ |
 
-<h4 id="editor">编辑器 Editor</h4>
+#### Editor
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
@@ -230,7 +232,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Entity Embed](https://www.drupal.org/project/entity_embed) | 嵌入实体，可在编辑器中嵌入实体内容，需要在过滤器中允许 `<drupal-entity data-*>` | 111w+ |
 | [linkit](https://www.drupal.org/project/Linkit) | 插入链接，在编辑器中快速插入节点，用户链接，分类术语，文件和外部链接的模块 | 137w+ |
 
-<h4 id="mobile">移动设备 Mobile</h4>
+#### Mobile
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
@@ -238,13 +240,13 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [FooTable](https://www.drupal.org/project/footable) | 使用 jQuery FooTable 插件构建的模块，创建响应式表格，在很宽的表格中，在很小的屏幕下也可以正常显示，通过隐藏或者折叠某些列 | 4.4w+ |
 | [FitVids](https://www.drupal.org/project/fitvids) | 如果你的网站需要响应显示嵌入的视频，可以考虑该模块，HTML5 就没有必要了 | 15w+ |
 
-<h4 id="comments">评论 Comments</h4>
+#### Comments
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
 | [AJAX Comments](https://www.drupal.org/project/ajax_comments) | 提供 Ajax 评论，例如 Facebook, Google+, vk.com等 | 12w+ |
 
-<h4 id="vote">投票 Vote</h4>
+#### Vote
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
@@ -254,7 +256,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Rate](https://www.drupal.org/project/rate) | 评价模块，提供点赞，五星，yes/no等选项，另外还有一些统计票数可选| 21w+ |
 | [Star Rating](https://www.drupal.org/project/starrating) | 提供星级评价字段，在字段显示中可选多种评价样式 | 3w+ |
 
-<h4 id="sns">社交 SNS</h4>
+#### Sns
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
@@ -264,21 +266,21 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Wechat](https://www.drupal.org/project/wechat) | Durpal 微信公众平台接口，提供基本功能 | 1.1w+ |
 | [Organic groups](https://www.drupal.org/project/og) | 允许用户创建自己的组 | 113w+ |
 
-<h4 id="release">发行版 Release</h4>
+#### Release
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
 | [Lightning](https://www.drupal.org/project/lightning) | Acquia 官方出品的企业级发行版，让编辑人员能够体验出色的创作体验 | 18w+ |
 | [Open Social](https://www.drupal.org/project/social) | 该发行版是一个开箱即用的在线社区、知识文档分享解决方案 [Demo](https://demo.getopensocial.com/) | 7.6w+ |
 
-<h4 id="media">媒体 Media</h4>
+#### Media
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
 | [Video.js](https://www.drupal.org/project/videojs) | 基于 HTML5 的视频播放器，对应老旧的浏览器可以回退到 Flash 播放 | 13w+ |
 | [FillPDF](https://www.drupal.org/project/fillpdf) | 这个模块并不是用来显示 PDF 文件，而是根据内容字段或者 Webform 表单填写后生成 PDF 并可下载或者保存到服务器中 | 4.7w+ |
 
-<h4 id="seo">SEO</h4>
+#### Seo
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
@@ -291,13 +293,13 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [XML Sitemap](https://www.drupal.org/project/xmlsitemap) | 创建符合规范的站点地图索引，有利于搜索引擎抓取收录 | 240w+ |
 | [Redirect 403 to User Login](https://www.drupal.org/project/r4032login) | 将 403 错误页面重定向到 /user/login 页面，并显示一条消息，一旦登录成功，返回最初请求的页面| 29w+ |
 
-<h4 id="standards">编码规范</h4>
+#### Standards
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
 | [Coder](https://www.drupal.org/project/coder) | 根据最佳实践编码规范检查你的 Drupal 代码，注意该文件并不是模块，而是命令行工具 | 100w+ |
 
-<h4 id="dev">开发 Development</h4>
+#### Dev
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
@@ -308,7 +310,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Block Class](https://www.drupal.org/project/block_class) | 在区块配置页面允许给区块添加自定义 Class 类 | 77.9w+ |
 | [Masquerade](https://www.drupal.org/project/masquerade) | 允许有权限的用户无需密码直接切换到另外的一个用户，并随时可以切回本账户，这对于开发来说有时会非常有用 | 88w+ |
 
-<h4 id="performance">性能 Performance</h4>
+#### Performance
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
@@ -317,13 +319,13 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Image Lazyloader](https://www.drupal.org/project/lazyloader) | 启用图片懒加载，你的站点如果有很多图片展示，可以提高页面的渲染速度 | 6w+ |
 | [Blazy](https://www.drupal.org/project/blazy) | 延迟加载图片，以节省带宽和服务器请求，如果用户不浏览整个页面，将具有更快的加载时间并节省数据使用量 | 52w+ |
 
-<h4 id="action">交互 Action</h4>
+#### Action
 
 | 模块 | 描述 | 安装量 |
 | --- | ---- | :---: |
 | [Back To Top](https://www.drupal.org/project/back_to_top) | 给页面添加一个按钮，点击按钮平滑的回到页面顶部 | 16.3w+ |
 
-<h4 id="doc">Drupal 官网文档</h4>
+#### Doc
 
 | 标题 | 简介 |
 | --- | --- |
@@ -347,7 +349,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [JSON:API](https://www.drupal.org/docs/8/modules/jsonapi/jsonapi) | 在 Drupal 中启用 JSON:API ，讲述概念和如何使用 |
 | [Drupal 版本升级](https://www.drupal.org/docs/8/upgrade/upgrading-from-drupal-6-or-7-to-drupal-8) | 从 Drupal6 升级到 Drupal7，或者从 Drupal7 升级到 Drupal8 |
 
-<h4 id="articles">文章资源 Article</h4>
+#### Articles
 
 | 标题 | 文章简介 |
 | --- | --- |
@@ -357,14 +359,14 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Drupal 8, React, Vue, JSON API and ES6 learning resources](https://colorfield.be/blog/drupal-8-react-vue-json-api-and-es6-learning-resources) | 关于 Drupal 8, React, Vue, JSON API 和 ES6 相关的学习资源 |
 | [使用 Drupal jsonapi 为微信小程序提供数据](https://zhuanlan.zhihu.com/p/75641125) | Drupal 的 JSON:API 模块几乎可以肯定是目前功能最齐全最易于使用的实现，开箱即用零配置 |
 
-<h4 id="articles">视频资源 Video</h4>
+#### Video
 
 | 标题 | 视频简介 |
 | --- | --- |
-| [videodrupal](https://www.videodrupal.org/) | 该网站集合了 Youtube 上发布的 Drupal 视频，为 Drupal 社区服务，免费 | 
+| [videodrupal](https://www.videodrupal.org/) | 该网站集合了 Youtube 上发布的 Drupal 视频，为 Drupal 社区服务，免费 |
 | [React, Drupal 8, and JsonAPI 入门指南](https://www.videodrupal.org/video/20180429/getting-started-react-drupal-8-and-jsonapi) | 使用 react 构建前端页面，使用 Drupal8 和 JsonAPI(视频) |
 
-<h4 id="github">开源项目 Github</h4>
+#### Github
 
 | 项目名 | 项目简介 |
 | --- | --- |
@@ -375,7 +377,6 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Angular jsonapi](https://github.com/jakubrohleder/angular-jsonapi) | Angular 应用中方便操作 jsonapi 数据的库 |
 | [Backbone jsonapi](https://github.com/guillaumervls/backbone-jsonapi) | 从 jsonapi 中获取模型和集合 |
 | [jsonapi libraries](https://jsonapi.org/implementations/#client-libraries-javascript) | 关于 jsonapi 相关的库 |
-
 
 欢迎关注微信公众号：Drupal每周推荐
 ![Drupal每周推荐微信公众号](https://github.com/biaogebusy/drupal-modules-cn/blob/master/qrcode.jpg)
