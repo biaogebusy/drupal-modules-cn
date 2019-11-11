@@ -77,6 +77,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [FAQ](https://www.drupal.org/project/faq) | 常见问题模块，允许用户创建常见问题页面，通过配置自动生成，还可以通过视图进行自定义布局| 30w+ |
 | [JSON:API Extras](https://www.drupal.org/project/jsonapi_extras) | JSONAPI 默认零配置，该模块额外的自定义了 JSONAPI 的配置，覆写路径、禁用资源、日期格式等 | 11.8w |
 | [JSON:API explorer](https://www.drupal.org/project/jsonapi_explorer) | 提供过滤 JSON:API 的 UI 界面，方便生成需要的字段，要求核心版本8.8，或者使用外部服务 [explorer](https://explore.jsonapi.dev/) | 4 |
+| [REST UI](https://www.drupal.org/project/restui) | 配置 Drupal 8 REST 的用户界面 | 66w+ |
 
 #### User
 
