@@ -330,13 +330,13 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 
 | 标题 | 简介 |
 | --- | --- |
-| [添加 CSS 和 JS](https://www.drupal.org/docs/8/theming/adding-stylesheets-css-and-javascript-js-to-a-drupal-8-theme) | 在 Drupal8 中添加 Css 和 JavaScript |
+| [主题定义.info.yml](https://www.drupal.org/docs/8/theming-drupal-8/defining-a-theme-with-an-infoyml-file) | 详细介绍了主题定义文件的参数 |
+| [主题资源库定义](https://www.drupal.org/docs/8/theming/adding-stylesheets-css-and-javascript-js-to-a-drupal-8-theme) | 在 Drupal8 中添加 Css 和 JavaScript，并详细介绍了各种资源定义的参数，了解这些参数非常有用 |
 | [建立子主题](https://www.drupal.org/docs/8/theming-drupal-8/creating-a-drupal-8-sub-theme-or-sub-theme-of-sub-theme) | 关于建立子主题的文档 |
 | [JavaScript API 概览](https://www.drupal.org/docs/7/api/javascript-api/javascript-api-overview) | Drupal8 在页面初始化的时候或者获取数据时候提供了一些 API，详细介绍了 JavaScript 是如何在 Drupal 中运行的，遵循官方的开发规范是良好开发的第一步 |
 | [Drupal.settings](https://www.drupal.org/docs/7/api/javascript-api/javascript-api-overview#drupal-settings) | 这个对象是 Drupal 模块和前端数据沟通的桥梁，后台的配置信息，前端可以读取并做出应有的响应 |
 | [Drupal.behaviors](https://www.drupal.org/docs/7/api/javascript-api/javascript-api-overview#drupal-behaviors) | 理解 Drupal.behaviors 至关重要，一味的使用 $(document).ready()并不好，当你 ajax 调用数据时，常用的方式可能找不到这个元素而报错，使用 behaviors 可以传入上下文参数，文章页提供了最佳实践 |
 | [Drupal.locale](https://www.drupal.org/docs/7/api/javascript-api/javascript-api-overview#drupal-locale) | 如果你的站点目前用到多语言或者未来要用到多语言，那么在 JavaScript 中，字符串可以使用 Drupal.t() 可以让字符串可翻译 |
-| [主题定义.info.yml](https://www.drupal.org/docs/8/theming-drupal-8/defining-a-theme-with-an-infoyml-file) | 详细介绍了主题定义文件的参数 |
 | [在主题中添加区域](https://www.drupal.org/docs/8/theming/adding-regions-to-a-theme) | 在 Drupal8 中如何声明一个区域，良好的布局架构是一个主题的基础 |
 | [Drupal 如何架构 CSS](https://www.drupal.org/docs/develop/standards/css/css-architecture-for-drupal-8) | 可以借鉴一下 Drupal 对应 Css 组件化开发的一些思路 |
 | [Seven UI 样式指南](https://groups.drupal.org/node/283223) | 详细介绍了内置主题 Seven 的 UI 指南 |
