@@ -145,6 +145,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Adminimal](https://www.drupal.org/project/adminimal_theme) | 该主题是 Drupal 最受欢迎的管理主题之一，UI 现代简约，响应式布局 | 177w+ |
 | [Material Admin](https://www.drupal.org/project/material_admin) | Material 风格的管理后台 | 7.3w+ |
 | [Belgrage](https://www.drupal.org/project/belgrade) | 电子商务主题，基于 Bootstrap Css 框架，查看 [Demo](https://drupal.org/project/commerce_demo) 演示 | 5k+ |
+| [Entity Theme Engine](https://www.drupal.org/project/entity_theme_engine) | 实体模板引擎，无需代码轻松套模板 | new |
 
 <h4 id="menu">菜单 Menu</h4>
 
