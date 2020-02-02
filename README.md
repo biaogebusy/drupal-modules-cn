@@ -379,6 +379,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [Angular jsonapi](https://github.com/jakubrohleder/angular-jsonapi) | Angular 应用中方便操作 jsonapi 数据的库 |
 | [Backbone jsonapi](https://github.com/guillaumervls/backbone-jsonapi) | 从 jsonapi 中获取模型和集合 |
 | [jsonapi libraries](https://jsonapi.org/implementations/#client-libraries-javascript) | 关于 jsonapi 相关的库 |
+| [JSON:API Explorer](https://explore.jsonapi.dev/)| json 交互式查询构建器 |
 
 欢迎关注微信公众号：Drupal每周推荐
 ![Drupal每周推荐微信公众号](https://github.com/biaogebusy/drupal-modules-cn/blob/master/qrcode.jpg)
