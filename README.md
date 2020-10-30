@@ -347,9 +347,10 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [ESLint settings](https://www.drupal.org/docs/develop/standards/javascript/eslint-settings) | ESLint 代码检查 |
 | [jQuery 编码规范](https://www.drupal.org/docs/develop/standards/javascript/jquery-coding-standards) | jQuery 编码规范和最佳实践 |
 | [谁使用了 Drupal？](https://www.drupal.com/showcases) | 官网收录的 Drupal 使用案例，包括了很多的世界顶级高校，如果你要向你的客户展示都有谁在使用，这个是一个不错的查询工具 |
-| [Using attributes in templates](https://www.drupal.org/docs/8/theming-drupal-8/using-attributes-in-templates) | 在 twig 模板中，使用 attributes 对象的方法去创建属性 | 
+| [Using attributes in templates](https://www.drupal.org/docs/8/theming-drupal-8/using-attributes-in-templates) | 在 twig 模板中，使用 attributes 对象的方法去创建属性 |
 | [JSON:API](https://www.drupal.org/docs/8/modules/jsonapi/jsonapi) | 在 Drupal 中启用 JSON:API ，讲述概念和如何使用 |
 | [Drupal 版本升级](https://www.drupal.org/docs/8/upgrade/upgrading-from-drupal-6-or-7-to-drupal-8) | 从 Drupal6 升级到 Drupal7，或者从 Drupal7 升级到 Drupal8 |
+| [JavaScript and Drupal 8 RESTful Web Services](https://www.drupal.org/docs/8/core/modules/rest/javascript-and-drupal-8-restful-web-services) | RESTful web services |
 
 #### Articles
 
@@ -373,7 +374,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | 项目名 | 项目简介 |
 | --- | --- |
 | [Contentacms](https://github.com/contentacms) | Contenta 是围绕 Drupal API-First 开发的应用 |
-|[docker4drupal](https://github.com/wodby/docker4drupal) | 针对 Drupal 优化的 Docker 镜像，支持 Linux, Mac, Windows 环境 |
+| [docker4drupal](https://github.com/wodby/docker4drupal) | 针对 Drupal 优化的 Docker 镜像，支持 Linux, Mac, Windows 环境 |
 | [React Drupal exaple](https://github.com/zivtech/react-drupal-example) | Drupal8 模块中使用 React 的一个例子 |
 | [mysql_best_configuration](https://github.com/jdaaaaaavid/mysql_best_configuration/blob/master/my.cnf) | Mysql 数据库配置优化 |
 | [Angular jsonapi](https://github.com/jakubrohleder/angular-jsonapi) | Angular 应用中方便操作 jsonapi 数据的库 |
