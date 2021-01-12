@@ -382,6 +382,10 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [jsonapi libraries](https://jsonapi.org/implementations/#client-libraries-javascript) | 关于 jsonapi 相关的库 |
 | [JSON:API Explorer](https://explore.jsonapi.dev/)| json 交互式查询构建器 |
 | [Public APIs](https://github.com/public-apis/public-apis) |  作者汇总了网上开放的 API 接口，8.2w |
+| [Drupal 每周推荐DEMO 小程序](https://github.com/biaogebusy/weixin-drupal) | Drupal提供的api, 使用微信原生小程序开发 |
 
 欢迎关注微信公众号：Drupal每周推荐
 ![Drupal每周推荐微信公众号](https://github.com/biaogebusy/drupal-modules-cn/blob/master/qrcode.jpg)
+
+#### Drupal 前端主题开发交流群
+进群请加微信说明：biaogebusy
