@@ -383,6 +383,7 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [JSON:API Explorer](https://explore.jsonapi.dev/)| json 交互式查询构建器 |
 | [Public APIs](https://github.com/public-apis/public-apis) |  作者汇总了网上开放的 API 接口，8.2w |
 | [Drupal 每周推荐DEMO 小程序](https://github.com/biaogebusy/weixin-drupal) | Drupal提供的api, 使用微信原生小程序开发 |
+| [信使](https://github.com/biaogebusy/xinshi-angular)| 远方信使是一个使用 Drupal 提供 API 的 Angular 前端开发学习框架，拥有丰富的前端组件，通过 Drupal Pannel 可快速构建 Landing 营销着陆页。|
 
 欢迎关注微信公众号：Drupal 自习室
 ![Drupal 自习室](https://github.com/biaogebusy/drupal-modules-cn/blob/master/qrcode.jpg)
