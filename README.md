@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="src/assets/storybook/assets/builder.png" alt="logo" width="80%"/>
+  <img src="./builder.png" alt="logo" width="80%"/>
   <br>
   <br>
 </p>
