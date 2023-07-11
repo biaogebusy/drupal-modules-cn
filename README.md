@@ -1,3 +1,35 @@
+<h1 align="center">信使 UI 框架</h1>
+
+<p align="center">
+  <img src="./logo-white.png" alt="logo" width="100px"/>
+  <br>
+  <i>信使 UI 是基于 Material 的 Angular 前端框架， 丰富的组件库可提供优秀的数字创新体验，<br>使用 Web Builder 可以通过拖拽快速构建响应式、多主题的 Web 页面。
+    </i>
+  <br>
+</p>
+
+<p align="center">
+  <a href="https://github.com/biaogebusy/xinshi-ui"><strong>https://github.com/biaogebusy/xinshi-ui</strong></a>
+  <br>
+</p>
+
+<p align="center">
+  <a href="https://www.zhaobg.com/builder">Web Builder</a>
+  ·
+  <a href="https://ui.zhaobg.com">UI Storybook</a>
+  ·
+  <a href="https://www.zhihu.com/people/biaogebusy">知乎</a>
+  <br>
+  <br>
+</p>
+
+<p align="center">
+  <img src="src/assets/storybook/assets/builder.png" alt="logo" width="80%"/>
+  <br>
+  <br>
+</p>
+
+> 奥陌陌是已知的第一颗经过太阳系的星际天体，意为"远方信使"。
 ## Drupal modules 中文
 Drupal 是一个强大的内容管理框架，即使没有编写任何代码的情况下，也可以配置构建出极富弹性且创造力的架站平台，这些都离不开社区提供的模块，多样化的模块组合使得网站有更多的想象空间。
 
@@ -383,10 +415,13 @@ Drupal 是一个强大的内容管理框架，即使没有编写任何代码的�
 | [JSON:API Explorer](https://explore.jsonapi.dev/)| json 交互式查询构建器 |
 | [Public APIs](https://github.com/public-apis/public-apis) |  作者汇总了网上开放的 API 接口，8.2w |
 | [Drupal 每周推荐DEMO 小程序](https://github.com/biaogebusy/weixin-drupal) | Drupal提供的api, 使用微信原生小程序开发 |
-| [信使](https://github.com/biaogebusy/xinshi-angular)| 远方信使是一个使用 Drupal 提供 API 的 Angular 前端开发学习框架，拥有丰富的前端组件，通过 Drupal Pannel 可快速构建 Landing 营销着陆页。|
+| [信使](https://github.com/biaogebusy/xinshi-ui)| 信使 UI 是基于 Material 的 Angular 前端框架， 丰富的组件库可提供优秀的数字创新体验，
+使用 Web Builder 可以通过拖拽快速构建响应式、多主题的 Web 页面。|
 
-欢迎关注微信公众号：Drupal 自习室
-![Drupal 自习室](https://github.com/biaogebusy/drupal-modules-cn/blob/master/qrcode.jpg)
+
+欢迎关注微信公众号：
+<br> Drupal每周推荐<br>
+<img src="./qrcode.jpg" width="100px" />
 
 #### Drupal 前端主题开发交流群
 进群请加微信说明：biaogebusy
